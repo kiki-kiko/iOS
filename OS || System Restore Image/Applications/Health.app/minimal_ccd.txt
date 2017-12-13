@@ -1,0 +1,6 @@
+This is a placeholder for minimal_ccd.xml to obtain a reasonable
+icon until the following issue is addressed:
+
+<rdar://problem/25179859> Document icon isn't right for XML documents that are not from Word
+
+When that radar is addressed this file will no longer be necessary.

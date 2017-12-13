@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAQAAAAAMGAAAAAAAPoAAAAAAAAB9BAAAAAAAALuEP6AAAAAA+gvczM
+	zQAAE4g/AAAAAAAD6QAAAAAAAAfRP4AAAAAAC7lF3eAAAAAPob3MzM0AABOJPwAAAAAA
+	A+o/gAAAAAAH0j+AAAAAAAu6RQ/AAAAAD6K9zMzNAAATij8AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1634758764</integer>
+	<key>name</key>
+	<string>sidetone_receiver_8000Hz</string>
+	<key>subtype</key>
+	<integer>1936286821</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

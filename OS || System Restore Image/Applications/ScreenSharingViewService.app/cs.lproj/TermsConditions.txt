@@ -1,0 +1,142 @@
+Technická podpora AppleCare
+
+Podmínky
+
+KONTAKTOVÁNÍM SPOLEČNOSTI APPLE OHLEDNĚ SLUŽEB PODPORY NABÍZENÝCH PODLE PLÁNU SLUŽEB UVEDENÉHO NÍŽE („PLÁN SLUŽEB“) NEBO REGISTROVÁNÍM PLÁNU SLUŽEB U SPOLEČNOSTI APPLE FYZICKÁ OSOBA NEBO SUBJEKT („ZÁKAZNÍK“) SOUHLASÍ S TÍM, ŽE SE DODÁVKA SLUŽEB PODPORY PODLE PŘÍSLUŠNÉHO PLÁNU SLUŽEB ŘÍDÍ NÁSLEDUJÍCÍMI PODMÍNKAMI („PODMÍNKY“). UPOZORŇUJEME VŠAK, ŽE SLUŽBY PODPORY, KTERÉ JSOU POSKYTOVÁNY JAKO POMOC V SOUVISLOSTI S VÝHODAMI, KTERÉ ZÁKAZNÍK ZÍSKAL PODLE JEDNOLETÉ OMEZENÉ ZÁRUKY SPOLEČNOSTI APPLE, PLÁNU APPLECARE+, PLÁNU APPLECARE PROTECTION NEBO PŘÍSLUŠNÉHO ZÁKONA O OCHRANĚ SPOTŘEBITELE, SE ŘÍDÍ PODMÍNKAMI PŘÍSLUŠNÉ ZÁRUKY, SMLOUVY O SLUŽBÁCH APPLECARE NEBO PŘEDPISY SPOTŘEBITELSKÝCH ZÁKONŮ. POKUD ZÁKAZNÍK VZHLEDEM K TĚMTO SLUŽBÁM PODPORY, KTERÉ SE ŘÍDÍ TĚMITO PODMÍNKAMI, NESOUHLASÍ S TĚMITO PODMÍNKAMI, NEMĚL BY SPOLEČNOST APPLE KONTAKTOVAT ANI SI REGISTROVAT PLÁN SLUŽEB. POKUD CHCE ZÁKAZNÍK ZRUŠIT ZAKOUPENÝ PLÁN SLUŽEB NEBO ZÍSKAT ZPĚT ZAPLACENOU PENĚŽITOU ČÁSTKU, MĚL BY SE OBRÁTIT NA SPOLEČNOST APPLE, JAK JE POPSÁNO NÍŽE. PLÁN SLUŽEB SE STANE ÚČINNÝM V OKAMŽIKU, KDY SPOLEČNOST APPLE OBDRŽÍ REGISTRACI ZÁKAZNÍKA („DATUM ÚČINNOSTI“).
+
+1.	Služby. Po přijetí registrace zákazníka bude společnost Apple poskytovat služby podpory („služby podpory“) k softwarovým produktům společnosti Apple nebo souvisejícím technologiím („podporované produkty“) pro příslušný plán služeb, a to vše dle popisu uvedeného na následujících webových stránkách: http://www.apple.com/legal/sales-support/applecare/actssgeos.html („stránka podpory plánu služeb“). Společnost Apple si vyhrazuje právo kdykoli změnit poskytované služby podpory nebo podporované produkty, na které se vztahuje plán služeb, a to oznámením aktualizací na stránce podpory plánu služeb. Společnost Apple nezmění služby podpory nebo podporované produkty způsobem, který (i) snižuje úroveň úsilí vynakládaného společností Apple v souvislosti se službami podpory, (ii) by měl zásadní dopad na povinnost společnosti Apple poskytovat služby podpory, (iii) by měl zásadní dopad na práva, která zákazník získává na základě služeb podpory. Společnost Apple upozorní zákazníka u všech aktualizací, které mají dopad na plán služeb zákazníka, na danou aktualizaci nejméně třicet (30) dnů před jejím zveřejněním, a to na adresu elektronické pošty zaregistrovanou zákazníkem. Podmínky popsané na stránce podpory plánu služeb budou tvořit součást těchto podmínek. V případě rozporů mezi podmínkami uvedenými v tomto dokumentu a podmínkami stránky podpory plánu služeb budou platit podmínky stránky podpory plánu služeb.
+
+2.	Omezení. 
+
+2.1	Incidenty podpory. Plány služeb jsou poskytovány formou balíčku jednotlivých, vícečetných nebo neomezených incidentů podpory. Incident podpory je specifický samostatný problém, jehož původ lze izolovat v rámci jedné příčiny. Společnost Apple vynaloží na vyřešení incidentu podpory přiměřené úsilí, avšak nezaručuje, že incidenty podpory budou vyřešeny. O tom, co představuje incident podpory, a v míře povolené zákonem o tom, zda je incident podpory vyřešen, rozhodne společnost Apple dle svého výhradního uvážení. Obecně je incident podpory vyřešen, když zákazník obdrží jedno z následujících: (a) informace, která problém vyřeší, (b) informace o tom, jak získat softwarové řešení, které problém vyřeší, (c) oznámení, že problém způsobil známý nevyřešený problém nebo problém s nekompatibilitou podporovaného produktu, (d) informace, které označují problém jako vyřešený prostřednictvím aktualizace na novější verzi podporovaného produktu, nebo (e) oznámení, že problém byl identifikován jako problém hardwarového vybavení. Podle plánu služeb s omezeným počtem incidentů podpory se při každém kontaktování zákazníkem kvůli novému incidentu podpory sníží zbývající počet incidentů podpory, na které má zákazník nárok.
+
+2.2	Doba odezvy. Společnost Apple vynaloží přiměřené úsilí, aby na žádost o službu podpory zareagovala v přiměřené době nebo ve lhůtě pro odezvu popsané v příslušném plánu službu („doba odezvy“) podle toho, která možnost nastane dříve, avšak nezaručuje, že tato odezva bude poskytnuta v konkrétní časové lhůtě. Všechny doby odezvy se měří v souladu s provozní dobou plánu služeb, která je uvedena na stránce podpory plánu služeb. 
+
+2.3	Aktuální verze. Není-li uvedeno jinak, musí být všechny podporované produkty na úrovni nejaktuálnější verze. 
+
+2.4	Použití. Služby podpory nejsou určeny k použití v rámci provozu jaderných zařízení, letecké navigace, komunikačních systémů, přístrojů pro kontrolu leteckého provozu nebo jiných činností, kde by případné nedosažení požadovaného výsledku služeb podpory mohlo vést k úmrtí, újmě na zdraví nebo závažné fyzické škodě nebo poškození životního prostředí.
+
+2.5	Kontaktní osoby pro technické záležitosti. Služby podpory jsou poskytovány jedné osobě nebo více osobám označeným zákazníkem při registraci a podle toho, jak umožňuje plán služeb („kontaktní osoba/osoby pro technické záležitosti“). Kontaktní osoby pro technické záležitosti jsou jediným spojením mezi zákazníkem a společností Apple ve vztahu k technické podpoře plánu služeb. Pokud chce zákazník u plánů služeb s více kontaktními osobami pro technické záležitosti tyto kontaktní osoby změnit, musí zaslat společnosti Apple nejméně pět (5) dnů předem písemné oznámení na příslušnou níže uvedenou kontaktní adresu pro vrácení peněžitých částek, nebo v případě, že se to týká plánu služeb, zadat tyto změny přímo prostřednictvím zabezpečených přizpůsobených webových stránek zákazníka tak, jak je popsáno v dokumentech s pokyny, které byly dodány na začátku plánu služeb.
+
+3.	Výjimky. Není-li v plánu služeb uvedeno jinak, společnost Apple nebude poskytovat služby podpory související s problémy nebo otázkami vyplývajícími z (a) používání podporovaného produktu jako serverové aplikace, (b) problémů, které by mohly být vyřešeny aktualizací podporovaného produktu, (c) použití nebo změny podporovaného produktu způsobem, pro který není podporovaný produkt určen, (d) produktů nebo technologií třetích osob a jejich vlivů na podporovaný produkt nebo součinnost s ním, (e) poškození nosiče, na kterém je podporovaný produkt dodáván, nebo počítače, na kterém je podporovaný produkt nainstalován, (f) použití počítačového systému, který je nekompatibilní s podporovaným produktem, a (g) problémů souvisejících s internetem, e-mailem, správou souborů, konfigurací sítě, skriptováním, skriptováním FX, programováním, kompilováním, odstraňováním chyb, řešením infrastruktury, vytvářením obsahu, přizpůsobováním obsahu, plánováním/navrhováním multimediálních projektů, správou zdrojů, rozpočtem, školením, diagnostikou na pracovišti nebo jinými problémy, které nespadají do služeb podpory popsaných v rámci plánu služeb.
+
+4.	Povinnosti zákazníka. Aby mohl zákazník získat služby podpory, musí se zaregistrovat do plánu služeb a dodržovat přístupové pokyny poskytnuté společností Apple. Zákazník je povinen uhradit všechny poplatky za zavedení a udržování e-mailové a telefonické komunikace se společností Apple. Zákazník bude se společností Apple spolupracovat na nalezení služeb podpory tím, že poskytne společnosti Apple informace, které jí pomohou diagnostikovat problém. Zákazník je odpovědný za veškerou obnovu nebo rekonstrukci ztracených nebo změněných souborů, dat či programů. Zákazník bude udržovat a provádět kompletní zálohování dat a plán obnovy po havárii. Zákazník je výhradně odpovědný za zabezpečení všech svých důvěrných, majetkových nebo utajovaných informací. Zákazník neposkytne společnosti Apple žádné důvěrné, majetkové ani jiné informace, na které se vztahují práva duševního vlastnictví, která by mohla společnost Apple vystavit jakékoli odpovědnosti. Zákazník bude mít přiměřené znalosti o podporovaných produktech, pro něž požaduje službu podpory, a o počítačovém systému, v němž tato služba pracuje. Zákazník nesmí služby podpory převést na třetí osobu. Služby podpory jsou poskytovány pouze pro vnitřní použití zákazníka a jakékoli neoprávněné šíření služeb podpory bude důvodem k okamžitému ukončení těchto podmínek. Zákazník přijme přiměřená opatření k tomu, aby zabránil neoprávněnému šíření a používání služeb podpory. Zákazník nebude zneužívat přijatých nebo používaných služeb podpory, mimo jiné včetně přístupu ke službám podpory kvůli problémům, které již byly vyřešeny. 
+
+5.	Služby podpory se vzdáleným přístupem. Společnost Apple může jako součást plánu služeb poskytovat služby podpory prostřednictvím vzdáleného internetového přístupu, jehož prostřednictvím získá přístup k informacím v počítači zákazníka a - pokud s tím bude zákazník souhlasit - bude tyto informace kontrolovat a shromažďovat prostřednictvím instalace a použití softwaru pro vzdálený přístup. Instalace a použití softwaru pro vzdálený přístup ze strany zákazníka představuje jeho povolení k tomu, aby společnost Apple poskytovala služby podpory tímto způsobem. Po dokončení relace služby podpory mohou všechny soubory softwaru pro vzdálený přístup nebo jejich část zůstat v počítači zákazníka. Vlastnické právo na software pro vzdálený přístup a všechna práva duševního vlastnictví na tento software zůstávají společnosti Apple Inc. nebo jeho poskytovatelům licence. Na použití softwaru pro vzdálený přístup se mohou vztahovat další licenční podmínky, které jsou k dispozici na http://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf. Zákazník nesmí provádět dekompilaci ani zpětnou analýzu žádné části softwaru pro vzdálený přístup. V rámci poskytování služeb podpory se vzdáleným přístupem bude mít společnost Apple přístup a bude kontrolovat a shromažďovat ve vašem počítači pouze ty informace, o kterých se domnívá, že jsou nezbytně nutné pro analýzu a jako pomůcka při řešení incidentu podpory. Společnost Apple doporučuje, aby zákazník zavřel všechny soubory a aplikace, které s incidentem podpory nesouvisejí. Software pro vzdálený přístup nebo funkce zákazníkova počítače umožní zákazníkovi relaci služeb podpory se vzdáleným přístupem kdykoli ukončit.
+
+Důležité – Pokud uživatel během relace zobrazí určité obrázky, společnost Apple to může být ze zákona či s ohledem na platné zásady povinna ohlásit orgánům prosazování práva.
+
+6.	Omezení záruky. I KDYŽ SPOLEČNOST APPLE NEMŮŽE ZARUČIT, ŽE INCIDENT PODPORY BUDE VYŘEŠEN, VYNALOŽÍ PŘIMĚŘENÉ ÚSILÍ, ABY POSKYTLA SLUŽBY PODPORY PODLE PLÁNU SLUŽEB ODBORNÝM ZPŮSOBEM. V ROZSAHU POVOLENÉM ZÁKONEM JSOU ZDE UVEDENÁ VÝSLOVNÁ ZÁRUKA A OPRAVNÉ PROSTŘEDKY VÝLUČNÉ A NAHRAZUJÍ VŠECHNY OSTATNÍ ÚSTNÍ ČI PÍSEMNÉ, ZÁKONNÉ, VÝSLOVNÉ NEBO PŘEDPOKLÁDANÉ ZÁRUKY, OPRAVNÉ PROSTŘEDKY A PODMÍNKY. V ROZSAHU POVOLENÉM PŘÍSLUŠNÝMI ZÁKONY SPOLEČNOST APPLE A JEJÍ POSKYTOVATELÉ LICENCE KONKRÉTNĚ ODMÍTAJÍ VŠECHNY ZÁKONNÉ NEBO PŘEDPOKLÁDANÉ ZÁRUKY JAKKOLI SOUVISEJÍCÍ S TĚMITO PODMÍNKAMI NEBO Z NICH VYPLÝVAJÍCÍ, A TO VČETNĚ PŘEDPOKLÁDANÉ ZÁRUKY NEBO ZÁRUKY OBCHODOVATELNOSTI NEBO VHODNOSTI PRO URČITÝ ÚČEL.
+
+7.	Omezení odpovědnosti. ODPOVĚDNOST SPOLEČNOSTI APPLE A JEJÍCH POSKYTOVATELŮ LICENCE VYPLÝVAJÍCÍ Z TĚCHTO PODMÍNEK JE V ROZSAHU POVOLENÉM ZÁKONEM OMEZENA ČÁSTKOU, KTEROU ZÁKAZNÍK ZAPLATIL ZA PLÁN SLUŽEB, KTERÝ SI OBJEDNAL. SPOLEČNOST APPLE A JEJÍ POSKYTOVATELÉ LICENCE NEBUDOU V ŽÁDNÉM PŘÍPADĚ ODPOVĚDNÍ ZA JAKÉKOLI NEPŘÍMÉ, ZVLÁŠTNÍ, NÁHODNÉ NEBO NÁSLEDNÉ ŠKODY, MIMO JINÉ VČETNĚ ŠKOD SOUVISEJÍCÍCH SE ZTRÁTOU ZISKU, ZTRÁTOU DAT, ZTRÁTOU POUŽITÍ NEBO VYBAVENÍ ČI ZAŘÍZENÍ NEBO S PŘERUŠENÍM PODNIKÁNÍ, KTERÉ JAKÝMIKOLI ZPŮSOBEM VYPLÝVAJÍ Z TĚCHTO PODMÍNEK PODLE JAKÉKOLI TEORIE ODPOVĚDNOSTI, A TO BEZ OHLEDU NA TO, ZDA SPOLEČNOST APPLE A JEJÍ POSKYTOVATELÉ LICENCE BYLI ČI NEBYLI NA MOŽNOST TÉTO ŠKODY UPOZORNĚNÍ. DALŠÍ ODMÍTNUTÍ ODPOVĚDNOSTI MOHOU BÝT OBSAŽENA V LICENČNÍCH PODMÍNKÁCH VZTAHUJÍCÍCH SE NA SOFTWARE PRO VZDÁLENÝ PŘÍSTUP NA http://www.apple.com/legal/sales-support/remote-support/. POKUD SE NA ZÁKAZNÍKA VZTAHUJÍ ZÁKONY O OCHRANĚ SPOTŘEBITELE NEBO PŘEDPISY PLATNÉ V ZEMI NÁKUPU NEBO V ZEMI JEHO BYDLIŠTĚ, POKUD JDE O JINOU ZEMI, VÝHODY POSKYTOVANÉ TĚMITO PODMÍNKAMI DOPLŇUJÍ VŠECHNA PRÁVA A OPRAVNÉ PROSTŘEDKY POSKYTOVANÉ TĚMITO ZÁKONY A PŘEDPISY NA OCHRANU SPOTŘEBITELE. NĚKTERÉ ZEMĚ, STÁTY A PROVINCIE NEUMOŽŇUJÍ VYLOUČENÍ NEBO OMEZENÍ NÁHODNÝCH NEBO NÁSLEDNÝCH ŠKOD NEBO VYLOUČENÍ ČI OMEZENÍ PŘEDPOKLÁDANÝCH ZÁRUK NEBO PODMÍNEK, TAKŽE TATO OMEZENÍ NEBO VYLOUČENÍ SE NA ZÁKAZNÍKA NEMUSÍ VZTAHOVAT. TYTO PODMÍNKY POSKYTUJÍ ZÁKAZNÍKOVI SPECIFICKÁ ZÁKONNÁ PRÁVA A ZÁKAZNÍK MŮŽE MÍT TAKÉ DALŠÍ PRÁVA, KTERÁ SE LIŠÍ PODLE ZEMĚ, STÁTU NEBO PROVINCIE.
+
+8.	Doba platnosti a ukončení. Pokud nebude plán služeb ukončen dříve v souladu s tímto bodem, bude trvat po dobu dvanácti (12) měsíců od data účinnosti nebo do vyčerpání všech incidentů podpory podle toho, která možnost nastane dříve (pokud společnost Apple neschválí písemně něco jiného). Společnost Apple nebude poskytovat služby podpory po ukončení plánu služeb, pokud plán služeb k datu jeho ukončení nebo před tímto datem neprodloužíte. Společnost Apple může plán služeb kdykoli ukončit, (a)  pokud zákazník nezaplatí příslušné poplatky splatné za plán služeb poté, co obdržel upozornění ve lhůtě nejméně patnácti (15) dnů předem, nebo (b) pokud zákazník nenapraví porušení těchto podmínek poté, co obdržel upozornění ve lhůtě nejméně třiceti (30) dnů předem, nebo (c) pokud zákazník porušil podmínky softwarové licenční smlouvy upravující použití softwaru podle plánu služeb. Nestanoví-li zákon jinak a pokud zákazník neobdržel žádné služby podpory, může zrušit plán služeb z libovolného důvodu do třiceti (30) dnů od data zakoupení plánu služeb nebo data účinnosti podle toho, která možnost nastala později, a budou mu vráceny všechny uhrazené peněžité částky. Žádosti o vrácení peněz musí být zaslány písemně spolu s příslušným dokladem o nákupu, a to na níže uvedenou kontaktní adresu pro vrácení peněžitých částek. Body 6, 7,  a 12 zůstávají v platnosti i po ukončení těchto podmínek z libovolného důvodu.
+
+9.	Společnost Apple; rozhodné právo. „Společnost Apple“ je v níže uvedené tabulce označena podle země bydliště zákazníka. BYLO DOHODNUTO, ŽE TYTO PODMÍNKY SE ŘÍDÍ ZÁKONY ZEMĚ, VE KTERÉ PROBĚHL NÁKUP, NEBO V ZEMI BYDLIŠTĚ, POKUD JE ODLIŠNÁ, A JURISDIKCE NAD TĚMITO ZÁLEŽITOSTMI BUDE PŘÍSLUŠET SOUDŮM PŘÍSLUŠNÝCH ZEMÍ. 
+
+10.	Další služby nebo software. Případné další služby poskytované jako součást plánu služeb se budou řídit těmito podmínkami. Pokud jsou služby podpory poskytovány v místě pobytu zákazníka jako součást plánu služeb, zajistí zákazník, aby společnost Apple měla v dohodnutém čase přístup k danému místu, a zajistí bezpečné pracovní prostředí, které bude pro společnost Apple postačující k poskytování služeb podpory. Pokud je jako součást plánu podpory poskytován software, představuje tento software dílo společnosti Apple Inc. nebo jejích poskytovatelů licence chráněné autorskými právy. Zákazník může instalovat, reprodukovat a používat software výhradně pro účely podpory podporovaných produktů, avšak (s výjimkou případů, kde to povolují příslušné zákony) nesmí provádět dekompilaci, zpětnou analýzu, změny, pronájem, nájem, půjčování ani vytvářet ze softwaru odvozená díla. Pokud se na software vztahují podmínky samostatné licenční smlouvy, budou použití softwaru upravovat podmínky této samostatné licenční smlouvy. Veškerý software poskytovaný vládě Spojených států podle těchto podmínek je zařazen jako „počítačový software s omezenými právy“, jak je definován v bodě 52.227-19 dokumentu FAR. Práva vlády Spojených státu na software se řídí ustanoveními bodu 52.227-19 dokumentu FAR.
+
+11.	Ochrana údajů. Zákazník souhlasí a je srozuměn s tím, že pro společnost Apple je nezbytné shromažďovat, zpracovávat a používat údaje o zákaznících tak, aby mohla poskytovat služby a povinnosti v oblasti podpory podle plánu služeb. To může zahrnovat přenos údajů o zákaznících do přidružených společností nebo poskytovatelům služeb v souladu s podmínkami zásad společnosti Apple pro ochranu soukromých údajů (http://www.apple.com/legal/warranty/privacy). Společnost Apple bude ochraňovat informace o zákazníkovi v souladu se zásadami společnosti Apple pro ochranu soukromých údajů. Pokud chce zákazník získat přístup k informacím, které o něm má společnost Apple, nebo pokud v nich chce zákazník provést nějaké změny, může aktualizovat své osobní kontaktní údaje na webových stránkách pro aktualizaci soukromých údajů (http://www.apple.com/contact/myinfo). Společnost Apple může zaznamenávat část hovorů nebo všechny hovory mezi zákazníkem a společností Apple pro účely školení, zajištění kvality a referencí.
+
+12.	Všeobecná ustanovení. Zákazník nesmí postoupit svá práva ani povinnosti vyplývající z plánu služeb. Případné neoprávněné postoupení bude neplatné. Společnost Apple nebude odpovědná za prodlení při plnění nebo za neplnění z důvodů, které jsou mimo její přiměřenou kontrolu. Prominutí případného porušení nebo neplnění podle těchto podmínek nebude představovat prominutí případného následného porušení nebo neplnění. Pokud bude mít soud příslušné jurisdikce za to, že některé ustanovení těchto podmínek je neplatné nebo nevymahatelné, zbývající části zůstanou platné a účinné v plném rozsahu a smluvní strany nahradí neplatné nebo nevymahatelné ustanovení platným nebo vymahatelným ustanovením, které naplňuje původní záměr smluvních stran a ekonomický dopad podmínek. Tyto podmínky včetně případných dalších podmínek, které jsou zde uvedeny, představují celou smlouvu mezi společností Apple a zákazníkem v souvislosti s plánem služeb a službami podpory poskytovanými podle těchto podmínek a nahrazují všechna předchozí ujednání, smlouvy a dohody týkající se předmětné záležitosti a případná doplnění nebo škrty nebo změny ustanovení těchto podmínek nebudou pro společnost Apple závazné, pokud nebudou provedeny písemně a podepsány oprávněným zástupcem společnosti Apple. Zákazníkem předložená podmínka nebo příkaz či jiný dokument nebudou platné ani účinné a jsou výslovně odmítnuty. 
+
+ODCHYLKY V JEDNOTLIVÝCH ZEMÍCH
+
+Následující odchylky v jednotlivých zemích budou mít přednost v případě, že budou v rozporu s ostatními ustanoveními tohoto plánu:
+
+AUSTRÁLIE
+Práva popsaná v těchto podmínkách v souvislosti s vrácením zboží, vrácením peněz a zárukami platí navíc nad rámec zákonných práv, na která můžete mít nárok podle zákona o ochraně spotřebitele a hospodářské soutěže z roku 2010 a dalších platných australských zákonů a předpisů o ochraně spotřebitelů.
+
+BELGIE
+Zákazník bere na vědomí, že kontaktováním společnosti Apple ohledně služeb podpory neuplatňuje žádné právo týkající se dříve uzavřených smluv o prodeji ve smyslu článku 94 ter. zákona o obchodních postupech ze 14. července 1991.
+
+NĚMECKO
+Bod 7. Omezení odpovědnosti. Pokud jde o zákazníky, kteří jsou spotřebiteli, platí následující: společnost Apple bude odpovědná za ztráty vyplývající z podmínek plánu služeb pouze v souladu s následujícími ustanoveními: (i) neomezená odpovědnost za ztráty způsobené úmyslně nebo v důsledku hrubé nedbalosti, (ii) neomezená odpovědnost za úmrtí, osobní zranění nebo újmu na zdraví způsobenou úmyslně nebo v důsledku hrubé nedbalosti, (iii) za ztráty vyplývající z absence zaručených charakteristik do výše částky pokrývající účel záruky a takové, které mohla společnost v době poskytnutí záruky předvídat, (iv) v souladu se zákonem o odpovědnosti výrobce za škody způsobené výrobkem v případě odpovědnosti výrobce za škody způsobené výrobkem, nebo (v) za ztráty způsobené porušením základních povinností společnosti Apple, které tvoří podstatu plánu služeb a které byly rozhodující pro uzavření plánu služeb a ze kterých může zákazník vycházet. Širší odpovědnost společnosti Apple je podle hmotného práva vyloučena.
+
+ITÁLIE
+Bod 4. Povinnosti zákazníka. K bodu 4 je přidán následující text:
+
+Náklady na e-mailovou a telefonickou komunikaci jsou náklady uplatňované poskytovatelem telefonických/internetových služeb.
+
+NORSKO
+Bod 8. Doba platnosti a ukončení: K bodu 8 je přidán následující text: 
+
+Pokud jste zákazník, upozorňujeme, že v bodě 8, Doba platnosti a ukončení, je zohledněno vaše právo na lítost podle norského zákona o právu litovat prodeje (zákon  č. 105 z 21. prosince 2000). 
+
+ŠVÉDSKO
+Bod 1. Služby. K bodu 1 je přidán následující text:
+
+Pokud jsou změny provedené ve službách podpory pro zákazníka zásadním způsobem nevýhodné, má zákazník právo plán služeb ukončit v souladu s ustanoveními bodu 8 níže.
+
+Bod 8. Doba platnosti a ukončení. Za větu „Nestanoví-li zákon jinak a pokud zákazník neobdržel žádné služby podpory, může zákazník zrušit plán služeb z libovolného důvodu do třiceti (30) dnů od data zakoupení plánu služeb nebo data účinnosti podle toho, která možnost nastala později, a budou mu vráceny všechny uhrazené peněžité částky.“ je přidána věta „Pokud společnost Apple provede změny služeb podpory, které jsou pro zákazníka zásadním způsobem nevýhodné, například zrušení služeb podpory souvisejících s produktem zákazníka, bude mít zákazník právo plán služeb ukončit a získat zpět částku odpovídající zbývající době platnosti plánu služeb“.
+
+Oblast/země nákupu
+Apple
+Adresa
+Amerika
+
+
+Brazílie
+Apple Computer Brasil Ltda
+Rua: Leopoldo Couto Magalhães Júnior, nº 700, 7º andar, São Paulo, SP, Brasil 
+04542-000
+SAC: 0800-761-0880
+http://www.apple.com/br/support
+Kanada
+Apple Canada Inc.
+7495 Birchmount Rd.; Markham, Ontario, Canada; L3R 5G2 Canada
+Mexiko
+Apple Operations Mexico, S.A. de C.V.
+Prolongación Paseo de la Reforma #600, Suite 132, Colonia Peña Blanca, Santa Fé, Delegación Álvaro Obregón, México D. F., CP 01210, Mexico
+Spojené státy americké a další americké země
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, U.S.A.
+Evropa, Střední východ a Afrika
+
+
+Ruská federace
+Limited Liability Company Apple Rus
+5 Petrovka Street, Berlin House Business Center, 107031, Moscow, Russian Federation
+Turecko
+Apple Teknoloji ve Satış Limited Şirketi
+FSM Mahallesi Poligon Caddesi Buyaka 2 Sitesi No:8, Blok No.2 (C Blok) Kat:18 34471 Ümraniye İstanbul, Turkey
+Všechny ostatní země
+Apple Distribution International
+Hollyhill Industrial Estate Hollyhill, Cork, Republic of Ireland
+Asie a Tichomoří
+
+
+Austrálie, Nový Zéland, Fidži, Papua Nová Guinea, Vanuatu
+Apple Pty. Limited.
+PO Box A2629, Sydney South, NSW 1235, Australia Tel: 133 622
+Hongkong
+Apple Asia Limited
+2401 Tower One, Times Square, Causeway Bay; Hong Kong
+Indie
+Apple India Private Ltd..
+19th Floor, Concorde Tower C, UB City No 24, Vittal Mallya Road, Bangalore 560-001, India
+Japonsko
+Apple Japan Inc.
+6-10-1 Roppongi, Minato-ku Tokyo 106-6140, Japan
+Korea
+Apple Korea Ltd.
+3901, ASEM Tower; 159, Samsung-dong, Gangnam-Gu; Seoul 135-798, Republic of Korea
+Afghánistán, Bangladéš, Bhútán, Brunej, Kambodža, Guam, Indonésie, Laos, Singapur, Malajsie, Nepál, Pákistán, Filipíny, Srí Lanka, Vietnam
+Apple South Asia Pte. Ltd.
+7 Ang Mo Kio Street 64
+Singapore 569086
+
+Čínská lidová republika
+Apple Computer Trading (Shanghai) Co. Ltd. 
+Units 610-13 on partial Floor 6, HSBC Building (i.e., Tower A), Shanghai ifc, 8 Century Avenue, Pudong New Area, Shanghai, China
+Thajsko
+Apple South Asia (Thailand) Limited
+44th Floor ,Room No. HH4401-6, The Offices at Central World, 999/9 Rama 1 Road , Pathumwan, Pathumwan, Bangkok 10330 Thailand
+Tchaj-wan
+Apple Asia LLC
+19F., No.1, Songzhi Rd., Xinyi Dist., Taipei City 110, Taiwan
+Ostatní země Asie a Tichomoří
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, U.S.A.
+
+071814 Tech Support Czech v1.8

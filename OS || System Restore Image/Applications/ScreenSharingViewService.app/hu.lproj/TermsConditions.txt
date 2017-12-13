@@ -1,0 +1,144 @@
+AppleCare Műszaki támogatás
+
+Szolgáltatási feltételek
+
+A MAGÁNSZEMÉLY VAGY AZ ENTITÁS („ÜGYFÉL”) AZ ALÁBBIAKBAN HIVATKOZOTT SZOLGÁLTATÁSI CSOMAG KERETÉN BELÜL BIZTOSÍTOTT TÁMOGATÁSI SZOLGÁLTATÁSOK IGÉNYBEVÉTELE, VAGY EGY SZOLGÁLTATÁSI CSOMAG APPLE-LEL TÖRTÉNŐ REGISZTRÁCIÓJA SORÁN AZ APPLE MEGKERESÉSÉVEL BELEEGYEZIK, HOGY A KÖVETKEZŐ FELTÉTELEK („SZOLGÁLTATÁSI FELTÉTELEK”) LEGYENEK IRÁNYADÓK A TÁMOGATÁSI SZOLGÁLTATÁSOK NYÚJTÁSÁRA A VONATKOZÓ SZOLGÁLTATÁSI CSOMAG ÉRTELMÉBEN. KÉRJÜK VEGYE FIGYELEMBE, HOGY AZOKRA A TÁMOGATÁSI SZOLGÁLTATÁSOKRA, AMELYEKET AZ APPLE AZ ÜGYFÉL SZÁMÁRA AZ APPLE EGYÉVES KORLÁTOZOTT GARANCIA, AZ APPLECARE+ SZOLGÁLTATÁS, AZ APPLECARE FOGYASZTÓVÉDELMI TERV VAGY A VONATKOZÓ FOGYASZTÓVÉDELMI TÖRVÉNY ÉRTELMÉBEN NYÚJT, AZ ADOTT GARANCIA, APPLECARE SZOLGÁLTATÁSI SZERZŐDÉS VAGY A FOGYASZTÓVÉDELMI TÖRVÉNY RENDELKEZÉSEI VONATKOZNAK.   A JELEN FELTÉTELEK HATÁLYA ALATT NYÚJTOTT TÁMOGATÁSI SZOLGÁLTATÁSOKRA VONATKOZÓAN, AMENNYIBEN AZ ÜGYFÉL NEM ÉRT EGYET EZEKKEL A FELTÉTELEKKEL, ÚGY NEM JAVASOLT FELVENNIE A KAPCSOLATOT AZ APPLE-LEL, ÉS A SZOLGÁLTATÁSI CSOMAGRA REGISZTRÁLNIA. A MEGVÁSÁROLT SZOLGÁLTATÁSI CSOMAG FELMONDÁSÁVAL ÉS AZ ESETLEGESEN KIFIZETETT ÖSSZEGEK VISSZATÉRÍTÉSÉVEL KAPCSOLATBAN AZ ÜGYFÉLNEK AZ APPLE-HÖZ KELL FORDULNIA AZ ALÁBBIAK SZERINT. A SZOLGÁLTATÁSI CSOMAG AKKOR LÉP HATÁLYBA, AMIKOR AZ APPLE ELFOGADJA AZ ÜGYFÉL REGISZTRÁCIÓJÁT („HATÁLYBA LÉPÉS IDŐPONTJA”).
+
+1.	Szolgáltatások. Az Ügyfél regisztrációjának elfogadásával az Apple  támogatási szolgáltatásokat („Támogatási szolgáltatások”) nyújt az Apple szoftverekhez és kapcsolódó technológiákhoz ("Támogatott termékek") a vonatkozó Szolgáltatási Csomag szerint, mindezt a következő internetes oldalon leírtak szerint: http://www.apple.com/legal/sales-support/applecare/actssgeos.html („Szolgáltatási Csomag támogatási oldal”). Az Apple fenntartja a jogot a Szolgáltatási Csomag keretében biztosított Támogatási szolgáltatások és/vagy Támogatott termékek módosítására bármikor, a frissítéseknek a Szolgáltatási Csomag támogatási oldalon történő közzétételével. Az Apple nem módosítja a Támogatási szolgáltatásokat és/vagy a Támogatott termékeket olyan módon, hogy (i) azzal csökkentse az Apple által nyújtott Támogatási szolgáltatások színvonalát, vagy (ii) az jelentősen befolyásolja az Apple Támogatási szolgáltatások nyújtására vonatkozó kötelességét vagy (iii) az jelentősen befolyásolja azokat a jogokat, amelyek az Ügyfelet megilletik a Támogatási szolgáltatások keretében. Az Ügyfél Szolgáltatási Csomagját befolyásoló frissítések esetén az Apple értesíti az Ügyfelet a frissítésről az Ügyfél által regisztrált e-mail címen legalább 30 nappal a bejelentés előtt. A Szolgáltatási Csomag támogatási oldalán részletezett feltételek a jelen Feltételek részét képezik. Ha eltérés mutatkozik a jelen dokumentumban szereplő feltételek és a Szolgáltatási Csomag támogatási oldalán részletezett feltételek között, akkor a Szolgáltatási Csomag támogatási oldalán részletezett feltételek az irányadók.
+
+2.	Korlátozások. 
+
+2.1	Támogatási ügyek. A Szolgáltatási Csomagokat egyszeri, többszörös vagy korlátlan Támogatási ügycsomagok formájában biztosítjuk. A Támogatási ügy egy konkrét, diszkrét probléma, amelynek eredete egyetlen okra vezethető vissza. Az Apple mindent megtesz a Támogatási ügy megoldása érdekében, de a megoldást nem garantálja. Az Apple saját belátása szerint határozza meg, hogy mi jelent Támogatási ügyet, illetve a törvény által megengedett mértékig azt, hogy a Támogatási ügy megoldottnak tekinthető-e. Általánosságban egy Támogatási ügy akkor tekinthető megoldottnak, ha az Ügyfél a következők egyikét megkapja: (a) olyan információt, amely megoldja a problémát; (b) információt arról, hogy hogyan szerezhető be egy, a problémát megoldó szoftveres megoldás; (c) értesítést arról, hogy a problémát egy ismert, megoldatlan probléma, vagy egy Támogatott termékkel kapcsolatos inkompatibilitási probléma okozza; (d) olyan információt, amely a problémát a Támogatott termék egy újabb kiadására való frissítéssel megoldottnak tekinti vagy (e) értesítést arról, hogy a probléma okaként hardverberendezéssel kapcsolatos hibát azonosítottak. Korlátozott számú Támogatási üggyel rendelkező Szolgáltatási Csomag esetén az Ügyfél általi, új Támogatási ügyre vonatkozó minden egyes kapcsolatfelvétel csökkenti a hátralévő Támogatási ügyek számát.
+
+2.2	Reagálási idők. Az Apple minden elvárhatót megtesz azért, hogy a Támogatási szolgáltatási igényre elfogadható időn belül, illetve a vonatkozó Szolgáltatási Csomagban meghatározott reagálási időn („Reagálási idő”) belül reagáljon, amelyik előbb megtörténik, de választ nem garantál semmilyen konkrét határidőn belül. A reagálási időt a Szolgáltatási Csomag támogatási oldalán leírt, a Szolgáltatási csomagra vonatkozó szolgáltatási időnek megfelelően mérjük. 
+
+2.3	Legfrissebb kiadás. Eltérő rendelkezés hiányában, az összes Támogatott terméknek a legfrissebb kiadási szintűnek kell lennie. 
+
+2.4	Használat. A Támogatási szolgáltatások nem használhatók nukleáris létesítmények üzemeltetésére, légijárművek navigációjához, kommunikációs rendszerekben, légiirányító berendezésekben, vagy más olyan alkalmazásban, ahol a Támogatási szolgáltatás sikertelensége a kívánt eredmény elérésében halálhoz, személyi sérüléshez vagy súlyos fizikai vagy környezeti károkhoz vezethet.
+
+2.5	Műszaki kapcsolattartók. A Támogatási szolgáltatásokat a regisztráció során az Ügyfél által megadott személy vagy személyek számára nyújtjuk, a Szolgáltatási Csomag hatálya alatt („Műszaki kapcsolattartó(k)”). A Műszaki kapcsolattartók jelentik az egyedüli kapcsolattartási lehetőséget az Ügyfél és az Apple között a Szolgáltatási Csomag műszaki támogatása tekintetében. A több Műszaki kapcsolattartóval rendelkező Szolgáltatási Csomagok esetén, ha az Ügyfél szeretné módosítani a Műszaki kapcsolattartók személyét, az Ügyfélnek legfeljebb öt (5) napos határidővel értesítenie kell az Apple-t a vonatkozó, alább leírt Visszatérítési kapcsolattartási címen, vagy ha a Szolgáltatási Csomagban ez alkalmazható, a változtatásokat közvetlenül az Ügyfél biztonságos, testreszabott webhelyén kell beírnia a Szolgáltatási Csomag indulásakor átadott útmutató dokumentumokban leírtak szerint.
+
+3.	Kizárások. Hacsak a Szolgáltatási Csomagban másképp nem rendelkeznek, az Apple nem nyújt Támogatási szolgáltatásokat olyan problémákra, amelyek a következőkből erednek: (a) a Támogatott termék használata szerveralapú alkalmazásként; (b) olyan problémák, amelyek egy Támogatott termék frissítésével megoldhatók; (c) egy Támogatott termék nem rendeltetésszerűen történő használata vagy módosítása; (d) harmadik fél által gyártott termékek vagy technológiák, és hatásuk vagy kölcsönhatásuk egy Támogatott termékkel; (e) azon adathordozó sérülése, amelyen a Támogatott termék átadásra került, illetve azon számítógép sérülése, amelyre a Támogatott termék telepítve lett; (f) olyan számítógépes rendszer használata, amely nem kompatibilis egy Támogatott termékkel és (g) problémák az internettel, e-maillel, fájlkezeléssel, hálózati konfigurációval, szkripteléssel, FX szkripteléssel, programozással, programfelépítéssel, infrastruktúra-kialakítással, tartalom-létrehozással, tartalom-testreszabással, multimédiás projekttervezéssel, erőforrás-kezeléssel, költségvetés-tervezéssel, oktatással, helyszíni diagnosztikával, vagy egyéb olyan problémával kapcsolatosan, amelyek nem tartoznak a Szolgáltatási Csomag részét képező Támogatási szolgáltatások körébe.
+
+4.	Az Ügyfél kötelességei. Támogatási szolgáltatások igénybe vételéhez az Ügyfélnek regisztrálnia kell a Szolgáltatási Csomagot, és követnie kell az Apple által biztosított hozzáférési utasításokat. Az Ügyfél kötelessége fizetni az Apple-lel való e-mailes és telefonos kommunikáció létrehozásának és fenntartásának összes díját. Az Ügyfél együttműködik az Apple-lel a Támogatási szolgáltatások igénybevétele során, és biztosítja azokat az információkat, amelyek segítenek az Apple-nek a hiba diagnosztizálásában. Az Ügyfél felelős az esetlegesen elveszett, módosult fájlok, adatok vagy programok helyreállításáért vagy rekonstrukciójáért. Az Ügyfél teljes körű adatmentési és katasztrófa-helyreállítási tervet köteles készíteni és megvalósítani. Az Ügyfél saját maga felel a bizalmas, belső vagy titkos információinak biztonságáért. Az Ügyfél nem ad át az Apple-nek bizalmas, belső vagy más olyan információt, amely olyan szellemi tulajdonjogok hatálya alá esik, amelyek az Apple-t felelőssé tehetnék. Az Ügyfél megfelelő mértékben ismeri azokat a Támogatott termékeket, amelyekhez Támogatási szolgáltatásokat vesz igénybe, illetve azt a számítógépes rendszert, amelyen ezek működnek. Az Ügyfél nem ruházhatja át a Támogatási szolgáltatásokat harmadik fél részére. A Támogatási szolgáltatásokat kizárólag az Ügyfél belső használatára nyújtjuk, és a Támogatási szolgáltatások illetéktelen terjesztése a jelen Feltételek azonnali érvénytelenné válását eredményezi. Az Ügyfél minden elvárhatót megtesz annak érdekében, hogy a Támogatási szolgáltatások illetéktelen terjesztését megakadályozza. Az Ügyfél nem használja illetéktelen célokra a Támogatási szolgáltatást, beleértve, de nem kizárólagosan, a Támogatási szolgáltatás elérését már megoldott problémákkal kapcsolatban. 
+
+5.	Távoli hozzáférésű Támogatási szolgáltatások. A Szolgáltatási Csomag részeként az Apple Támogatási szolgáltatásokat nyújthat internetes távoli hozzáféréssel, amellyel hozzáférnek és – ha az Ügyfél engedélyezi – ellenőrzik és összegyűjtik az információkat az Ügyfél számítógépéről a távoli hozzáférési szoftver telepítése és használata során. A távoli hozzáférési szoftver telepítésével és használatával az Ügyfél engedélyt ad az Apple számára a Támogatási szolgáltatások ilyen módon történő nyújtására. A távoli hozzáférési szoftverfájlok mindegyike vagy egy része az Ügyfél számítógépén maradhat a Támogatási szolgáltatási munkamenet befejezése után is. A távoli hozzáférési szoftver tulajdonjoga és az ahhoz kapcsolódó szellemi tulajdonjogok az Apple Inc. és/vagy licencbe adóinak tulajdonát képezik. A vonatkozó távoli hozzáférési szoftver használatára további licencfeltételek vonatkozhatnak, amelyek a http://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf oldalon érhetők el. Az Ügyfél nem bonthatja szét vagy cserélheti fel a távoli hozzáférési szoftver semmilyen részét. A távoli hozzáférésű Támogatási szolgáltatások nyújtása közben az Apple kizárólag olyan információkat ér el, ellenőriz és gyűjt össze az Ügyfél számítógépéről, amelyekkel kapcsolatban meggyőződése, hogy elemzésük szükséges, és segítséget nyújtanak a Támogatási ügy megoldásában. Az Apple javasolja, hogy az Ügyfél zárjon be minden olyan fájlt és alkalmazást, amely nem kapcsolódik a Támogatási ügyhöz. A távoli hozzáférési szoftver vagy az Ügyfél számítógépének funkciói lehetővé teszik az Ügyfél számára, hogy bármikor bezárja a távoli hozzáférésű Támogatási szolgáltatási munkamenetet.
+
+Fontos – az Apple vállalatot jogszabály és irányelv kötelezheti arra, hogy bizonyos, munkamenet során megtekintett képeket jelentsen a bűnüldözési szervek felé.
+
+6.	Garancia kizárása. BÁR AZ APPLE NEM GARANTÁLHATJA EGY ADOTT TÁMOGATÁSI ÜGY MEGOLDÁSÁT, AZ APPLE MINDEN ELVÁRHATÓT MEGTESZ A SZOLGÁLTATÁSI CSOMAG RÉSZEKÉNT A TÁMOGATÁSI SZOLGÁLTATÁSOK PROFESSZIONÁLIS MÓDON TÖRTÉNŐ NYÚJTÁSA ÉRDEKÉBEN. A TÖRVÉNY ÁLTAL ENGEDÉLYEZETT MÉRTÉKIG AZ ITT MEGHATÁROZOTT KIFEJEZETT GARANCIA ÉS JÓTÁLLÁS KIZÁRÓLAGOS, ÉS MINDEN MÁS, SZÓBELI, ÍRÁSBELI, TÖRVÉNY ÁLTAL SZABÁLYOZOTT, KIFEJEZETT VAGY VÉLELMEZETT GARANCIÁT, JÓTÁLLÁST ÉS FELTÉTELEKET HELYETTESÍT. A VONATKOZÓ TÖRVÉNYEK ÁLTAL MEGENGEDETT MÓDON AZ APPLE ÉS LICENCBE ADÓI KIFEJEZETTEN KIZÁRNAK MINDEN, TÖRVÉNY ÁLTAL SZABÁLYOZOTT VAGY VÉLELMEZETT GARANCIÁT, AMELYEK EZEN FELTÉTELEKKEL KAPCSOLATOSAK VAGY AZOKBÓL BÁRMILYEN MÓDON KÖVETKEZNEK, BELEÉRTVE BÁRMILYEN VÉLELMEZETT GARANCIÁT VAGY ÉRTÉKESÍTHETŐSÉGET VAGY EGY ADOTT CÉLRA VALÓ ALKALMASSÁGOT.
+
+7.	A felelősség korlátozása. A TÖRVÉNY ÁLTAL MEGENGEDETT MÉRTÉKIG AZ APPLE ÉS LICENCBE ADÓINAK FELELŐSSÉGE A JELEN FELTÉTELEK SZERINT AZ ÜGYFÉL ÁLTAL A MEGRENDELT SZOLGÁLTATÁSI CSOMAGÉRT FIZETETT ÖSSZEG EREJÉIG TERJED KI. AZ APPLE ÉS LICENCPARTNERE SEMMILYEN MÓDON NEM VÁLLAL FELELŐSSÉGET SEMMILYEN KÖZVETETT, SAJÁTOS, VÉLETLEN VAGY KÖVETKEZMÉNYI KÁROKÉRT, BELEÉRTVE, DE NEM KIZÁRÓLAGOSAN AZ ELMARADT HASZONBÓL, ADATVESZTÉSBŐL, BERENDEZÉSEK VAGY LÉTESÍTMÉNYEK HASZNÁLATÁNAK KIESÉSÉBŐL, AZ ÜZLETMENET MEGSZAKADÁSÁBÓL EREDŐ KÁROKAT, AMELYEK BÁRMILYEN MÓDON A JELEN FELTÉTELEK ALAPJÁN  ADÓDNAK BÁRMILYEN FELELŐSSÉGI ELKÉPZELÉS SZERINT, FÜGGETLENÜL ATTÓL, HOGY AZ APPLE ÉS LICENCPARTNERE TUDATÁBAN VOLT-E AZ ILYEN KÁROK KELETKEZÉSÉNEK LEHETŐSÉGÉVEL. A FELELŐSSÉG KIZÁRÁSÁRA VONATKOZÓ EGYÉB NYILATKOZATOK SZEREPELHETNEK A TÁVOLI HOZZÁFÉRÉSI SZOFTVERRE VONATKOZÓ LICENCFELTÉTELEKBEN, AMELYEK A http://www.apple.com/legal/sales-support/remote-support/. OLDALON ÉRHETŐK EL. HA AZ ÜGYFÉLRE A VÁSÁRLÁS ORSZÁGÁBAN, ILLETVE – HA EZ ELTÉRŐ – A LAKÓHELYE/SZÉKHELYE SZERINTI ORSZÁGBAN FOGYASZTÓVÉDELMI TÖRVÉNYEK VAGY JOGSZABÁLYOK VONATKOZNAK, A JELEN FELTÉTELEK ÁLTAL BIZTOSÍTOTT ELŐNYÖK KIEGÉSZÍTIK AZ ILYEN FOGYASZTÓVÉDELMI TÖRVÉNYEKBEN ÉS JOGSZABÁLYOKBAN MEGHATÁROZOTT JOGOKAT ÉS JOGORVOSLATOKAT. EGYES ORSZÁGOK, ÁLLAMOK ÉS TARTOMÁNYOK NEM ENGEDÉLYEZIK A VÉLETLEN VAGY KÖVETKEZMÉNYI KÁROK KIZÁRÁSÁT VAGY KORLÁTOZÁSÁT, VAGY A HALLGATÓLAGOS GARANCIÁK VAGY FELTÉTELEK KIZÁRÁSÁT VAGY KORLÁTOZÁSÁT, EZÉRT A FENTI KORLÁTOZÁSOK VAGY KIZÁRÁSOK NEM FELTÉTLENÜL VONATKOZNAK AZ ÜGYFÉLRE. A JELEN FELTÉTELEK KÜLÖNLEGES JOGOKAT BIZTOSÍTANAK AZ ÜGYFÉL SZÁMÁRA, ÉS AZ ÜGYFÉL TOVÁBBI, ORSZÁGONKÉNT, ÁLLAMONKÉNT VAGY TARTOMÁNYONKÉNT ELTÉRŐ JOGOKKAL IS RENDELKEZHET.
+
+8.	Időtartam és felmondás. Kivéve, ha a jelen pont szerint korábban felmondásra kerül, a Szolgáltatási Csomag érvényessége tizenkét (12) hónapig tart a Hatályba lépés időpontjától számítva, vagy amíg az összes Támogatási ügy felhasználásra nem kerül, amelyik előbb bekövetkezik (kivéve, ha az Apple írásban másképp nem rendelkezik). Az Apple nem biztosít Támogatási szolgáltatásokat a Szolgáltatási Csomag időtartamán túl, kivéve, ha a Szolgáltatási Csomagot a lejárati dátuma napján vagy az előtt megújítják. Az Apple a Szolgáltatási Csomagot bármikor felmondhatja (a) ha az Ügyfél a Szolgáltatási Csomag esedékes díját tizenöt (15) napos határidőt előíró, írásbeli figyelmeztetés ellenére sem egyenlíti ki, vagy (b) ha az Ügyfél nem szünteti meg a jelen Feltételek megsértését harminc (30) napos határidőt előíró, írásbeli figyelmeztetés ellenére sem, vagy (c) ha az Ügyfél megsérti a Szolgáltatási Csomag keretén belül biztosított szoftver használatára vonatkozó szoftver-licencszerződés feltételeinek bármelyikét. Kivéve, ha törvény másképp rendelkezik, feltéve, hogy az Ügyfél nem vett igénybe Támogatási szolgáltatást, az Ügyfél bármilyen indokkal felmondhat egy Szolgáltatási Csomagot a Szolgáltatási Csomag megvásárlásától vagy a hatályba lépésének napjától számított harminc (30) napon belül, amelyik későbbre esik, és az összes kifizetett összeg visszatérítésére jogosult. A visszatérítési igényeket írásban kell benyújtani a vásárlást igazoló bizonylattal együtt az alább feltüntetett Visszatérítési kapcsolatfelvételi címre. A 6., 7. és 12. pont a jelen feltételek bármilyen okból történő megszűnését követően is érvényben marad.
+
+9.	Apple; irányadó jog. Az „Apple” meghatározása az alábbi táblázatban található meg az Ügyfél tartózkodási országa szerint. A FELEK EGYETÉRTENEK ABBAN, HOGY A JELEN FELTÉTELEKRE A VÁSÁRLÁSI ORSZÁG, VAGY – HA ELTÉRŐ – A TARTÓZKODÁSI ORSZÁG SZERINTI TÖRVÉNYEK VONATKOZNAK, ÉS AZ ADOTT ORSZÁGOK BÍRÓSÁGAI RENDELKEZNEK ILLETÉKESSÉGGEL AZOK FELETT. 
+
+10.	További szolgáltatások vagy szoftverek. Bármilyen, a Szolgáltatási Csomag részét képező további szolgáltatásra a jelen Feltételek vonatkoznak. Abban az esetben, ha a Támogatási szolgáltatásokat a Szolgáltatási Csomag részeként az Ügyfél tartózkodási helyén nyújtják, az Ügyfél biztosítja, hogy az Apple hozzáférést kapjon a telephelyhez a megadott időben, és elegendően biztonságos munkakörnyezetet biztosít az Apple számára ahhoz, hogy a Támogatási szolgáltatásokat nyújtsa. Abban az esetben, ha szoftvert biztosítanak egy Szolgáltatási Csomag részeként, az ilyen szoftver az Apple Inc. és/vagy a licencpartner szerzői jogi tulajdona. Az Ügyfél kizárólag a Támogatott termékek támogatásának céljából telepítheti, reprodukálhatja és használhatja a szoftvert, azonban – kivéve, amennyire a törvény megengedi – nem fordíthatja vissza, fejtheti vissza, módosíthatja, adhatja bérbe, lízingbe vagy kölcsönbe a szoftvert, és nem hozhat létre belőle származékos műveket. Ha a szoftverre egy másik licencmegállapodás feltételei vonatkoznak, a másik licencmegállapodás feltételei lesznek irányadók a szoftver használatára vonatkozóan. Bármilyen szoftvernek az Egyesült Államok kormánya részére jelen Feltételekkel történő rendelkezésre bocsátása a „korlátozott számítógépes szoftver” kategóriába esik a FAR 52.227-19 pontjának definíciója szerint. Az Egyesült Államok kormányának a szoftverrel kapcsolatos jogait a FAR 52.227-19 pontja határozza meg.
+
+11.	Adatvédelem. Az Ügyfél beleegyezik és tisztában van vele, hogy az Apple-nek szükséges összegyűjtenie, feldolgoznia és használnia az Ügyfél adatait abból a célból, hogy a szolgáltatást nyújthassa és a kötelességeit elvégezhesse a Szolgáltatási Csomag keretén belül. Ez magában foglalhatja az Ügyfél adatainak társult vállalatoknak vagy szolgáltatóknak történő átadását az Apple Adatvédelmi irányelveinek feltételei szerint (http://www.apple.com/legal/warranty/privacy). Az Apple védi az Ügyfél adatait az Apple Adatvédelmi irányelveinek megfelelően. Ha az Ügyfél hozzáférést szeretne kapni azokhoz az információkhoz, amelyeket az Apple vele kapcsolatban tárol, vagy ha az Ügyfél bármilyen módosítást szeretne végezni, akkor az Ügyfél frissítheti a személyes elérhetőségi beállításokat a Személyes adatok frissítése weboldalon (http://www.apple.com/contact/myinfo). Az Apple rögzítheti az Ügyfél és az Apple között bonyolított hívásokat egészben vagy részben oktatási, minőségbiztosítási és referencia célokból.
+
+12.	Általános rendelkezések. Az Ügyfél nem ruházhatja át a Szolgáltatási Csomagra vonatkozó jogait vagy kötelességeit. Az illetéktelen átruházás érvénytelennek minősül. Az Apple nem vállal felelősséget az elvárható hatáskörén kívüli okok miatti késedelmes teljesítésért vagy a teljesítés elmaradásáért. A jelen Feltételek keretén belül történő szerződésszegés vagy hibás teljesítés feladása nem jelenti az esetleges következő szerződésszegések és hibás teljesítések feladását. Ha egy illetékes bíróság megállapítja, hogy a jelen Feltételek bármely rendelkezése érvénytelen vagy nem betartható, a feltételek többi része teljes mértékben hatályban marad, és a felek az érvénytelen vagy nem betartható rendelkezést egy érvényes és betartható rendelkezésre cserélik, amely a felek eredeti szándékának és a feltételek gazdasági hatásának megfelelő. A jelen Feltételek, a bennük hivatkozott bármely további feltételekkel együtt az Apple és az Ügyfél közötti teljes szerződést jelentik a Szolgáltatási Csomagra és annak keretén belül nyújtott Támogatási szolgáltatásokra vonatkozóan, és hatályon kívül helyez minden, a tárgyra vonatkozó korábbi egyezményt, megállapodást és megegyezést, és a jelen rendelkezések kiegészítése, törlése vagy módosítása csak akkor jelent kötelezettséget az Apple-re nézve, ha írásban történik, és az Apple meghatalmazott képviselője aláírta. Az Ügyfél bármely egyéb feltétele, utasítása vagy további benyújtott dokumentuma érvénytelen marad, és kifejezetten elutasítjuk. 
+
+ORSZÁGONKÉNTI ELTÉRÉSEK
+
+A következő, országonkénti eltéréseket kell figyelembe venni, ha inkonzisztencia merül fel ezen Csomag egyéb rendelkezéseivel:
+
+AUSZTRÁLIA
+A jelen Feltételekben meghatározott, a visszatérítésekre, visszaállításokra és garanciákra vonatkozó jogok kiegészítik azokat a törvény által szabályozott jogokat, amelyek Önt a 2010-es Verseny- és Fogyasztóvédelmi Törvény alapján, illetve más, ausztrál fogyasztóvédelmi törvények és jogszabályok alapján megilletik.
+
+BELGIUM
+Az Ügyfél tudomásul veszi, hogy az Apple-lel a Támogatási szolgáltatások igénybe vétele céljából történő kapcsolatfelvétellel nem gyakorol semmilyen, korábban aláírt értékesítési szerződéssel kapcsolatos jogot a 94. cikk alapján kereskedelmi gyakorlatokról szóló 1991. július 14-i törvény 94. pontja értelmében.
+
+NÉMETORSZÁG
+7. pont A felelősség korlátozása. A Fogyasztónak minősülő Ügyfelekre a következők vonatkoznak: az Apple a Szolgáltatási Csomag keretén belül keletkező károkért csak a következő rendelkezések szerint felelős: (i) korlátlanul felelős a szándékosan vagy súlyos gondatlanságból okozott károkért, (ii) korlátlanul felelős a szándékosan vagy gondatlanságból okozott haláleset, személyi sérülés vagy egészségkárosodás esetén, (iii) felelős a garantált jellemzők hiánya miatti károkért olyan mértékben, amennyire a garancia hatálya vonatkozik, és amely károkra az Apple számíthatott a garancia nyújtásakor, (iv) felelős a Termékfelelősségi Törvénynek megfelelően termékfelelősség esetén vagy (v) felelős az Apple olyan alapvető kötelességeinek megszegéséből eredő károkért, amelyek a Szolgáltatási Csomag lényegét képezik, amelyek a Szolgáltatási Csomag aláírásánál döntő jelentőségűek voltak, és amelyekre az Ügyfél számított. Az Apple érdemben kizár minden ennél tovább terjedő felelősséget.
+
+OLASZORSZÁG
+4. pont Az Ügyfél kötelességei. A 4. pont a következőkkel egészül ki:
+
+Az e-mailes és telefonos kommunikáció költségei azok, amelyeket a telefonok/internetes szolgáltatónak kell fizetni.
+
+NORVÉGIA
+8. pont Időtartam és felmondás: A 8. pont a következőkkel egészül ki: 
+
+Ha Ön fogyasztó, vegye figyelembe, hogy az elálláshoz való jog, a vásárlástól való elállás jogáról szóló norvég törvény (2000. évi 105. törvény, 2000. december 21.  ) szerinti jogát  a az Időtartam és felmondás című,   8. pontban vesszük figyelembe. 
+
+SVÉDORSZÁG
+1. pont Szolgáltatások. Az 1. pont a következőkkel egészül ki:
+
+Ha a Támogatási szolgáltatások módosításai anyagilag hátrányosak az Ügyfélre nézve, az Ügyfél jogosult a Szolgáltatási Csomag felmondására az alábbi, 8. pontban leírtak szerint.
+
+8. pont Időtartam és felmondás. A következő mondat: „Ha az Apple bármi olyan módosítást eszközöl a Támogatási szolgáltatásokon, amely negatív hatású az Ügyfélre nézve, például felmondja a támogatási szolgáltatásokat az Ügyfél termékére vonatkozóan, az Ügyfél jogosulttá válik a Szolgáltatási Csomag felmondására, és a Szolgáltatási Csomag hátralévő része értékének megfelelő összeg visszatérítésére” beillesztésre kerül a következő mondat után: „Kivéve, ha törvény másképp rendelkezik, és feltéve, hogy az Ügyfél nem vett igénybe Támogatási szolgáltatást, az Ügyfél bármilyen indokkal felmondhat egy Szolgáltatási Csomagot a Szolgáltatási Csomag megvásárlásától vagy a hatályba lépésének napjától számított harminc (30) napon belül, amelyik későbbre esik, és a teljes kifizetett összeg visszatérítésére jogosult.”
+
+
+A vásárlási régió/ország
+Apple
+Cím
+Amerika
+
+
+Brazília
+Apple Computer Brasil Ltda
+Rua: Leopoldo Couto Magalhães Júnior, nº 700, 7º andar, São Paulo, SP, Brazília
+04542-000
+SAC: 0800-761-0880
+http://www.apple.com/br/support
+Kanada
+Apple Canada Inc.
+7495 Birchmount Rd.; Markham, Ontario, Canada; L3R 5G2 Kanada
+Mexikó
+Apple Operations Mexico, S.A. de C.V.
+Prolongación Paseo de la Reforma #600, Suite 132, Colonia Peña Blanca, Santa Fé, Delegación Álvaro Obregón, México D. F., CP 01210, Mexikó
+Egyesült Államok és más amerikai országok
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, U.S.A.
+Európa, Közel-Kelet és Afrika
+
+
+Orosz Föderáció
+Limited Liability Company Apple Rus
+5 Petrovka Street, Berlin House Business Center, 107031, Moszkva, Orosz Föderáció
+Törökország
+Apple Teknoloji ve Satış Limited Şirketi
+FSM Mahallesi Poligon Caddesi Buyaka 2 Sitesi No:8, Blok No.2 (C Blok) Kat:18 34471 Ümraniye İstanbul, Törökország
+Minden más ország
+Apple Distribution International
+Hollyhill Industrial Estate Hollyhill, Cork, Ír Köztársaság
+Ázsia csendes-óceáni régiója
+
+
+Ausztrália; Új-Zéland; Fiji, Pápua Új-Guinea; Vanuatu
+Apple Pty. Limited.
+PO Box A2629, Sydney South, NSW 1235, Ausztrália Tel: 133 622
+Hongkong
+Apple Asia Limited
+2401 Tower One, Times Square, Causeway Bay; Hongkong
+India
+Apple India Private Ltd.
+19th Floor, Concorde Tower C, UB City No 24, Vittal Mallya Road, Bangalore 560-001, India
+Japán
+Apple Japan Inc.
+6-10-1 Roppongi, Minato-ku Tokyo 106-6140, Japán
+Korea
+Apple Korea Ltd.
+3901, ASEM Tower; 159, Samsung-dong, Gangnam-Gu; Seoul 135-798, Koreai Köztársaság
+Afganisztán, Banglades, Bhután, Brunei, Kambodzsa, Guam, Indonézia, Laosz, Szingapúr, Malajzia, Nepál, Pakisztán, Fülöp-szigetek, Sri Lanka, Vietnam
+Apple South Asia Pte. Ltd.
+7 Ang Mo Kio Street 64
+Szingapúr 569086
+
+Kínai Népköztársaság
+Apple Computer Trading (Shanghai) Co. Ltd. 
+Units 610-13 on partial Floor 6, HSBC Building (i.e., Tower A), Shanghai ifc, 8 Century Avenue, Pudong New Area, Shanghai, Kína
+Thaiföld
+Apple South Asia (Thailand) Limited
+44th Floor ,Room No. HH4401-6, The Offices at Central World, 999/9 Rama 1 Road , Pathumwan, Pathumwan , Bangkok 10330 Thaiföld
+Taiwan
+Apple Asia LLC
+19F., No.1, Songzhi Rd., Xinyi Dist., Taipei City 110, Taiwan
+Egyéb ázsiai és csendes-óceáni országok
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, U.S.A.
+
+071814 Tech Support Hungarian v1.8
+

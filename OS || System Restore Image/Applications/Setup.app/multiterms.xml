@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xmlui>
+    <page>
+        <navigationBar title="%@"/>
+        <tableView>
+            <section>
+                <htmlLabelRow><![CDATA[ 
+	                    <html>
+	                        <head>
+	                            <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	                        </head>
+                            <body style="-webkit-text-size-adjust: none; background-color: transparent; color:#4C566C;text-shadow: white 0px 1px 1px; font-family: .PrototypeMobileText-Regular; font-size: 10.00pt;">
+	                            <div style="font-weight:bold">%@</div>
+	                            <div>%@</div>
+	                        </body>
+	                    </html>
+	                    ]]></htmlLabelRow>
+                <htmlButtonRow accessory="disclosure" name="iOSTerms"><![CDATA[ 
+	                    <html>
+	                        <head>
+	                            <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	                            <script type="text/javascript">function setHighlighted(isHighlighted) { if (isHighlighted) { document.body.style.color="white"; document.body.style.textShadow=""; } else { document.body.style.color="#4C566C"; document.body.style.textShadow="white 0px 1px 1px"; } }</script>
+	                        </head>
+	                        <body style="-webkit-text-size-adjust: none; background-color: transparent; color:#4C566C;text-shadow: white 0px 1px 1px; font-family: .PrototypeMobileText-Regular; font-size: 10.00pt">
+                                <div dir="ltr" style="font-weight:bold;line-height:27px">%@</div>
+	                        </body>
+	                    </html>
+	                    ]]></htmlButtonRow>
+                <htmlButtonRow accessory="disclosure" name="iOSWarranty"><![CDATA[ 
+	                    <html>
+	                        <head>
+	                            <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	                            <script type="text/javascript">function setHighlighted(isHighlighted) { if (isHighlighted) { document.body.style.color="white"; document.body.style.textShadow=""; } else { document.body.style.color="#4C566C"; document.body.style.textShadow="white 0px 1px 1px"; } }</script>
+	                        </head>
+                            <body style="-webkit-text-size-adjust: none; background-color: transparent; color:#4C566C;text-shadow: white 0px 1px 1px; font-family: .PrototypeMobileText-Regular; font-size: 10.00pt;">
+                                <div dir="ltr" style="font-weight:bold;line-height:27px">%@</div>
+	                        </body>
+	                    </html>
+	                    ]]></htmlButtonRow>
+                <htmlLabelRow><![CDATA[ 
+	                    <html>
+	                        <head>
+	                            <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	                        </head>
+	                        <body style="-webkit-text-size-adjust: none; background-color: transparent; color:#4C566C;text-shadow: white 0px 1px 1px; font-family: .PrototypeMobileText-Regular; font-size: 10.00pt;">
+	                            <div style="font-weight:bold">%@ %@</div>
+	                        </body>
+	                    </html>
+	                    ]]></htmlLabelRow>
+            </section>
+        </tableView>
+        <toolbar>
+            <buttonBarItem position="right" label="%@" style="blue" name="agree"/>
+            <buttonBarItem position="left" label="%@" name="disagree"/>
+        </toolbar>
+    </page>
+</xmlui>

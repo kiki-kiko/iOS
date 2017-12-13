@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AlwaysShowBookmarksBar</key>
+	<dict/>
+	<key>DisableWebsiteSpecificSearch</key>
+	<dict/>
+	<key>HideFrequentlyVisitedSites</key>
+	<dict/>
+	<key>JavaScriptCanOpenWindowsAutomatically</key>
+	<dict/>
+	<key>JavaScriptEnabled</key>
+	<dict/>
+	<key>OpenLinksInBackground</key>
+	<dict/>
+	<key>SafariDoNotTrackEnabled</key>
+	<dict/>
+	<key>SearchEngineStringSetting</key>
+	<dict/>
+	<key>ShowTabBar</key>
+	<dict/>
+	<key>SpeculativeLoading</key>
+	<dict/>
+	<key>SpotlightSuggestionsEnabled</key>
+	<dict/>
+	<key>SuppressSearchSuggestions</key>
+	<dict/>
+	<key>WarnAboutFraudulentWebsites</key>
+	<dict/>
+</dict>
+</plist>

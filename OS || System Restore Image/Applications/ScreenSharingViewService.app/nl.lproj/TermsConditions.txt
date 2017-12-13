@@ -1,0 +1,148 @@
+Technische ondersteuning van AppleCare
+
+Voorwaarden
+
+DOOR CONTACT OP TE NEMEN MET APPLE VOOR ONDERSTEUNINGSDIENSTEN DIE WORDEN AANGEBODEN ONDER EEN HIERONDER GENOEMD SERVICEPLAN (“SERVICEPLAN”) OF DOOR EEN SERVICEPLAN TE REGISTREREN BIJ APPLE, GAAT DE PERSOON OF ENTITEIT ("KLANT") ERMEE AKKOORD DAT DE VOLGENDE VOORWAARDEN (“VOORWAARDEN”) VAN TOEPASSING ZIJN OP DE LEVERING VAN ONDERSTEUNINGSDIENSTEN ONDER HET TOEPASSELIJKE SERVICEPLAN. LET WEL DAT ONDERSTEUNINGSDIENSTEN DIE WORDEN AANGEBODEN OM EEN KLANT VAN DIENST TE ZIJN EN WAAROP VOORDELEN VAN DE EENJARIGE BEPERKTE GARANTIE VAN APPLE, APPLECARE+, HET APPLECARE PROTECTION PLAN OF HET GELDENDE CONSUMENTENRECHT VAN TOEPASSING ZIJN, ONDER DE VOORWAARDEN VAN DE DESBETREFFENDE GARANTIE, APPLECARE-SERVICEOVEREENKOMST OF CONSUMENTENWETGEVING VALLEN.   MET BETREKKING TOT ONDERSTEUNINGSDIENSTEN WAAROP DEZE VOORWAARDEN VAN TOEPASSING ZIJN, GELDT DAT INDIEN DE KLANT NIET AKKOORD GAAT MET DEZE VOORWAARDEN, DE KLANT GEEN CONTACT DIENT OP TE NEMEN MET APPLE EN HET SERVICEPLAN NIET DIENT TE REGISTREREN. OM EEN AANGESCHAFT SERVICEPLAN TE ANNULEREN EN RESTITUTIE TE ONTVANGEN VOOR ENIG BETAALD BEDRAG, DIENT DE KLANT CONTACT OP TE NEMEN MET APPLE, ZOALS HIERONDER BESCHREVEN. EEN SERVICEPLAN IS VAN KRACHT OP HET MOMENT DAT APPLE DE REGISTRATIE VAN DE KLANT AANVAARDT (“INGANGSDATUM”).
+
+1.	Diensten. Nadat de registratie van de klant is aanvaard, zal Apple ondersteuningsdiensten (“Ondersteuningsdiensten”) leveren voor Apple-software of hieraan gerelateerde technologieën (“Ondersteunde producten”) in het kader van het toepasselijke Serviceplan, dit alles zoals beschreven op de volgende webpagina: http://www.apple.com/legal/applecare/techsupport (“Ondersteuningspagina van het Serviceplan”). Apple behoudt zich het recht voor om de aangeboden Ondersteuningsdiensten en/of Ondersteunde producten die zijn gedekt door een Serviceplan op elk gewenst moment te wijzigen door middel van updates op de Ondersteuningspagina van het Serviceplan. Apple zal de Ondersteuningsdiensten en/of Ondersteunde producten niet zodanig wijzigen dat (i) hierdoor de hoeveelheid inspanning die Apple levert in het kader van de Ondersteuningsdiensten afneemt, of (ii) dit een aanzienlijke invloed heeft op de verplichting van Apple om de Ondersteuningsdiensten te leveren, of (iii) dit een materiële invloed heeft op de rechten die de Klant krijgt in het kader van de Ondersteuningsdiensten. Voor updates die van invloed zijn op het Serviceplan van de Klant zal Apple binnen dertig (30 dagen) voorafgaand aan de publicatie van de update de Klant op de hoogte stellen van deze update via het e-mailadres dat door de Klant is geregistreerd. De voorwaarden die beschikbaar zijn op de Ondersteuningspagina van het Serviceplan zijn opgenomen in deze Voorwaarden. Indien de voorwaarden in dit document en de voorwaarden op de Ondersteuningspagina van het Serviceplan op enig punt met elkaar in strijd zijn, gelden de voorwaarden op de Ondersteuningspagina van het Serviceplan.
+
+2.	Beperkingen. 
+
+2.1	Ondersteuningsincidenten. Serviceplannen bestaan uit een pakket dat recht geeft op ondersteuning bij één, meerdere of een onbeperkt aantal Ondersteuningsincidenten. Een Ondersteuningsincident is een specifiek, afzonderlijk probleem waarvan kan worden vastgesteld dat dit tot één oorzaak te herleiden is. Apple zal alles doen wat in redelijkheid in haar vermogen ligt om een Ondersteuningsincident op te lossen, maar garandeert niet dat Ondersteuningsincidenten worden opgelost. Apple zal naar eigen inzicht bepalen wat een Ondersteuningsincident is en, voor zover dit wettelijk is toegestaan, of het Ondersteuningsincident is opgelost. In het algemeen is een Ondersteuningsincident opgelost als de Klant een van het volgende ontvangt: (a) informatie die het probleem verhelpt; (b) informatie over het verkrijgen van een softwarematige oplossing die het probleem verhelpt; (c) een kennisgeving dat het probleem wordt veroorzaakt door een bekend, onopgelost probleem of een compatibiliteitsprobleem met een Ondersteund product; (d) informatie dat het probleem zal zijn opgelost als wordt overgestapt op een nieuwere release van het Ondersteunde product; of (e) een kennisgeving dat is vastgesteld dat het probleem wordt veroorzaakt door een hardwarematig apparatuurprobleem. Voor een Serviceplan met een beperkt aantal Ondersteuningsincidenten geldt dat elk contact dat de Klant legt over een nieuw Ondersteuningsincident het resterende aantal Ondersteuningsincidenten waarvoor de Klant in aanmerking komt, doet afnemen.
+
+2.2	Responstijden. Apple zal alles doen wat in redelijkheid in haar vermogen ligt om binnen een redelijke termijn of binnen de responstijd die is beschreven voor een toepasselijk Serviceplan ("Responstijd"), al naar gelang welk van beide zich het eerst voordoet, te reageren op een aanvraag voor een Ondersteuningsdienst, maar garandeert niet dat binnen een specifieke tijdsperiode wordt gereageerd. Alle Responstijden worden berekend volgens de Openingstijden in het Serviceplan, zoals beschreven op de Ondersteuningspagina van het Serviceplan. 
+
+2.3	Huidige release. Tenzij anders aangegeven, moeten alle Ondersteunde producten het niveau van de meest recente release hebben. 
+
+2.4	Gebruik. Ondersteuningsdiensten zijn niet bedoeld voor gebruik bij de bediening van nucleaire installaties, de besturing van luchtvaartuigen, communicatiesystemen, luchtverkeersleidingsystemen of andere activiteiten waarbij problemen met de Ondersteuningsdiensten kunnen leiden tot overlijden, persoonlijk letsel of ernstige schade aan personen, zaken of het milieu.
+
+2.5	Technische contactpersonen. Ondersteuningsdiensten worden geleverd aan één of meer personen die daartoe door de Klant zijn aangewezen ten tijde van de registratie en die daarvoor in aanmerking komen in het kader van het Serviceplan (“Technische contactpersonen”). Het contact tussen de Klant en Apple voor technische ondersteuning volgens het Serviceplan verloopt uitsluitend via de Technische contactpersonen. Als de Klant een Serviceplan heeft met meerdere Technische contactpersonen en een wijziging wil aanbrengen in de Technische contactpersonen, moet de Klant Apple hiervan minimaal vijf (5) dagen van tevoren schriftelijk op de hoogte stellen via het van toepassing zijnde Contactadres voor restitutie zoals hieronder beschreven of, indien van toepassing op het Serviceplan, de wijzigingen rechtstreeks via de beveiligde, aangepaste website van de Klant invoeren, zoals beschreven in de instructiehandleiding die is aangeleverd bij aanvang van het Serviceplan.
+
+3.	Uitsluitingen. Tenzij anders aangegeven in het Serviceplan zal Apple geen Ondersteuningsdiensten leveren die verband houden met problemen of kwesties die voortkomen uit of het gevolg zijn van (a) het gebruik van een Ondersteund product via een server; (b) problemen die kunnen worden opgelost met een upgrade van een Ondersteund product; (c) het gebruik of een aanpassing van een Ondersteund product op een manier waarvoor het Ondersteunde product niet is bedoeld om te worden gebruikt of aangepast; (d) producten of technologieën van derden en hun effect op of interactie met een Ondersteund product; (e) schade aan het medium waarop een Ondersteund product is aangeleverd, of aan de computer waarop een Ondersteund product is geïnstalleerd; (f) gebruik van een computersysteem dat niet compatibel is met een Ondersteund product; en (g) problemen die verband houden met internet, e-mail, bestandsbeheer, netwerkconfiguratie, scriptgebruik, FX-scriptgebruik, programmeren, compileren, foutopsporing, ontwerp van infrastructuur, maken van materiaal, aanpassen van materiaal, planning/ontwerp van een multimediaproject, resourcemanagement, budgettering, training, diagnose ter plaatse of andere problemen die buiten het bestek vallen van de Ondersteuningsdiensten zoals die zijn beschreven voor een Serviceplan.
+
+4.	Verantwoordelijkheden van de klant. Om Ondersteuningsdiensten te ontvangen, moet de Klant het Serviceplan registreren en de toegangsinstructies opvolgen die door Apple worden verstrekt. De Klant is verantwoordelijk voor alle kosten die voortvloeien uit het leggen en onderhouden van contact via e-mail en telefoon met Apple. De Klant zal bij het aanvragen van Ondersteuningsdiensten medewerking verlenen aan Apple door informatie te verstrekken die noodzakelijk is om Apple te helpen bij de diagnose van een probleem. De Klant is verantwoordelijk voor alle denkbare herstel of reconstructie van verloren gegane of gewijzigde bestanden, gegevens of programma's. De Klant zal een volledig plan voor het maken van reservekopieën van gegevens en het herstel van gegevens na noodgevallen implementeren en onderhouden. De Klant is als enige verantwoordelijk voor alle denkbare beveiliging van zijn vertrouwelijke informatie, geheime informatie of informatie die zijn eigendom is. De Klant zal aan Apple geen vertrouwelijke informatie onthullen, noch informatie die eigendom van de Klant is, noch enige informatie waarop intellectuele eigendomsrechten rusten die Apple blootstellen aan aansprakelijkheid. De Klant dient een redelijk begrip te hebben van het Ondersteunde product waarvoor de Klant de Ondersteuningsdienst aanvraagt en van het computersysteem waarop het Ondersteunde product wordt gebruikt. De Klant mag de Ondersteuningsdiensten niet overdragen aan een derde. Ondersteuningsdiensten worden uitsluitend verstrekt voor intern gebruik door de Klant, en onbevoegde verspreiding van de Ondersteuningsdiensten zal reden zijn voor onmiddellijke beëindiging van deze Voorwaarden. De Klant zal redelijke maatregelen nemen om onbevoegde verspreiding en onbevoegd gebruik van de Ondersteuningsdiensten te voorkomen. De Klant zal de ontvangst of het gebruik van de Ondersteuningsdiensten niet misbruiken, met inbegrip van maar niet beperkt tot de toegang tot Ondersteuningsdiensten voor problemen die al zijn opgelost. 
+
+5.	Ondersteuningsdiensten via externe toegang. Als onderdeel van een Serviceplan kan Apple Ondersteuningsdiensten leveren door middel van externe toegang via het internet, waarbij Apple, indien de Klant daarvoor toestemming verleent, toegang tot de computer van de Klant zal verkrijgen, de computer zal aansturen en informatie op de computer zal verzamelen met behulp van installatie en gebruik van software voor externe toegang. Installatie en gebruik van de software voor externe toegang door de Klant duidt op toestemming van de Klant aan Apple om op deze manier Ondersteuningsdiensten te leveren. De software voor externe toegang mag geheel of gedeeltelijk blijven staan op de computer van de Klant nadat de sessie voor Ondersteuningsdiensten is voltooid. Het recht op de software voor externe toegang en alle intellectuele eigendomsrechten die hierop van toepassing zijn, blijven bij Apple Inc. en/of haar licentiegevers. Gebruik van de toepasselijke software voor externe toegang is mogelijk onderworpen aan aanvullende licentiebepalingen die beschikbaar zijn op http://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf. Het is de Klant niet toegestaan enig deel van de software voor externe toegang te ontmantelen of aan reverse engineering te onderwerpen. Wanneer Ondersteuningsdiensten worden verleend via externe toegang, zal Apple uitsluitend toegang verkrijgen tot de computer van de Klant, de computer aansturen en informatie op de computer verzamelen voor zover dat volgens Apple in redelijkheid noodzakelijk is om het Ondersteuningsincident te analyseren en hiervoor assistentie te verlenen. Apple raadt aan dat de Klant alle bestanden en programma's sluit die niet relevant zijn voor het Ondersteuningsincident. Via de software voor externe toegang of de voorzieningen op de computer van de Klant kan de Klant de sessie voor Ondersteuningsdiensten via externe toegang te allen tijde beëindigen.
+
+Belangrijk: Apple kan op grond van wetgeving en beleid verplicht zijn om bepaalde afbeeldingen te melden bij de autoriteiten als deze tijdens een sessie worden weergegeven.
+
+6.	Afwijzing van garantie. HOEWEL APPLE NIET KAN GARANDEREN DAT EEN ONDERSTEUNINGSINCIDENT WORDT OPGELOST, ZAL APPLE ALLES DOEN WAT IN REDELIJKHEID IN HAAR VERMOGEN LIGT OM OP PROFESSIONELE WIJZE ONDERSTEUNINGSDIENSTEN TE LEVEREN IN HET KADER VAN HET SERVICEPLAN. VOOR ZOVER DIT WETTELIJK IS TOEGESTAAN, ZIJN DE HIERIN BESCHREVEN UITDRUKKELIJKE GARANTIE EN SCHADELOOSSTELLINGEN EXCLUSIEF EN KOMEN DEZE IN DE PLAATS VAN ALLE ANDERE GARANTIES, SCHADELOOSSTELLINGEN EN BEPALINGEN, HETZIJ MONDELING, SCHRIFTELIJK, VOORTVLOEIEND UIT WETTELIJKE RECHTEN, UITDRUKKELIJK OF STILZWIJGEND. VOOR ZOVER DIT WETTELIJK IS TOEGESTAAN, SLUITEN APPLE EN HAAR LICENTIEGEVERS IN HET BIJZONDER ALLE DENKBARE UIT WETTELIJKE RECHTEN VOORTVLOEIENDE OF STILZWIJGENDE GARANTIES UIT DIE HET GEVOLG ZIJN VAN OF OP ENIGERLEI WIJZE VERBAND HOUDEN MET DEZE VOORWAARDEN, INCLUSIEF ELKE STILZWIJGENDE GARANTIE OF VERHANDELBAARHEID OF GESCHIKTHEID VOOR EEN BEPAALD DOEL. 
+
+7.	Beperking van aansprakelijkheid. VOOR ZOVER DIT WETTELIJK IS TOEGESTAAN, IS DE AANSPRAKELIJKHEID VAN APPLE EN HAAR LICENTIEGEVERS VOLGENS DEZE VOORWAARDEN BEPERKT TOT DE BEDRAGEN DIE DE KLANT HEEFT BETAALD VOOR HET DOOR DE KLANT BESTELDE SERVICEPLAN. IN GEEN ENKEL GEVAL ZULLEN APPLE EN HAAR LICENTIEGEVERS AANSPRAKELIJK ZIJN VOOR ENIGERLEI INDIRECTE, BIJZONDERE, INCIDENTELE SCHADE OF GEVOLGSCHADE, MET INBEGRIP VAN MAAR NIET BEPERKT TOT SCHADE DOOR VERLIES VAN OMZET, VERLIES VAN GEGEVENS, VERLIES VAN GEBRUIKSMOGELIJKHEDEN OF APPARATUUR OF FACILITEITEN, OF ONDERBREKING VAN DE BEDRIJFSVOERING, DIE OP ENIGERLEI WIJZE HET GEVOLG IS VAN DEZE VOORWAARDEN, ONGEACHT DE AANSPRAKELIJKHEIDSGROND DIE WORDT AANGEVOERD EN ONGEACHT OF APPLE EN HAAR LICENTIEGEVERS ZIJN GEWEZEN OP DE MOGELIJKHEID VAN DERGELIJKE SCHADE. MOGELIJK BEVATTEN DE LICENTIEBEPALINGEN VOOR DE SOFTWARE VOOR EXTERNE TOEGANG OP http://www.apple.com/legal/applecare/remotesupport NOG ANDERE AANSPRAKELIJKHEIDSBEPERKINGEN. ALS DE KLANT RECHTEN GENIET VAN WETTEN EN REGELINGEN TER BESCHERMING VAN DE CONSUMENT DIE VAN TOEPASSING ZIJN IN HET LAND VAN AANKOOP, OF, INDIEN DIT AFWIJKT, HET LAND WAARIN DE KLANT IS GEVESTIGD, VORMEN DE VOORDELEN WAAROP DE KLANT KRACHTENS DEZE VOORWAARDEN AANSPRAAK KAN MAKEN EEN AANVULLING OP ALLE RECHTEN EN SCHADELOOSSTELLINGEN DIE WORDEN VERLEEND OP GROND VAN DE GENOEMDE WETTEN EN REGELINGEN TER BESCHERMING VAN DE CONSUMENT. IN BEPAALDE LANDEN, STATEN EN PROVINCIES ZIJN UITSLUITING OF BEPERKING VAN AANSPRAKELIJKHEID TEN AANZIEN VAN INCIDENTELE SCHADE OF GEVOLGSCHADE OF UITSLUITINGEN OF BEPERKINGEN TEN AANZIEN VAN STILZWIJGENDE GARANTIES OF VOORWAARDEN NIET TOEGESTAAN, WAARDOOR DE BOVENSTAANDE BEPERKINGEN OF UITSLUITINGEN VOOR DE KLANT MOGELIJK NIET VAN TOEPASSING ZIJN. DEZE VOORWAARDEN VERLENEN DE KLANT SPECIFIEKE WETTELIJKE RECHTEN. BOVENDIEN KUNNEN, AFHANKELIJK VAN HET LAND, DE STAAT OF DE PROVINCIE, NOG ANDERE RECHTEN GELDEN.
+
+8.	Termijn en beëindiging. Tenzij een Serviceplan eerder wordt beëindigd in overeenstemming met dit artikel, is een Serviceplan twaalf (12) maanden geldig, gerekend vanaf de Ingangsdatum of totdat alle Ondersteuningsincidenten zijn verbruikt, al naar gelang welk van beide zich het eerst voordoet (tenzij schriftelijk anders is geautoriseerd door door Apple). Apple zal geen Ondersteuningsdiensten leveren na afloop van het Serviceplan, tenzij uw Serviceplan op of voor de beëindigingsdatum wordt vernieuwd. Apple kan een Serviceplan op elk moment beëindigen (a) als de Klant, nadat Apple de Klant minimaal vijftien (15) dagen daaraan voorafgaand een schriftelijke kennisgeving heeft verstrekt, de voor een Serviceplan verschuldigde vergoeding niet betaalt, of (b) als de Klant, nadat Apple de Klant minimaal dertig (30) dagen daaraan voorafgaand een schriftelijke kennisgeving heeft verstrekt, een inbreuk op deze Voorwaarden niet heeft verholpen, of (c) als de Klant handelt in strijd met een of meer van de voorwaarden van een softwarelicentieovereenkomst met betrekking tot het gebruik van de software die is geleverd in het kader van een Serviceplan. Tenzij anders bepaald door de wetgeving en mits de Klant geen Ondersteuningsdiensten heeft ontvangen, mag de Klant een Serviceplan om elke reden annuleren binnen dertig (30) dagen na de aankoopdatum of de Ingangsdatum van het Serviceplan, al naar gelang welk van beide zich het laatst voordoet, waarna de Klant het recht heeft op restitutie van alle betaalde bedragen. Restitutieaanvragen moeten schriftelijk worden ingediend, samen met het van toepassing zijnde aankoopbewijs, via het hieronder vermelde Contactadres voor restitutie. De artikelen 6, 7 en 12 blijven van kracht ook nadat deze Voorwaarden om welke reden dan ook zijn beëindigd..
+
+9.	Apple; toepasselijk recht. "Apple" wordt in de onderstaande tabel aangeduid met de benaming zoals gehanteerd in het land waarin de Klant is gevestigd. DEZE VOORWAARDEN ZIJN ONDERWORPEN AAN DE WETTEN VAN HET LAND VAN AANKOOP, OF, INDIEN DIT AFWIJKT, HET LAND WAARIN DE KLANT IS GEVESTIGD, EN EVENTUELE GESCHILLEN VALLEN ONDER DE BEVOEGDHEID VAN DE RECHTBANKEN VAN DE DESBETREFFENDE LANDEN. 
+
+10.	Aanvullende diensten of software. Eventuele aanvullende diensten die worden geleverd als onderdeel van een Serviceplan zullen onderworpen zijn aan deze Voorwaarden. In het geval dat Ondersteuningsdiensten worden geleverd op een locatie van de Klant als onderdeel van een Serviceplan, zal de Klant ervoor zorgen dat Apple op het afgesproken tijdstip toegang krijgt tot de locatie en dat de werkomgeving voldoende veilig is om Apple de Ondersteuningsdiensten te laten uitvoeren. In het geval dat software wordt verstrekt als onderdeel van een Serviceplan, is dergelijke software het auteursrechtelijke werk van Apple Inc. en/of haar licentiegevers. De Klant mag de software uitsluitend installeren, reproduceren en gebruiken ten behoeve van ondersteuning van de Ondersteunde producten, maar de Klant mag deze software, behalve voor zover dit wettelijk is toegestaan, niet decompileren, aan reverse engineering onderwerpen, wijzigen, verhuren, leasen, in gebruik geven of enige afgeleide werken creëren. Als de software is onderworpen aan de voorwaarden van een afzonderlijke licentieovereenkomst, zijn de voorwaarden van deze afzonderlijke licentieovereenkomst van toepassing op het gebruik van de software. Alle software die onder deze Voorwaarden beschikbaar wordt gesteld aan de Amerikaanse overheid, wordt aangemerkt als “restricted computer software” zoals gedefinieerd in artikel 52.227-19 van de FAR. De rechten van de Amerikaanse overheid met betrekking tot de software zijn zoals gedefinieerd in artikel 52.227-19 van de FAR.
+
+11.	Bescherming van gegevens. De Klant stemt ermee in en begrijpt dat het voor Apple noodzakelijk is om gegevens van de Klant te verzamelen, te verwerken en te gebruiken om de service- en ondersteuningsverplichtingen in het kader van het Serviceplan te kunnen uitvoeren. Hieronder valt tevens de overbrenging van gegevens van de Klant naar gelieerde bedrijven of serviceaanbieders conform de voorwaarden van het privacybeleid van Apple (http://www.apple.com/legal/warranty/privacy). Apple zal de gegevens van de Klant beschermen conform het privacybeleid van Apple. Indien de Klant toegang wil krijgen tot de gegevens die Apple over de Klant in haar bezit heeft, of indien de Klant enige wijziging wil aanbrengen, kan de Klant de contactvoorkeuren wijzigen op de pagina Mijn info (http://www.apple.com/contact/myinfo). Apple kan gesprekken tussen de Klant en Apple geheel of gedeeltelijk opnemen in verband met kwaliteitscontrole en voor opleidings- en naslagdoeleinden.
+
+12.	Algemeen. Het is de Klant niet toegestaan zijn rechten of plichten krachtens een Serviceplan over te dragen. Elke ongeoorloofde overdracht is ongeldig. Apple is niet aansprakelijk voor het niet tijdig of in het geheel niet leveren van diensten ten gevolge van oorzaken die Apple in redelijkheid niet kan beïnvloeden. Een verklaring van afstand van enige schending of enig verzuim krachtens deze Voorwaarden dient niet te worden opgevat als een verklaring van afstand van enige latere schending of enig later verzuim. Indien een bevoegde rechtbank enige bepaling van deze Voorwaarden nietig of niet-afdwingbaar acht, blijven de overige bepalingen volledig van kracht, en de partijen zullen de nietige of niet-afdwingbare bepaling vervangen door een geldige en afdwingbare bepaling die zoveel mogelijk overeenkomt met de oorspronkelijke intenties van de partijen en het economische gevolg van de Voorwaarden. Deze Voorwaarden, met inbegrip van eventuele aanvullende voorwaarden waarnaar in deze Voorwaarden wordt verwezen, vormen de volledige overeenkomst tussen Apple en de Klant met betrekking tot het Serviceplan en de Ondersteuningsdiensten die onder deze Voorwaarden worden geleverd en vervangen alle voorgaande onderhandelingen, afspraken en overeenkomsten betreffende dit onderwerp, en geen enkele aanvulling op, verwijdering uit of wijziging van welke bepaling van deze Voorwaarden dan ook is bindend voor Apple, tenzij schriftelijk ingediend en ondertekend door een bevoegde vertegenwoordiger van Apple. Voorwaarden of bepalingen die worden vermeld op enige bestelling of op enig ander document dat door de Klant wordt ingediend, zijn ongeldig en niet bindend, en worden specifiek afgewezen. 
+
+VOORWAARDEN PER LAND
+
+De volgende voorwaarden per land zijn van toepassing in geval van inconsistenties met enige andere bepaling van dit Plan:
+
+AUSTRALIË
+De rechten die in deze Voorwaarden worden beschreven met betrekking tot retouren, restituties en garanties vormen een aanvulling op de wettelijke rechten waarop de Klant aanspraak kan maken onder de Competition and Consumer Act 2010 en andere toepasselijke Australische wetten en regelingen ter bescherming van de consument.
+
+BELGIË
+De Klant erkent dat hij door contact op te nemen met Apple voor het verkrijgen van Ondersteuningsdiensten geen rechten uitoefent met betrekking tot een eerder afgesloten verkoopcontract zoals bedoeld in artikel 94 ter. van de Wet van 14 juli 1991 betreffende de handelspraktijken.
+
+DUITSLAND
+Artikel 7. Beperking van aansprakelijkheid. Met betrekking tot Klanten die consumenten zijn, geldt het volgende: Apple zal uitsluitend in overeenstemming met de volgende bepalingen aansprakelijk worden gehouden voor verliezen onder de voorwaarden van het Serviceplan: (i) onbeperkte aansprakelijkheid voor verliezen die opzettelijk of door grove nalatigheid zijn veroorzaakt, (ii) onbeperkte aansprakelijkheid voor overlijden, lichamelijk letsel of schadelijke gevolgen voor de gezondheid die opzettelijk of door nalatigheid zijn veroorzaakt, (iii) voor verliezen als gevolg van het gebrek aan enige gewaarborgde kenmerken tot aan het bedrag dat wordt gedekt door het doel van de garantie en dat Apple had kunnen voorzien op het moment dat de garantie werd verstrekt, (iv) in overeenstemming met de Wet Productaansprakelijkheid in het geval van productaansprakelijkheid, of (v) voor verliezen die zijn veroorzaakt door schending van enige basisverplichtingen van Apple die de essentie van het Serviceplan vormen, die doorslaggevend waren voor de afsluiting van het Serviceplan en waarop de Klant mag vertrouwen. Uitgebreidere aansprakelijkheid van Apple wordt ten gronde uitgesloten.
+
+ITALIË
+Artikel 4. Verplichtingen van de klant. Het volgende wordt toegevoegd aan artikel 4:
+
+De kosten van contact via e-mail en telefoon zijn de kosten die in rekening worden gebracht door de telefoon-/internetaanbieder.
+
+NOORWEGEN
+Artikel 8. Termijn en beëindiging. Het volgende wordt toegevoegd aan artikel 8: 
+
+Als de Klant een consument is, wordt zijn recht op annulering volgens de Noorse wet inzake het recht om af te zien van een aankoop (wet van 21 december 2000 nr. 105), gehonoreerd in  in artikel 8, Looptijd en beëindiging. 
+
+ZWEDEN
+Artikel 1. Diensten. Het volgende wordt toegevoegd aan artikel 1:
+
+Indien de wijzigingen aan de Ondersteuningsdiensten in belangrijke mate ongunstig zijn voor de Klant, heeft de Klant het recht om het Serviceplan te beëindigen volgens de bepalingen in Artikel 8 hieronder.
+
+Artikel 8. Looptijd en beëindiging. Na “Tenzij anders bepaald door de wetgeving en mits de Klant geen Ondersteuningsdiensten heeft ontvangen, mag de Klant een Serviceplan om elke reden annuleren binnen dertig (30) dagen na de aankoopdatum of de Ingangsdatum van het Serviceplan, al naar gelang welk van beide zich het laatst voordoet, waarna de Klant het recht heeft op restitutie van alle betaalde bedragen.”, wordt de volgende zin toegevoegd: “Indien Apple wijzigingen in de Ondersteuningsdiensten aanbrengt die in belangrijke mate ongunstig zijn voor de Klant, heeft de Klant het recht om het Serviceplan te beëindigen en restitutie te ontvangen van een bedrag dat gelijk is aan de resterende looptijd van het Serviceplan.”
+
+Regio/Land van aankoop:
+Apple
+Adres
+Noord- en Zuid-Amerika
+
+
+Brazilië
+Apple Computer Brasil Ltda
+Rua: Leopoldo Couto Magalhães Júnior, nº 700, 7º andar, São Paulo, SP, Brazilië 
+
+04542-000
+
+SAC: 0800-761-0880
+
+http://www.apple.com/br/support
+Canada
+Apple Canada Inc.
+7495 Birchmount Rd.; Markham, Ontario, Canada; L3R 5G2 Canada
+Mexico
+Apple Operations Mexico, S.A. de C.V.
+Prolongación Paseo de la Reforma #600, Suite 132, Colonia Peña Blanca, Santa Fé, Delegación Álvaro Obregón, México D. F., CP 01210, Mexico
+Verenigde Staten en andere landen in Noord- en Zuid-Amerika
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, V.S.
+Europa, Midden-Oosten en Afrika
+
+
+Rusland
+Limited Liability Company Apple Rus
+5 Petrovka Street, Berlin House Business Center, 107031, Moscow, Russische Federatie
+Turkije
+Apple Teknoloji ve Satış Limited Şirketi
+FSM Mahallesi Poligon Caddesi Buyaka 2 Sitesi No:8, Blok No.2 (C Blok) Kat:18 34471 Ümraniye İstanbul, Turkije
+Alle andere landen
+Apple Distribution International
+Hollyhill Industrial Estate, Hollyhill, Cork, Republiek Ierland
+Azië/Oceanië
+
+
+Australië, Nieuw-Zeeland, Fiji, Papoea-Nieuw-Guinea, Vanuatu
+Apple Pty. Limited.
+PO Box A2629, Sydney South, NSW 1235, Australië Tel: 133 622
+Hongkong
+Apple Asia Limited
+2401 Tower One, Times Square, Causeway Bay; Hongkong
+India
+Apple India Private Ltd..
+19th Floor, Concorde Tower C, UB City No 24, Vittal Mallya Road, Bangalore 560-001, India
+Japan
+Apple Japan Inc.
+6-10-1 Roppongi, Minato-ku Tokyo 106-6140, Japan
+Korea
+Apple Korea Ltd.
+3901, ASEM Tower; 159, Samsung-dong, Gangnam-Gu; Seoul 135-798, Republiek Korea
+Afghanistan, Bangladesh, Bhutan, Brunei, Cambodja, Guam, Indonesië, Laos, Singapore, Maleisië, Nepal, Pakistan, Filippijnen, Sri Lanka, Vietnam
+Apple South Asia Pte. Ltd.
+7 Ang Mo Kio Street 64
+
+Singapore 569086
+
+
+China
+Apple Computer Trading (Shanghai) Co. Ltd. 
+Units 610-13 on partial Floor 6, HSBC Building (i.e., Tower A), Shanghai ifc, 8 Century Avenue, Pudong New Area, Shanghai, China
+Thailand
+Apple South Asia (Thailand) Limited
+44th Floor, Room No. HH4401-6, The Offices at Central World, 999/9 Rama 1 Road , Pathumwan, Pathumwan , Bangkok 10330 Thailand
+Taiwan
+Apple Asia LLC
+19F., No.1, Songzhi Rd., Xinyi Dist., Taipei City 110, Taiwan
+Andere landen in Azië/Oceanië
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, V.S.
+
+071814 Tech Support Dutch v1.8
+

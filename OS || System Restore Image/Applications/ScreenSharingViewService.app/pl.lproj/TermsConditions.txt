@@ -1,0 +1,143 @@
+Wsparcie techniczne AppleCare
+
+— warunki świadczenia usług
+
+RAMACH PLANU SERWISOWEGO OPISANEGO PONIŻEJ („PLAN SERWISOWY”) LUB REJESTRUJĄC PLAN SERWISOWY W APPLE, OSOBA FIZYCZNA LUB PODMIOT („KLIENT”) AKCEPTUJE, IŻ ŚWIADCZENIE USŁUG WSPARCIA NA PODSTAWIE WŁAŚCIWEGO PLANU WSPARCIA PODLEGA PRZEDSTAWIONYM PONIŻEJ WARUNKOM („WARUNKI”). DO USŁUG WSPARCIA ŚWIADCZONYCH NA RZECZ KLIENTA NA MOCY ROCZNEJ OGRANICZONEJ GWARANCJI APPLE, PLANU APPLECARE+, PLANU OCHRONY APPLECARE PROTECTION PLAN LUB STOSOWNYCH PRZEPISÓW W ZAKRESIE OCHRONY PRAW KONSUMENTA ZASTOSOWANIE MAJĄ ODPOWIEDNIO POSTANOWIENIA GWARANCJI, POSTANOWIENIA UMOWY O ŚWIADCZENIE USŁUG APPLECARE LUB PRZEPISY PRAWA W ZAKRESIE OCHRONY KONSUMENTA.   JEŚLI KLIENT NIE WYRAŻA ZGODY NA NINIEJSZE WARUNKI, NIE POWINIEN KONTAKTOWAĆ SIĘ Z APPLE ANI REJESTROWAĆ PLANU SERWISOWEGO W ODNIESIENIU DO USŁUG WSPARCIA REGULOWANYCH NINIEJSZYMI WARUNKAMI. W CELU REZYGNACJI Z ZAKUPIONEGO PLANU SERWISOWEGO I OTRZYMANIA ZWROTU ZAPŁACONEJ KWOTY, KLIENT POWINIEN SKONTAKTOWAĆ SIĘ Z APPLE W SPOSÓB OPISANY PONIŻEJ. PLAN SERWISOWY OBOWIĄZUJE OD CHWILI AKCEPTACJI PRZEZ APPLE REJESTRACJI DOKONANEJ PRZEZ KLIENTA („DATA WEJŚCIA W ŻYCIE”).
+
+1.	Usługi. Po zaakceptowaniu dokonanej przez Klienta rejestracji Apple będzie świadczyć usługi wsparcia („Usługi Wsparcia”) dla oprogramowania Apple lub pokrewnych technologii („Produkty Objęte Wsparciem”) w ramach odpowiedniego Planu Serwisowego, zgodnie z opisem podanym na stronie internetowej http://www.apple.com/legal/sales-support/applecare/actssgeos.html („Strona Wsparcia dla Planu Serwisowego”). Apple zastrzega sobie prawo do zmiany świadczonych Usług Wsparcia lub Produktów Objętych Wsparciem udostępnianych w ramach danego Planu Serwisowego. Apple może dokonać takiej zmiany w dowolnym terminie, zamieszczając stosowną aktualizację na Stronie Wsparcia dla Planu Serwisowego. Apple nie zmieni Usług Wsparcia lub Produktów Objętych Wsparciem w sposób, który (i) zmniejsza zakres Usług Wsparcia świadczonych przez Apple lub (ii) znacząco zmienia zobowiązanie Apple do świadczenia Usług Wsparcia, lub (iii) w znacznym stopniu narusza prawa Klienta wynikające z tytułu korzystania z Usług Wsparcia. O aktualizacji, która wpływa na Plan Serwisowy Klienta, Apple powiadomi Klienta na co najmniej trzydzieści (30) dni przed opublikowaniem danej aktualizacji, przesyłając wiadomość e-mail na zarejestrowany przez Klienta adres. Warunki opisane na Stronie Wsparcia dla Planu Serwisowego stanowią integralną część niniejszych Warunków. W przypadku jakichkolwiek rozbieżności między warunkami opisanymi w niniejszym dokumencie a warunkami zamieszczonymi na Stronie Wsparcia dla Planu Serwisowego, warunki zamieszczone na Stronie Wsparcia dla Planu Serwisowego będą rozstrzygające.
+
+2.	Ograniczenia. 
+
+2.1	Zdarzenia Objęte Wsparciem. Plany Serwisowe oferowane są w pakietach obejmujących pojedyncze Zdarzenie objęte wsparciem, wielokrotne Zdarzenia Objęte Wsparciem lub nieograniczoną liczbę Zdarzeń Objętych Wsparciem. Zdarzenie Objęte Wsparciem oznacza konkretny, wyraźny problem będący skutkiem zaistnienia pojedynczej przyczyny. Apple dołoży uzasadnionych starań w celu usunięcia przyczyny Zdarzenia Objętego Wsparciem, ale nie gwarantuje że każdą przyczynę Zdarzenia Objętego Wsparciem da się usunąć. Apple określi wedle własnego uznania, co stanowi przyczynę Zdarzenia Objętego Wsparciem, oraz w zakresie dozwolonym przez prawo ustali, czy przyczyna Zdarzenia Objętego Wsparciem została usunięta. Co do zasady przyjmuje się, że przyczyna Zdarzenia Objętego Wsparciem została usunięta, w momencie gdy Klient otrzymuje jedną z następujących wiadomości: (a) informację, która rozwiązuje problem; (b) informację jak otrzymać program, który rozwiąże problem; (c) powiadomienie, że przyczyną problemu jest znana i nierozwiązana kwestia lub brak kompatybilności z Produktem objętym wsparciem; (d) informację, że problem został rozwiązany poprzez wprowadzenie udoskonalonej, nowszej wersji Produktu Objętego Wsparciem; lub (e) powiadomienie, że jako przyczynę problemu zidentyfikowano problem ze sprzętem. W przypadku Planu Serwisowego obejmującego ograniczoną liczbę Zdarzeń Objętych Wsparciem każde nowe Zdarzenie Objęte Wsparciem zgłoszone przez Klienta zmniejsza liczbę pozostałych dostępnych Zdarzeń Objętych Wsparciem.
+
+2.2	Czasy reakcji. Apple dołoży wszelkich uzasadnionych starań w celu wykonania zamówionej Usługi Wsparcia w rozsądnym czasie lub w czasie reakcji podanym we właściwym Planie Serwisowym („Czas Reakcji”), którekolwiek nastąpi wcześniej, jednak nie gwarantuje wykonania zamówionej Usługi Wsparcia w określonym czasie. Wszystkie Czasy Reakcji podane są zgodnie z Godzinami Świadczenia Planu Serwisowego podanymi na Stronie Wsparcia dla Planu Serwisowego. 
+
+2.3	Aktualne wersje Produktów. O ile nie określono inaczej, wszystkie Produkty Objęte Wsparciem muszą być w aktualnej w danym momencie wersji. 
+
+2.4	Korzystanie z Usług Wsparcia. Usługi Wsparcia nie są przeznaczone do wykorzystania w celu obsługi instalacji nuklearnych, w nawigacji statków powietrznych, w systemach komunikacyjnych, w urządzeniach służących do kontroli ruchu lotniczego ani w żadnych innych działalnościach, w których niemożność uzyskania dzięki Usługom Wsparcia pożądanego skutku mogłaby prowadzić do śmierci, obrażeń ciała lub poważnych uszkodzeń fizycznych lub szkód dla środowiska.
+
+2.5	Osoby do kontaktu w sprawach technicznych. Usługi Wsparcia są świadczone jednej osobie lub kilku osobom zgodnie z ustaleniami poczynionymi przez przez Klienta w momencie dokonywania rejestracji oraz zgodnie z Planem Serwisowym („Osoby do Kontaktu w Sprawach Technicznych”). Osoby do Kontaktu w Sprawach Technicznych są jedynymi osobami odpowiedzialnymi za kontakty Klienta z Apple w sprawie wsparcia technicznego w ramach Planu Serwisowego. W przypadku wyznaczenia do danego Planu Serwisowego kilku Osób do Kontaktu w Sprawach Technicznych, jeżeli Klient postanowi zmienić Osoby do Kontaktu w Sprawach Technicznych, wówczas Klient będzie musiał przekazać Apple pisemną informację o takiej zmianie co najmniej pięć (5) dni wcześniej na właściwy adres Punktu Kontaktowego do Spraw Zwrotów podany poniżej lub, o ile jest to właściwe dla danego Planu Serwisowego, wpisać zmiany bezpośrednio w bezpiecznej, zindywidualizowanej witrynie internetowej Klienta, zgodnie z dokumentacją dostarczoną w momencie rozpoczęcia realizacji Planu Serwisowego.
+
+3.	Wyłączenia. O ile nie określono inaczej w Planie Serwisowym, Apple nie będzie świadczyć Usług Wsparcia w odniesieniu do problemów lub zagadnień będących wynikiem lub dotyczących: (a) korzystania z Produktu Objętego Wsparciem jako aplikacji serwerowej; (b) problemów, które można rozwiązać poprzez uaktualnienie do nowszej wersji Produktu Objętego Wsparciem; (c) korzystania lub modyfikowania Produktu Objętego Wsparciem w sposób nieprzewidziany dla tego Produktu; (d) produktów lub technologii osób trzecich, wpływu tych produktów lub technologii na Produkt Objęty Wsparciem lub ich interakcji z Produktem Objętym Wsparciem; (e) uszkodzenia nośnika, na którym Produkt Objęty Wsparciem jest dostarczany, lub uszkodzenia komputera, na którym zainstalowany jest Produkt Objęty Wsparciem; (f) korzystania z systemu komputerowego niekompatybilnego z Produktem Objętym Wsparciem; oraz z (g) problemów związanych z Internetem, pocztą elektroniczną, zarządzaniem plikami, konfiguracją sieci, skryptami, skryptami FX, programowaniem, kompilacją, usuwaniem błędów, projektowaniem infrastruktury, tworzeniem treści, dostosowywaniem treści, planowaniem/projektowaniem projektów multimedialnych, zarządzaniem zasobami, budżetowaniem, szkoleniem, analizą na miejscu lub innych problemów wykraczających poza zakres Usług Wsparcia opisanych w danym Planie Serwisowym.
+
+4.	Obowiązki klienta. Aby otrzymywać Usługi Wsparcia, Klient musi zarejestrować Plan Serwisowy i postępować zgodnie z instrukcjami dostępu dostarczonymi przez Apple. Nawiązanie i utrzymanie komunikacji e-mailowej i telefonicznej z Apple odbywa się na koszt Klienta. Klient zobowiązuje się współpracować z Apple w toku ubiegania się o Usługi Wsparcia, dostarczając informacje niezbędne dla Apple do zdiagnozowania problemu. Klient ponosi odpowiedzialność za przywracanie lub rekonstrukcję utraconych lub zmienionych plików, danych lub programów. Klient jest zobowiązany wprowadzić i utrzymać kompletny plan tworzenia kopii zapasowych danych oraz plan odzyskania danych na wypadek awarii. Klient ponosi wyłączną odpowiedzialność za ochronę swoich poufnych, zastrzeżonych lub niejawnych informacji. Klient zobowiązuje się nie przekazywać Apple informacji poufnych, zastrzeżonych ani takich, które podlegają prawom własności intelektualnej i mogłyby narazić Apple na odpowiedzialność. Klient zobowiązuje się mieć stosowną wiedzę na temat Produktów Objętych Wsparciem, dla których chce uzyskać Usługę Wsparcia, oraz na temat systemu komputerowego, który wykorzystuje. Klient nie może przenieść Usług Wsparcia na osobę trzecią. Usługi Wsparcia są świadczone tylko do użytku wewnętrznego Klienta i każde nieuprawnione rozpowszechnianie Usług Wsparcia będzie stanowić podstawę do wypowiedzenia niniejszych Warunków ze skutkiem natychmiastowym. Klient zobowiązuje się przedsięwziąć odpowiednie środki, aby zapobiec nieuprawnionemu rozpowszechnianiu i korzystaniu z Usług Wsparcia. Klient zobowiązuje się nie nadużywać prawa do otrzymania lub korzystania z Usług Wsparcia, w tym m.in. do uzyskania Usług Wsparcia w celu usunięcia problemu, który został już rozwiązany. 
+
+5.	Usługi wsparcia zdalnego. W ramach Planu Serwisowego Apple może świadczyć Usługi Wsparcia, korzystając z dostępu zdalnego za pośrednictwem Internetu. Apple ma wówczas dostęp do komputera Klienta, a za zgodą Klienta również kontroluje ten komputer i zbiera o nim informacje poprzez zainstalowanie i korzystanie z oprogramowania zdalnego dostępu. Zainstalowanie i korzystanie przez Klienta z oprogramowania zdalnego dostępu oznacza, że Klient zgadza się na świadczenie przez Apple Usług Wsparcia tą drogą. Po zakończeniu sesji, podczas której świadczona była Usługa Wsparcia, na komputerze Klienta mogą pozostawać wszystkie lub niektóre pliki oprogramowania zdalnego dostępu. Tytuł własności oprogramowania zdalnego dostępu oraz wszelkie prawa własności intelektualnej związane z tym oprogramowaniem należą do Apple Inc. lub licencjodawców Apple Inc. Korzystanie z odpowiedniego oprogramowania zdalnego dostępu może podlegać dodatkowym postanowieniom licencyjnym dostępnym na stronie http://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf. Klientowi nie wolno dezasemblować ani odtwarzać żadnego elementu oprogramowania zdalnego dostępu. W czasie świadczenia Usług Wsparcia zdalnego Apple uzyskuje dostęp do komputera Klienta, kontroluje ten komputer i zbiera o nim informacje jedynie w zakresie, który, w zasadnym przekonaniu Apple, jest niezbędny do przeprowadzenia analizy i zapewnienia pomocy przy Zdarzeniu Objętym Wsparciem. Apple zaleca Klientowi zamknięcie wszystkich plików oraz aplikacji, które nie mają związku ze Zdarzeniem Objętym Wsparciem. Oprogramowanie zdalnego dostępu lub właściwości komputera Klienta pozwalają Klientowi na zakończenie w dowolnym momencie sesji Usług Wparcia zdalnego.
+
+Uwaga: przepisy prawa i przyjęte przez Apple zasady mogą nakazywać Apple zgłaszanie organom ochrony porządku publicznego niektórych obrazów wyświetlanych podczas sesji.
+
+6.	Zrzeczenie się odpowiedzialności z tytułu gwarancji. MIMO IŻ APPLE NIE MOŻE ZAGWARANTOWAĆ USUNIĘCIA PRZYCZYN ZDARZENIA OBJĘTEGO WSPARCIEM, APPLE DOŁOŻY WSZELKICH UZASADNIONYCH STARAŃ, ABY WYKONAĆ USŁUGI WSPARCIA W RAMACH PLANU SERWISOWEGO W SPOSÓB PROFESJONALNY. W ZAKRESIE DOPUSZCZALNYM PRZEZ PRAWO GWARANCJA I ŚRODKI PRAWNE WYRAŹNIE OKREŚLONE W TYM DOKUMENCIE WYŁĄCZAJĄ I ZASTĘPUJĄ WSZYSTKIE INNE RĘKOJMIE, GWARANCJE, ŚRODKI PRAWNE I ZOBOWIĄZANIA, USTNE LUB PISEMNE, USTAWOWE, WYRAŹNE LUB DOROZUMIANE. W ZAKRESIE DOZWOLONYM PRZEZ PRAWO WŁAŚCIWE, APPLE I LICENCJODAWCY APPLE WYRAŹNIE WYŁĄCZAJĄ WSZELKIE USTAWOWE LUB DOROZUMIANE GWARANCJE, ZWIĄZANE Z NINIEJSZYMI WARUNKAMI LUB W JAKIKOLWIEK SPOSÓB WYNIKAJĄCE Z NINIEJSZYCH WARUNKÓW, W TYM WSZELKIE DOROZUMIANE GWARANCJE CO DO WARTOŚCI HANDLOWEJ LUB PRZYDATNOŚCI DO OKREŚLONEGO CELU.
+
+7.	Ograniczenie odpowiedzialności. W ZAKRESIE DOZWOLONYM PRZEZ PRAWO, ODPOWIEDZIALNOŚĆ APPLE I LICENCJODAWCÓW APPLE, WYNIKAJĄCA Z NINIEJSZYCH WARUNKÓW, JEST OGRANICZONA DO WYSOKOŚCI KWOTY ZAPŁACONEJ PRZEZ KLIENTA ZA ZAMÓWIONY PRZEZ NIEGO PLAN SERWISOWY. W ŻADNYM PRZYPADKU APPLE I LICENCJODAWCY APPLE NIE PONOSZĄ ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK SZKODY LUB ODSZKODOWANIA, W TYM SZKODY POŚREDNIE, UBOCZNE I WYNIKOWE ORAZ ODSZKODOWANIA SPECJALNE, W TYM MIĘDZY INNYMI ZA SZKODY WYNIKAJĄCE Z UTRATY KORZYŚCI, UTRATY DANYCH, BRAKU MOŻLIWOŚCI UŻYCIA SPRZĘTU LUB UTRATY SPRZĘTU, PRZERWY W PROWADZENIU DZIAŁALNOŚCI GOSPODARCZEJ, WYNIKAJĄCE W JAKIKOLWIEK SPOSÓB Z NINIEJSZYCH WARUNKÓW, NIEZALEŻNIE OD PRZYJĘTEJ ZASADY ODPOWIEDZIALNOŚCI, BEZ WZGLĘDU NA TO, CZY APPLE LUB LICENCJODAWCY APPLE ZOSTALI POWIADOMIENI O MOŻLIWOŚCI WYSTĄPIENIA TAKICH SZKÓD. INNE ZASTRZEŻENIA PRAWNE MOGĄ BYĆ ZAWARTE W WARUNKACH UDZIELANIA LICENCJI DOTYCZĄCYCH OPROGRAMOWANIA ZDALNEGO DOSTĘPU DOSTĘPNYCH NA STRONIE http://www.apple.com/legal/sales-support/remote-support/. JEŚLI DO KLIENTA MAJĄ ZASTOSOWANIE PRZEPISY PRAWA OCHRONY KONSUMENTÓW OBOWIĄZUJĄCE W KRAJU ZAKUPU PRODUKTU LUB W KRAJU ZAMIESZKANIA KLIENTA, JEŚLI SĄ TO RÓŻNE KRAJE, KORZYŚCI WYNIKAJĄCE Z NINIEJSZYCH WARUNKÓW PRZYSŁUGUJĄ DODATKOWO WZGLĘDEM ŚRODKÓW OCHRONY PRAWNEJ PRZEWIDZIANYCH W TYCHŻE PRZEPISACH PRAWA OCHRONY KONSUMENTÓW. NIEKTÓRE KRAJE, STANY LUB PROWINCJE NIE DOPUSZCZAJĄ MOŻLIWOŚCI WYŁĄCZENIA LUB OGRANICZENIA ODPOWIEDZIALNOŚCI ZA SZKODY UBOCZNE LUB WYNIKOWE, LUB MOŻLIWOŚCI WYŁĄCZENIA LUB OGRANICZENIA DOROZUMIANYCH GWARANCJI LUB WARUNKÓW, W ZWIĄZKU Z CZYM WYŻEJ OPISANE WYŁĄCZENIA LUB OGRANICZENIA MOGĄ NIE MIEĆ ZASTOSOWANIA DO KLIENTA. NINIEJSZE WARUNKI DAJĄ KLIENTOWI OKREŚLONE UPRAWNIENIA. KLIENTOWI MOGĄ PRZYSŁUGIWAĆ RÓWNIEŻ INNE PRAWA ZALEŻNIE OD KRAJU, STANU LUB PROWINCJI.
+
+8.	Okres obowiązywania i wypowiedzenie. O ile Plan Serwisowy nie zostanie wypowiedziany wcześniej zgodnie z niniejszym punktem, będzie on obowiązywać przez okres dwunastu (12) miesięcy od Daty Wejścia w Życie lub do momentu wykorzystania wszystkich Zdarzeń Objętych Wsparciem, zależnie od tego, który z tych przypadków nastąpi wcześniej (chyba że Apple uzgodni na piśmie inaczej). Apple nie będzie świadczyć Usług Wsparcia po upływie okresu obowiązywania Planu Serwisowego, chyba że Plan Serwisowy zostanie przedłużony, jednak nie później niż do dnia upływu jego okresu obowiązywania. Apple może wypowiedzieć Plan Serwisowy w dowolnym momencie (a) jeżeli, po przekazaniu Klientowi pisemnego wezwania do uregulowania zaległości z co najmniej piętnastodniowym (15) terminem realizacji, Klient nie ureguluje kwot płatności należnych z tytułu korzystania z Planu Serwisowego, lub (b) jeżeli, po przekazaniu Klientowi wezwania do usunięcia naruszenia niniejszych Warunków z co najmniej trzydziestodniowym (30) terminem realizacji, Klient nie usunie naruszeń niniejszych Warunków, lub (c) jeżeli Klient naruszy dowolne postanowienie umowy licencji na oprogramowanie regulującej korzystanie z oprogramowania dostarczonego na podstawie Planu Serwisowego. O ile prawo nie stanowi inaczej i pod warunkiem nieotrzymania przez Klienta żadnej Usługi Wsparcia, Klient ma prawo zrezygnować z Planu Serwisowego z dowolnego powodu, w terminie trzydziestu (30) dni od daty zakupu lub Daty Wejścia w Życie Planu Serwisowego, w zależności od tego, które z tych zdarzeń nastąpi później, oraz otrzymać zwrot wszystkich wpłaconych kwot. Wnioski o zwrot pieniędzy muszą być składane w formie pisemnej, wraz z dowodem zakupu, na adres Punktu Kontaktowego do Spraw Zwrotów wskazanego poniżej. Punkty 6, 7 i 12 pozostaną w mocy po zakończeniu obowiązywania niniejszych Warunków, niezależnie od przyczyn zakończenia obowiązywania tych Warunków.
+
+9.	Apple; Prawo właściwe. Właściwą dla danego Klienta spółką „Apple" jest spółka wskazana w tabeli zamieszczonej poniżej wg. kraju zamieszkania Klienta. USTALA SIĘ, ŻE NINIEJSZE WARUNKI PODLEGAJĄ PRAWU KRAJU ZAKUPU LUB KRAJU ZAMIESZKANIA, JEŚLI SĄ TO RÓŻNE KRAJE, ORAZ ŻE ODPOWIEDNIO SĄDY DANEGO KRAJU SĄ WŁAŚCIWE DO ROZPOZNAWANIA SPRAW. 
+
+10.	Usługi dodatkowe lub Oprogramowanie. Wszelkie dodatkowe usługi, dostępne w ramach Planu Serwisowego, podlegają niniejszym Warunkom. W przypadku świadczenia Usług Wsparcia u Klienta w ramach Planu Serwisowego, Klient zapewni pracownikom Apple dostęp do swojej lokalizacji w umówionym terminie oraz bezpieczne środowisko pracy, w którym będą świadczone przez Apple Usługi Wsparcia. W przypadku dostarczenia oprogramowania w ramach Planu Serwisowego, takie oprogramowanie jest chronione prawem autorskim Apple Inc. lub licencjodawców Apple Inc. Klient ma prawo instalować, powielać oprogramowanie i używać go wyłącznie w celach wspierania Produktów Objętych Wsparciem i nie może, z zastrzeżeniem przypadków dozwolonych przez obowiązujące prawo, dekompilować, odtwarzać, modyfikować, wynajmować, wydzierżawiać, wypożyczać oprogramowania ani tworzyć opracowań na jego podstawie. Jeśli oprogramowanie podlega warunkom oddzielnej licencji, warunki tejże licencji mają zastosowanie do korzystania z oprogramowania. Każde oprogramowanie udostępniane na podstawie niniejszych Warunków i zasad rządowi Stanów Zjednoczonych jest klasyfikowane jako „oprogramowanie komputerowe chronione zastrzeżonym prawem autorskim” (ang. restricted computer software) w rozumieniu pkt 52.227-19 amerykańskiego federalnego rozporządzenia dotyczące przetargów rządowych (ang. FAR). Prawa rządu Stanów Zjednoczonych do oprogramowania zdefiniowano w pkt 52.227-19 FAR. Prawa rządu Stanów Zjednoczonych do oprogramowania zdefiniowano w pkt 52.227-19 FAR.
+
+11.	Ochrona danych. Klient rozumie i zgadza się na to, że Apple musi gromadzić, przetwarzać i wykorzystywać dane Klienta w celu wykonania zobowiązań do świadczenia usług i wsparcia w ramach Planu Serwisowego. Takie działania mogą obejmować przekazywanie danych Klienta do usługodawców lub spółek powiązanych zgodnie z Zasadami zachowania poufności informacji obowiązującymi w Apple (http://www.apple.com/legal/warranty/privacy). Apple chroni informacje Klienta zgodnie z Zasadami zachowania poufności informacji obowiązującymi w Apple. W przypadku chęci uzyskania przez Klienta dostępu do informacji, które na jego temat przechowuje Apple, lub w przypadku chęci dokonania jakichkolwiek zmian, Klient może uaktualnić preferencje dotyczące osobistego kontaktowania się, wchodząc na stronę http://www.apple.com/contact/myinfo. Apple może rejestrować wybrane lub wszystkie rozmowy telefoniczne między Klientem a Apple na potrzeby prowadzenia szkoleń, zapewnienia jakości i tworzenia dokumentacji.
+
+12.	Postanowienia ogólne. Klient nie może dokonać cesji swoich praw lub obowiązków wynikających z Planu Serwisowego. Każda nieuprawniona cesja będzie nieważna. Apple nie ponosi odpowiedzialności za opóźnione wykonania lub niewykonania będące wynikiem przyczyn pozostających poza racjonalną kontrolą Apple. Jednorazowe nieskorzystanie z praw przysługujących w związku z naruszeniem lub niewykonaniem zobowiązań wynikających z niniejszych Warunków nie stanowi zrzeczenia się praw przysługujących w związku z przyszłymi naruszeniami lub niewykonaniem zobowiązań. Jeżeli właściwy sąd orzeknie nieważność lub niewykonalność któregokolwiek z postanowień niniejszych Warunków, pozostałe postanowienia Warunków będą nadal obowiązywać z pełną mocą, a strony będą zobowiązane zastąpić nieważne lub niewykonalne postanowienia postanowieniami ważnymi i wykonalnymi, zapewniającymi realizację pierwotnych intencji stron i skutków ekonomicznych Warunków. Niniejsze Warunki, włącznie z wszystkimi dodatkowymi postanowieniami w nich przywołanymi, stanowią całość porozumienia pomiędzy Apple a Klientem w przedmiocie Planu Serwisowego i Usług Wsparcia świadczonych na podstawie niniejszych Warunków, oraz zastępują wszystkie wcześniejsze negocjacje, umowy i porozumienia w tym przedmiocie. Wszelkie uzupełnienia, usunięcia oraz zmiany któregokolwiek z tak rozumianych postanowień Warunków będą wiążące dla Apple jedynie wówczas, jeżeli zostaną sporządzone na piśmie i podpisane przez upoważnionego przedstawiciela Apple. Jakiekolwiek postanowienie zapisane na zamówieniu lub innym dokumencie przekazanym przez Klienta nie ma mocy i nie wywołuje żadnego skutku, oraz jest niniejszym w sposób wyraźny odrzucone. 
+
+ZMIANY DO WARUNKÓW OBOWIĄZUJĄCE W WYBRANYCH KRAJACH
+
+Podane poniżej zmiany Warunków obowiązujące w wybranych krajach będą rozstrzygające w przypadku jakichkolwiek rozbieżności z jakimkolwiek innym postanowieniem niniejszego Planu:
+
+AUSTRALIA
+Uprawnienia opisane w niniejszych warunkach w odniesieniu do zwrotów towarów i pieniędzy oraz do gwarancji stanowią uzupełnienie praw ustawowych, które mogą przysługiwać Klientowi na mocy Ustawy o konkurencji i konsumentach z 2010 r. (ang. Competition and Consumer Act) i innych odpowiednich przepisów australijskich, chroniących prawa konsumenta.
+
+BELGIA
+Klient przyjmuje do wiadomości, że kontaktując się z Apple w celu uzyskania Usług Wsparcia, nie wykonuje żadnego z praw wynikających z wcześniej zawartej umowy sprzedaży w rozumieniu art. 94 ter. ustawy o praktykach handlowych z 14 lipca 1991 r.
+
+NIEMCY
+Punkt 7. Ograniczenie odpowiedzialności. W odniesieniu do Klientów będących Konsumentami będą miały zastosowanie następujące postanowienia: W przypadku strat powstałych z tytułu Planu Serwisowego Apple będzie ponosić odpowiedzialność jedynie na podstawie następujących przepisów: (i) odpowiedzialność nieograniczoną za straty będące wynikiem działania umyślnego lub rażącego zaniedbania, (ii) odpowiedzialność nieograniczoną za śmierć, obrażenia ciała lub uszczerbek na zdrowiu będące wynikiem działania umyślnego lub rażącego zaniedbania, (iii) odpowiedzialność za straty powstałe wskutek braku którejkolwiek z zagwarantowanych charakterystyk, do wysokości kwoty objętej celem gwarancji, która była możliwa do przewidzenia przez Apple w momencie udzielania gwarancji, (iv) odpowiedzialność przewidzianą w ustawie o odpowiedzialności za produkty w przypadku powstania odpowiedzialności za produkt, lub (v) odpowiedzialność za straty będące wynikiem naruszenia podstawowych obowiązków Apple, które stanowią istotę Planu Serwisowego, które były czynnikiem decydującym o przystąpieniu do Planu Serwisowego, i na których Klient może polegać. Niniejszym wyłącza się ze względów merytorycznych jakikolwiek szerszy zakres odpowiedzialności Apple. 
+
+WŁOCHY
+Punkt 4. Obowiązki Klienta. Do punktu 4 dodaje się następujące zdanie:
+
+Koszty wiadomości e-mail i połączeń telefonicznych ustalane są przez dostawcę usług telefonicznych/dostępu do Internetu.
+
+NORWEGIA
+Punkt 8. Okres obowiązywania i wypowiedzenie. Do punktu 8 dodaje się następujące zdanie: 
+
+Użytkownik będący konsumentem jest niniejszym informowany, iż przysługujące mu prawo do odstąpienia, przewidziane w norweskiej ustawie o prawie odstąpienia od umowy sprzedaży (ustawa z dn. 21 grudnia 2000 r. nr 105), zostało włączone do Punktu 8, Okres obowiązywania i wypowiedzenie. 
+
+SZWECJA
+Punkt 1. Usługi. Dodaje się następujący tekst do punktu 1:
+
+Jeśli zmiany w Usługach Wsparcia są znacząco niekorzystne dla Klienta, ma on prawo wypowiedzieć Plan Serwisowy zgodnie z postanowieniami punktu 8 poniżej.
+
+Punkt 8. Okres obowiązywania i wypowiedzenie. Zdanie „Jeśli Apple dokona jakichkolwiek zmian w Usługach Wsparcia, które byłyby znacząco niekorzystne dla Klienta, jak na przykład anulowanie usług wsparcia w odniesieniu do produktu Klienta, Klient ma prawo wypowiedzieć Plan Serwisowy i uzyskać zwrot pieniędzy za pozostały okres obowiązywania Planu Serwisowego” zostaje dodane po zdaniu „O ile prawo nie stanowi inaczej i pod warunkiem nieotrzymania przez Klienta żadnej Usługi Wsparcia, Klient ma prawo zrezygnować z Planu Serwisowego z dowolnego powodu, w terminie trzydziestu (30) dni od daty zakupu lub Daty Wejścia w Życie Planu Serwisowego, w zależności od tego, które z tych zdarzeń nastąpi później, oraz otrzymać zwrot wszystkich wpłaconych kwot”.
+
+Region/kraj zakupu
+Apple
+Adres
+Ameryki
+
+
+Brazylia
+Apple Computer Brasil Ltda
+Rua: Leopoldo Couto Magalhães Júnior, nº 700, 7º andar, São Paulo, SP, Brasil 
+04542-000
+SAC: 0800-761-0880
+http://www.apple.com/br/support
+Kanada
+Apple Canada Inc.
+7495 Birchmount Rd.; Markham, Ontario, Canada; L3R 5G2 Canada
+Meksyk
+Apple Operations Mexico, S.A. de C.V.
+Prolongación Paseo de la Reforma #600, Suite 132, Colonia Peña Blanca, Santa Fé, Delegación Álvaro Obregón, México D. F., CP 01210, Mexico
+Stany Zjednoczone i pozostałe kraje obu Ameryk
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, USA
+Europa, Bliski Wschód i Afryka
+
+
+Federacja Rosyjska
+Limited Liability Company Apple Rus
+5 Petrovka Street, Berlin House Business Center, 107031, Moscow, Russian Federation
+Turcja
+Apple Teknoloji ve Satış Limited Şirketi
+FSM Mahallesi Poligon Caddesi Buyaka 2 Sitesi No:8, Blok No.2 (C Blok) Kat:18 34471 Ümraniye İstanbul, Turkey
+Pozostałe kraje
+Apple Distribution International
+Hollyhill Industrial Estate Hollyhill, Cork, Republic of Ireland
+Azja i Pacyfik
+
+
+Australia; Nowa Zelandia; Fidżi; Papua-Nowa Gwinea; Vanuatu
+Apple Pty. Limited.
+PO Box A2629, Sydney South, NSW 1235, Australia Tel: 133 622
+Hongkong
+Apple Asia Limited
+2401 Tower One, Times Square, Causeway Bay; Hong Kong
+Indie
+Apple India Private Ltd.
+19th Floor, Concorde Tower C, UB City No 24, Vittal Mallya Road, Bangalore 560-001, India
+Japonia
+Apple Japan Inc.
+6-10-1 Roppongi, Minato-ku Tokyo 106-6140, Japan
+Korea
+Apple Korea Ltd.
+3901, ASEM Tower; 159, Samsung-dong, Gangnam-Gu; Seoul 135-798, Republic of Korea
+Afganistan, Bangladesz, Bhutan, Brunei, Kambodża, Guam, Indonezja, Laos, Singapur, Malezja, Nepal, Pakistan, Filipiny, Sri Lanka, Wietnam
+Apple South Asia Pte. Ltd.
+7 Ang Mo Kio Street 64
+Singapore 569086
+
+
+Chińska Republika Ludowa
+Apple Computer Trading (Shanghai) Co. Ltd. 
+Units 610-13 on partial Floor 6, HSBC Building (i.e., Tower A), Shanghai ifc, 8 Century Avenue, Pudong New Area, Shanghai, China
+Tajlandia
+Apple South Asia (Thailand) Limited
+44th Floor, Room No. HH4401-6, The Offices at Central World, 999/9 Rama 1 Road , Pathumwan, Pathumwan , Bangkok 10330 Thailand
+Tajwan
+Apple Asia LLC
+19F., No.1, Songzhi Rd., Xinyi Dist., Taipei City 110, Taiwan
+Inne kraje Azji i Pacyfiku
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, USA
+
+071814 Tech Support Polish v1.8

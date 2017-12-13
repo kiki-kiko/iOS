@@ -1,0 +1,143 @@
+AppleCare teknisk support
+Vilkår og betingelser
+
+VED AT KONTAKTE APPLE FOR AT FÅ SUPPORTSERVICE I HENHOLD TIL DEN HEREFTER OMTALTE SERVICEPLAN (”SERVICEPLAN”) ELLER REGISTRERE EN SERVICEPLAN HOS APPLE INDVILLIGER PERSONEN ELLER VIRKSOMHEDEN (”KUNDE”) I, AT FØLGENDE VILKÅR OG BETINGELSER (”VILKÅR OG BETINGELSER”) GÆLDER FOR LEVERING AF SUPPORTSERVICE I HENHOLD TIL DEN PÅGÆLDENDE SERVICEPLAN. BEMÆRK IMIDLERTID, AT SUPPORTSERVICE, DER YDES FOR AT HJÆLPE EN KUNDE, DER HAR MODTAGET FORDELE AF APPLES ET-ÅRIGE BEGRÆNSEDE GARANTI, APPLECARE+, APPLECARE PROTECTION PLAN ELLER GÆLDENDE FORBRUGERLOVE, ER UNDERLAGT VILKÅRENE FOR DEN RESPEKTIVE GARANTI, APPLE SERVICEKONTRAKT ELLER FORBRUGERLOVEN.   I FORBINDELSE MED SUPPORTSERVICE, DER ER UNDERLAGT NÆRVÆRENDE VILKÅR OG BETINGELSER, GÆLDER DET, AT HVIS KUNDEN IKKE ACCEPTERER DISSE VILKÅR OG BETINGELSER, SKAL KUNDEN IKKE KONTAKTE APPLE ELLER REGISTRERE SERVICEPLANEN. FOR AT ANNULLERE EN KØBT SERVICEPLAN OG FÅ REFUNDERET EVENTUELLE BETALTE BELØB SKAL KUNDEN KONTAKTE APPLE SOM BESKREVET NEDENFOR. EN SERVICEPLAN TRÆDER I KRAFT, NÅR APPLE ACCEPTERER KUNDENS REGISTRERING (”IKRAFTTRÆDELSESDATO”).
+
+1.	Service. Ved accept af kundens registrering vil Apple yde supportservice (”Supportservice”) til Apple-softwareprodukter eller tilhørende teknologier (”Supporterede produkter”) for den pågældende serviceplan som beskrevet på følgende online webside: http://www.apple.com/legal/sales-support/applecare/docs/techsupportda.pdf (”Serviceplanens supportside”). Apple forbeholder sig retten til at ændre den leverede supportservice og/eller de supporterede produkter, der er omfattet af en serviceplan, når som helst ved at lægge opdateringer ud på serviceplanens supportside. Apple ændrer ikke supportservice og/eller de supporterede produkter på en måde, der (i) reducerer den indsats, som Apple yder i henhold til supportservice, eller (ii) væsentligt påvirker Apples forpligtelse til at levere supportservice, eller (iii) væsentligt påvirker de rettigheder, som kunden får i henhold til supportservice. I forbindelse med opdateringer, der berører kundens serviceplan, vil Apple meddele kunden om opdateringen via den e-mailadresse, som kunden har registreret, mindst tredive (30) dage, før de lægges ud på websiden. De vilkår, der er beskrevet på serviceplanens supportside, er indeholdt i disse vilkår og betingelser. I tilfælde af uoverensstemmelser mellem vilkårene i dette dokument og vilkårene på serviceplanens supportside, er vilkårene på serviceplanens supportside gældende.
+
+2.	Begrænsninger. 
+
+2.1	Supporthændelser. Serviceplaner leveres i enkelte, flere eller ubegrænsede supporthændelsespakker. En supporthændelse er et specifikt, særskilt problem, der kan føres tilbage til en enkelt årsag. Apple vil bestræbe sig på at løse en supporthændelse, men garanterer ikke, at supporthændelser løses. Apple bestemmer efter eget skøn, hvad der udgør en supporthændelse, og i det omfang loven tillader, om supporthændelsen løses. Generelt løses en supporthændelse, når kunden modtager et af følgende: (a) oplysninger, der løser problemet, (b) oplysninger om, hvordan kunden får en softwareløsning, der vil løse problemet, (c) meddelelse om, at problemet skyldes et kendt, uløst problem eller et problem med manglende kompatibilitet med et supporteret produkt, (d) oplysninger, der angiver, at problemet kan løses ved at opgradere til en nyere version af det supporterede produkt, eller (e) meddelelse om, at problemet skyldes et hardwareproblem. I en serviceplan med et begrænset antal supporthændelser reducerer hver ny henvendelse fra kunden angående en supporthændelse det resterende antal berettigede supporthændelser.
+
+2.2	Svartider. Apple vil bestræbe sig på at besvare en anmodning om supportservice inden for rimelig tid eller inden for den i den gældende serviceplan anførte svartid (”Svartid”), hvad der måtte komme først, men garanterer ikke, at der vil blive svaret inden for en bestemt periode. Alle svartider måles i overensstemmelse med de på serviceplanens supportside beskrevne driftstimer for serviceplanen. 
+
+2.3	Aktuel version. Medmindre andet er angivet, skal samtlige supporterede produkter være i den nyeste version. 
+
+2.4	Brug. Supportservice er ikke beregnet til brug til drift af kernekraftfaciliteter, flynavigering, kommunikationssystemer, flyveledelsesmaskiner eller andre aktiviteter, hvor supportservicens manglende opnåelse af et ønsket resultat kunne medføre dødsfald, personskade eller alvorlige fysiske eller miljømæssige skader.
+
+2.5	Tekniske kontakter. Supporttjenester ydes til en enkelt person eller flere personer, som er udvalgt af kunden på registreringstidspunktet i overensstemmelse med serviceplanen (“teknisk(e) kontakt(er)”). Tekniske kontakter er den eneste forbindelse mellem kunden og Apple med hensyn til serviceplanens tekniske support. Hvis serviceplanen omfatter flere tekniske kontakter, og kunden vil ændre de tekniske kontakter, skal kunden meddele dette til Apple skriftligt og mindst fem (5) dage, før ændringen træder i kraft, på den relevante refunderingskontaktadresse nedenfor eller – hvis det er relevant i forbindelse med serviceplanen – skrive ændringerne direkte via kundens eget sikre websted som beskrevet i de instruktioner, der blev leveret ved serviceplanens ikrafttræden.
+
+3.	Undtagelser. Medmindre andet er angivet i serviceplanen, leverer Apple ikke supportservice vedrørende problemer, der opstår som følge af eller i forbindelse med (a) brugen af et supporteret produkt som en serverbaseret applikation, (b) problemer, der kunne løses ved opgradering af et supporteret produkt, (c) brugen eller ændringen af et supporteret produkt på en måde, hvorpå det supporterede produkt ikke er beregnet til at blive brugt eller ændret, (d) tredjepartsprodukter eller -teknologi og deres virkning på eller interaktion med et supporteret produkt, (e) skade på de medier, hvorpå et supporteret produkt leveres, eller på den computer, hvorpå et supporteret produkt er installeret, (f) brugen af et computersystem, der ikke er kompatibelt med et supporteret produkt, samt (g) problemer, der vedrører internettet, e-mail, filstyring, netværkskonfiguration, scripting, FX-scripting, programmering, kompilering, debugging, infrastrukturdesign, skabelse af indhold, tilpasning af indhold, planlægning/design af multimedieprojekter, ressourcestyring, budgettering, uddannelse, on-site-diagnostik eller andre problemer, der ikke er omfattet af den i en serviceplan beskrevne supportservice.
+
+4.	Kundens ansvar. For at modtage supportservice skal kunden registrere serviceplanen og følge de adgangsanvisninger, som Apple giver kunden. Kunden skal betale alle gebyrer til oprettelse og vedligeholdelse af e-mail- og telefonkommunikation med Apple. Kunden samarbejder med Apple, når kunden søger supportservice ved at levere de oplysninger, der er nødvendige for, at Apple kan diagnosticere et problem. Kunden er ansvarlig for enhver og al gendannelse eller rekonstruktion af mistede eller ændrede filer, data eller programmer. Kunden skal vedligeholde og gennemføre en komplet plan for databackup og nødgenoprettelse. Kunden har selv ansvaret for sikkerheden for sine fortrolige, ophavsretligt beskyttede eller klassificerede oplysninger. Kunden vil ikke over for Apple afsløre egne fortrolige oplysninger eller andre oplysninger, som er beskyttet af immaterielle rettigheder, hvorved Apple risikerer at skulle betale erstatning. Kunden skal have en rimelig forståelse for de supporterede produkter, kunden søger supportservice for, og det computersystem, de arbejder på. Kunden må ikke overdrage supportservice til tredjepart. Kunden må ikke overdrage supportservice til tredjepart. Supportservice leveres kun til kundens interne brug, og enhver ikke-godkendt fordeling af supportservice er årsag til omgående opsigelse af disse vilkår og betingelser. Kunden skal træffe rimelige foranstaltninger for at forhindre ikke-godkendt fordeling og brug af supportservicen. Kunden må ikke misbruge sin modtagelse eller brug af supportservice, herunder også, men ikke begrænset til, adgang til supportservice i forbindelse med problemer, der allerede er løst. 
+
+5.	Supportservice via ekstern adgang. Som led i en serviceplan kan Apple yde support vha. ekstern adgang via internettet, hvorved Apple kan se og – hvis kunden tillader det – kontrollere og indsamle oplysninger på kundens computer ved at installere og benytte software til ekstern adgang. Ved at installere og bruge software til ekstern adgang giver kunden Apple tilladelse til at yde support på denne måde. Alle eller nogle af softwarearkiverne til ekstern adgang bevares evt. på kundens computer efter gennemført supportservice. Apple Inc. og/eller dets licensgivere bevarer ejendomsretten og alle immaterielle rettigheder til softwaren til ekstern adgang. Brug af den relevante software til ekstern adgang er måske underlagt yderligere licensbetingelser, som er tilgængelige på http://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf Kunden må ikke adskille eller udføre “reverse engineering” på nogen del af softwaren til ekstern adgang. Når der ydes support via ekstern adgang, vil Apple kun se, kontrollere og indsamle de oplysninger på kundens computer, som skønnes at være nødvendige med henblik på at analysere et problem og yde hjælp i forbindelse med supporthændelsen. Apple anbefaler, at kunden lukker alle arkiver og programmer, som ikke er relevante for supporhændelsen. Softwaren til ekstern adgang eller funktioner på kundens computer giver kunden mulighed for når som helst at afbryde supportservice via ekstern adgang.
+
+Vigtigt! Som følge af lovgivning og politikker kan Apple være forpligtet til at rapportere visse billeder, der vises i en session, til myndighederne.
+
+6.	Fraskrivelse af garanti. SELVOM APPLE IKKE KAN GARANTERE, AT EN SUPPORTHÆNDELSE VIL BLIVE LØST, VIL APPLE BESTRÆBE SIG PÅ PROFESSIONELT AT LEVERE SUPPORTSERVICE I HENHOLD TIL SERVICEPLANEN. I DET OMFANG LOVEN TILLADER DET, ER DE HERI NÆVNTE UDTRYKKELIGE GARANTIER OG RETSMIDLER EKSKLUSIVE OG TRÆDER I STEDET FOR ALLE ØVRIGE GARANTIER, RETSMIDLER OG BETINGELSER, HVAD ENTEN DE ER MUNDTLIGE ELLER SKRIFTLIGE, LOVFÆSTEDE, UDTRYKKELIGE ELLER UNDERFORSTÅEDE. I DET OMFANG GÆLDENDE LOV TILLADER DET, FRALÆGGER APPLE OG DETS LICENSGIVERE SIG UDTRYKKELIGT ALLE LOVFÆSTEDE ELLER UNDERFORSTÅEDE GARANTIER, DER VEDRØRER ELLER OPSTÅR I FORBINDELSE MED DISSE VILKÅR OG BETINGELSER, HERUNDER OGSÅ ENHVER UNDERFORSTÅET GARANTI ELLER GARANTI OM SALGBARHED ELLER EGNETHED TIL ET BESTEMT FORMÅL. 
+
+7.	Ansvarsbegrænsning. I DET OMFANG LOVEN TILLADER DET, ER APPLES OG DETS LICENSGIVERES ANSVAR I HENHOLD TIL DISSE VILKÅR OG BETINGELSER BEGRÆNSET TIL DE BELØB, DER ER BETALT AF KUNDEN FOR DEN AF KUNDEN BESTILTE SERVICEPLAN. APPLE OG DETS LICENSGIVERE HAR UNDER INGEN OMSTÆNDIGHEDER ANSVARET FOR INDIREKTE SKADER, SÆRLIGE SKADER, FØLGESKADER ELLER HÆNDELIGE SKADER, HERUNDER OGSÅ, MEN IKKE BEGRÆNSET TIL, ERSTATNING FOR TABT OVERSKUD, MISTEDE DATA, MANGLENDE BRUG ELLER UDSTYR ELLER FACILITETER, ELLER DRIFTSTAB, DER PÅ NOGEN MÅDE OPSTÅR I FORBINDELSE MED DISSE VILKÅR OG BETINGELSER I HENHOLD TIL NOGEN TEORI OM ANSVAR, UANSET OM APPLE OG DETS LICENSGIVERE HAR FÅET MEDDELELSE OM MULIGHEDEN FOR SÅDAN SKADE ELLER EJ. ANDRE FRASKRIVELSER KAN VÆRE INDEHOLDT I LICENSBETINGELSERNE TIL SOFTWAREN TIL EKSTERN ADGANG, SOM ER TILGÆNGELIG PÅ http://www.apple.com/legal/sales-support/remote-support/. HVIS KUNDEN ER OMFATTET AF FORBRUGERBESKYTTELSESLOVGIVNING ELLER -REGLER I SIT KØBSLAND ELLER, HVIS DET ER ET ANDET, SIT OPHOLDSLAND, ER DE FORDELE, DER GIVES VED DISSE VILKÅR OG BETINGELSER, I TILLÆG TIL ALLE RETTIGHEDER OG RETSMIDLER, EN SÅDAN FORBRUGERBESKYTTELSESLOVGIVNING ELLER -REGLER GIVER. NOGLE LANDE, FORBUNDSSTATER OG PROVINSER TILLADER IKKE, AT FØLGESKADER ELLER HÆNDELIGE SKADER UNDTAGES ELLER BEGRÆNSES, ELLER AT UNDERFORSTÅEDE GARANTIER ELLER BETINGELSER UNDTAGES ELLER BEGRÆNSES, OG DERFOR KAN DET SKE, AT OVENSTÅENDE BEGRÆNSNINGER ELLER UNDTAGELSER IKKE GÆLDER FOR KUNDEN. DISSE VILKÅR OG BETINGELSER GIVER KUNDEN SÆRLIGE JURIDISKE RETTIGHEDER, OG KUNDEN KAN OGSÅ HAVE ANDRE RETTIGHEDER, DER VARIERER AFHÆNGIG AF LAND, FORBUNDSSTAT ELLER PROVINS.
+
+8.	Varighed og opsigelse. Medmindre en serviceplan opsiges før tiden i overensstemmelse med denne paragraf, fortsætter den i en periode på tolv (12) måneder fra ikrafttrædelsesdatoen, eller indtil alle supporthændelser er opbrugt, hvad der sker først (medmindre andet skriftligt godkendes af Apple). Apple yder ikke supportservice efter udløb af en Serviceplan, medmindre Serviceplanen fornyes på eller før dens slutdato. Apple kan opsige en Serviceplan når som helst, (a) hvis kunden efter at have fået mindst femten (15) dages forudgående skriftligt varsel ikke betaler de for en serviceplan forfaldne gebyrer, eller (b) hvis kunden efter at have fået mindst tredive (30) dages forudgående skriftligt varsel ikke udbedrer en misligholdelse af disse vilkår og betingelser, eller (c) hvis kunden overtræder vilkår i en softwarelicensaftale vedrørende brugen af software, der leveres i henhold til en serviceplan. Medmindre loven angiver andet, og såfremt kunden ikke har modtaget supportservice, må kunden annullere en serviceplan uanset årsag inden for tredive (30) dage efter serviceplanens købsdato eller ikrafttrædelsesdato, hvad der kommer først, og få refunderet alle betalte beløb. Anmodninger om refusion skal sendes skriftligt vedlagt gældende købsbevis til nedenstående refusionskontaktadresse. Paragraf 6, 7 og 12 overlever opsigelse af disse vilkår og betingelser uanset årsag.
+
+9.	Apple; gældende lov. "Apple" identificeres i nedenstående tabel efter kundens opholdsland. DET ACCEPTERES, AT DISSE VILKÅR OG BETINGELSER ER UNDERLAGT LOVENE I KØBSLANDET ELLER, HVIS DET ER ET ANDET, FORBRUGERENS OPHOLDSLAND, OG DOMSTOLENE I DE PÅGÆLDENDE LANDE HAR JURISDIKTION OVER SAGEN. 
+
+10.	Yderligere service eller software. Eventuel yderligere service, der leveres som led i en serviceplan, er underlagt disse vilkår og betingelser. Såfremt supportservice leveres hos kunden som led i en serviceplan, skal kunden sikre, at Apple får adgang til stedet på det aftalte tidspunkt, og kunden skal sørge for et sikkert arbejdsmiljø, der er tilstrækkeligt for, at Apple kan levere supportservicen. Såfremt software leveres som led i en serviceplan, er sådan software ophavsretsbeskyttede værker, tilhørende Apple Inc. og/eller Apples licenshavere. Kunden må kun installere, reproducere og bruge softwaren til at supportere de supporterede produkter, men må ikke, undtagen sådan som gældende lov tillader det, dekompilere, foretage reverse engineering, ændre, leje, lease, udleje eller skabe afledte værker i softwaren. Hvis softwaren er underlagt vilkårene i en særskilt licensaftale, er vilkårene for den særskilte licensaftale gældende for brugen af softwaren. Al software, der stilles til rådighed for USA’s regering i henhold til disse vilkår og betingelser, klassificeres som ”restricted computer software” i henhold til § 52.227-19 i FAR. USA’s regerings rettigheder til software er som bestemt i § 52.227-19 i FAR.
+
+11.	Databeskyttelse. Kunden indvilliger i og forstår, at Apple må indsamle, bearbejde og bruge kundeoplysninger for at kunne opfylde sine service- og supportforpligtelser i henhold til serviceplanen. Dette kan omfatte overdragelse af kundeoplysninger til datterselskaber eller serviceleverandører i henhold til vilkårene i Apples politik for behandling af personlige oplysninger (http://www.apple.com/legal/privacy/dk). Apple vil beskytte kundens oplysninger i henhold til Apples politik for behandling af personlige oplysninger. Hvis kunden ønsker at have adgang til de oplysninger, som Apple har om kunden, eller hvis kunden ønsker at udføre ændringer, må kunden opdatere de personlige kontaktoplysninger ved at gå ind på websiden til opdatering af personlige oplysninger (https://appleid.apple.com/dk). Apple må registrere en del af eller alle opkald mellem kunden og Apple med henblik på uddannelse, kvalitetssikring og reference.
+
+12.	Generelt. Kunden må ikke overdrage sine rettigheder eller forpligtelser i henhold til en serviceplan. Enhver ikke-godkendt overdragelse er ugyldig. Apple har ikke ansvaret for forsinket eller manglende opfyldelse, der skyldes årsager, som ligger uden for Apples rimelige kontrol. Frafaldelse af eventuel misligholdelse eller manglende opfyldelse i henhold til disse vilkår og betingelser udgør ingen frafaldelse af nogen eventuel senere misligholdelse eller manglende opfyldelse. Hvis en kompetent domstol finder, at en bestemmelse i disse vilkår og bestemmelser er ugyldig eller uhåndhævelig, har de resterende dele fuld effekt, og parterne erstatter den ugyldige eller uhåndhævelige bestemmelse med en gyldig og håndhævelig bestemmelse, der opnår parternes oprindelige hensigt og den økonomiske effekt af disse vilkår og betingelser. Disse vilkår og betingelser, inklusive eventuelle yderligere heri nævnte vilkår, udgør hele aftalen mellem Apple og kunden vedrørende serviceplanen og den supportservice, der leveres i henhold hertil, og træder i stedet for alle tidligere forhandlinger, aftaler og forståelser vedrørende sagens genstand, og ingen tilføjelse til, udslettelse af eller ændring af nogen af de heri indeholdte bestemmelser er bindende for Apple, medmindre den foreligger skriftligt og er underskrevet af en bemyndiget repræsentant for Apple. Ethvert vilkår eller enhver betingelser i nogen ordre eller andet dokument fra kunden har ingen kraft eller effekt og afvises specifikt. 
+
+LANDEVARIATIONER
+
+Følgende landevariationer er gældende i tilfælde af uoverensstemmelse med nogen anden bestemmelse i denne plan:
+
+AUSTRALIEN
+RETTIGHEDERNE BESKREVET I DISSE VILKÅR OG BETINGELSER I FORHOLD TIL TILBAGEBETALINGER, REFUNDERINGER OG GARANTIER ER I TILLÆG TIL LOVMÆSSIGE RETTIGHEDER, SOM DU KAN HAVE I HENHOLD TIL KONKURRENCE- OG FORBRUGERLOVEN AF 2010 SAMT ANDRE GÆLDENDE FORBRUGERBESKYTTELSESLOVE OG -REGLER.
+
+BELGIEN
+Kunden erkender, at han ved at kontakte Apple i forbindelse med supportservice ikke udøver nogen rettighed vedrørende en tidligere indgået salgskontrakt i henhold til § 94, styk 3, af Loven om handelssædvane af 14. juli 1991
+
+TYSKLAND
+§ 7. Ansvarsbegrænsning. Følgende gælder for kunder, som er forbrugere: Apple er kun ansvarlig for tab i henhold til vilkårene i serviceplanen i henhold til følgende bestemmelser: (i) ubegrænset ansvar for tab, der forårsages med forsæt eller grov uagtsomhed, (ii) ubegrænset ansvar for dødsfald, personskade eller sundhedsskade, der forårsages med forsæt eller uagtsomhed, (iii) for tab, der skyldes mangel på garanterede egenskaber op til en beløb, der er omfattet af garantiens formål, og som kunne forudses af Apple på det tidspunkt, garantien blev givet, (iv) i henhold til loven om produktansvar i tilfælde af produktansvar, eller (v) for tab, der forårsages af misligholdelse af sådanne af Apples grundlæggende pligter, der udgør kernen af serviceplanen, og som var afgørende for indgåelse af serviceplanen, og som kunden kan påberåbe sig. Ethvert mere omfattende ansvar for Apple undtages efter saglige hensyn.
+
+ITALIEN
+§ 4. Kundens ansvar. Følgende tilføjes til § 4:
+
+Omkostningerne til e-mail- og telefonkommunikation er dem, som telefon-internetudbyderen opkræver.
+
+NORGE
+§ 8. Varighed og opsigelse:  Følgende tilføjes til § 8: 
+
+Hvis De er en forbruger, bemærk da, at Deres ret til at fortryde i henhold til den norske lov om retten til at fortryde et salg (lov af 21. december 2000 nr. 105),  er omfattet af  § 8, Varighed og opsigelse. 
+
+SVERIGE
+§ 1. Service. Følgende tilføjes til § 1:
+
+Hvis ændringerne af supportservice er til væsentlig skade for kunden, har kunden ret til at opsige serviceaftalen i henhold til bestemmelserne i § 8 nedenfor.
+
+§ 8. Varighed og opsigelse. Følgende sætning ”Hvis Apple foretager ændringer af supportservice, der er til væsentlig skade for kunden, fx annullering af supportservice i forhold til kundens produkt, har kunden ret til at opsige serviceaftalen og modtage en refusion på et beløb svarende til serviceplanens resterende varighed” tilføjes efter ”Medmindre loven angiver andet, og såfremt kunden ikke har modtaget supportservice, må kunden annullere en serviceplan uanset årsag inden for tredive (30) dage efter serviceplanens købsdato eller ikrafttrædelsesdato, hvad der kommer først, og få refunderet alle betalte beløb.”
+
+
+Købsområde/-land
+Apple
+Adresse
+Nord- og Sydamerika
+
+
+Brasilien
+Apple Computer Brasil Ltda
+Rua: Leopoldo Couto Magalhães Júnior, nº 700, 7º andar, São Paulo, SP, Brasilien 
+04542-000
+SAC: 0800-761-0880
+http://www.apple.com/br/support
+Canada
+Apple Canada Inc.
+7495 Birchmount Rd.; Markham, Ontario, Canada; L3R 5G2 Canada
+Mexico
+Apple Operations Mexico, S.A. de C.V.
+Prolongación Paseo de la Reforma #600, Suite 132, Colonia Peña Blanca, Santa Fé, Delegación Álvaro Obregón, México D. F., CP 01210, Mexico
+USA og andre lande i Nord- og Sydamerika
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, USA
+Europa, Mellemøsten og Afrika
+
+
+Russiske Føderation
+Limited Liability Company Apple Rus
+5 Petrovka Street, Berlin House Business Center, 107031, Moscow, Russiske Føderation
+Tyrkiet
+Apple Teknoloji ve Satış Limited Şirketi
+FSM Mahallesi Poligon Caddesi Buyaka 2 Sitesi No:8, Blok No.2 (C Blok) Kat:18 34471 Ümraniye İstanbul, Tyrkiet
+Alle andre lande
+Apple Distribution International
+Hollyhill Industrial Estate Hollyhill, Cork, Irland
+Asien og Stillehavsområdet
+
+
+Australien; New Zealand; Fiji, Papua Ny Guinea; Vanuatu
+Apple Pty. Limited.
+PO Box A2629, Sydney South, NSW 1235, Australien Tel: 133 622
+Hongkong
+Apple Asia Limited
+2401 Tower One, Times Square, Causeway Bay; Hongkong
+Indien
+Apple India Private Ltd..
+19th Floor, Concorde Tower C, UB City No 24, Vittal Mallya Road, Bangalore 560-001, Indien
+Japan
+Apple Japan Inc.
+6-10-1 Roppongi, Minato-ku Tokyo 106-6140, Japan
+Sydkorea
+Apple Korea Ltd.
+3901, ASEM Tower; 159, Samsung-dong, Gangnam-Gu; Seoul 135-798, Sydkorea
+Afghanistan, Bangladesh, Bhutan, Brunei, Cambodia, Filippinerne, Guam, Indonesien, Laos, Singapore, Malaysia, Nepal, Pakistan, Sri Lanka, Vietnam
+Apple South Asia Pte. Ltd.
+7 Ang Mo Kio Street 64
+Singapore 569086
+
+Folkerepublikken Kina
+Apple Computer Trading (Shanghai) Co. Ltd. 
+Units 610-13 on partial Floor 6, HSBC Building (i.e., Tower A), Shanghai ifc, 8 Century Avenue, Pudong New Area, Shanghai, Kina
+Thailand
+Apple South Asia (Thailand) Limited
+44th Floor, Room No. HH4401-6, The Offices at Central World, 999/9 Rama 1 Road, Pathumwan, Pathumwan, Bangkok 10330 Thailand
+Taiwan
+Apple Asia LLC
+19F., No.1, Songzhi Rd., Xinyi Dist., Taipei City 110, Taiwan
+Andre lande i Asien og Stillehavsområdet
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, USA
+
+041414 Tech Support Danish v1.7
+

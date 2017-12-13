@@ -1,0 +1,143 @@
+AppleCare Teknik Destek
+
+Hüküm ve Koşullar
+
+AŞAĞIDA ATIFTA BULUNULAN BİR HİZMET PLANI KAPSAMINDA ÖNERİLEN HİZMETLER İÇİN APPLE İLE İRTİBATA GEÇEREK VEYA BİR HİZMET PLANINI APPLE'A KAYDEDEREK BİR KİŞİ YA DA KURULUŞ ("MÜŞTERİ"), AŞAĞIDAKİ HÜKÜM VE KOŞULLARIN ("HÜKÜM VE KOŞULLAR") UYGULANABİLİR HİZMET PLANI KAPSAMINDA DESTEK HİZMETLERİNİ YÖNETTİĞİNİ KABUL EDER. ANCAK, APPLE'IN BİR YILLIK SINIRLI GARANTİSİ, APPLECARE+, APPLECARE KORUMA PLANI VEYA GEÇERLİ TÜKETİCİ YASALARI ÇERÇEVESİNDE MÜŞTERİYE FAYDA SAĞLANMASINA YARDIMCI OLMAK AMACIYLA SAĞLANAN DESTEK HİZMETLERİNİN, İLGİLİ GARANTİ, APPLECARE HİZMET SÖZLEŞMESİ VEYA TÜKETİCİ YASASI DÜZENLEMELERİNİN HÜKÜMLERİ ÇERÇEVESİNDE YÖNETİLECEĞİNİ LÜTFEN GÖZ ÖNÜNDE BULUNDURUN.   BU HÜKÜM VE KOŞULLAR ÇERÇEVESİNDE YÖNETİLEN DESTEK HİZMETLERİNE İLİŞKİN OLARAK, MÜŞTERİ BU HÜKÜM VE KOŞULLARI KABUL ETMEZSE, APPLE İLE İRTİBATA GEÇMEMELİ VEYA HİZMET PLANINI KAYDETMEMELİDİR. SATIN ALINAN BİR HİZMET PLANINI İPTAL ETMEK VE ÖDENEN TÜM PARANIN İADESİNİ ALMAK İÇİN MÜŞTERİLER, AŞAĞIDA AÇIKLANDIĞI ŞEKİLDE, APPLE İLE İRTİBATA GEÇMELİDİR. APPLE MÜŞTERİNİN KAYDINI KABUL ETTİĞİNDE BİR HİZMET PLANI YÜRÜRLÜĞE GİRER ("YÜRÜRLÜK TARİHİ").
+
+1.	Hizmetler. Müşterinin kaydının kabul edilmesinin ardından Apple, tümü aşağıdaki çevrimiçi web sayfasında açıklandığı şekilde, geçerli Hizmet Planı için Apple yazılım ürünleri veya ilgili teknolojilere ("Desteklenen Ürünler") destek hizmetleri ("Destek Hizmetleri") sağlayacaktır: http://www.apple.com/legal/sales-support/applecare/actssgeos.html (“Hizmet Planı Destek Sayfası”). Apple, sağlanan Destek Hizmetlerini ve/veya bir Servis Planı kapsamındaki Desteklenen Ürünleri, istediği zaman, güncellemeleri Servis Planı Destek Sayfasında yayınlayarak değiştirme hakkını saklı tutar. Apple, Destek Hizmetlerini ve/veya Desteklenen Ürünleri, (i) Apple'ın Destek Hizmetleri kapsamında sağladığı çabanın seviyesini azaltan ya da (ii) Apple'ın Destek Hizmetleri verme yükümlülüğünü maddi olarak etkileyen veya (iii) Müşterinin Destek Hizmetleri kapsamında aldığı hizmeti maddi olarak etkileyen şekilde bir değişiklik yapmayacaktır. Müşterinin Servis Planını etkileyen tüm güncellemeler için Apple, güncelleme hakkında, Müşteri tarafından kaydedilen elektronik posta adresi üzerinden, güncellemenin yayınlanmasından otuz (30) günden az olmamak üzere, önceden Müşteriyi bilgilendirecektir. Servis Planı Destek Sayfasında açıklanan şartlar işbu Hüküm ve Koşullar ile birleştirilir. İşbu belgedeki şartlar ve Hizmet Planı Destek Sayfasındaki şartlar arasında herhangi bir tutarsızlık durumunda, Hizmet Planı Destek Sayfasındaki şartlar geçerli olacaktır.
+
+2.	Sınırlamalar. 
+
+2.1	Destek Olayları. Servis Planları tek, çoklu ya da sınırsız Destek Olayı paketleri şeklinde sağlanır. Bir Destek Olayı, kaynağı tek bir nedene indirgenebilen özel, ayrı bir sorundur. Apple bir Destek Olayını çözmek için makul olan tüm çabayı gösterecektir ancak Destek Olayının çözüleceğini garanti etmez. Apple, kendi takdir yetkisiyle, hangi durumun bir Destek Olayı oluşturduğunu ve geçerli kanun çerçevesinde izin verildiği ölçüde Destek Olayının çözülüp çözülmeyeceğini belirleyecektir. Genellikle bir Destek olayı Müşteri aşağıdakilerden birini aldığında çözülür: (a) sorunu çözen bilgi; (b) sorunun çözülmesini sağlayacak olan yazılım çözümünün edinilmesini sağlayan bilgiler; (c) sorunun bilinen ancak giderilmemiş bir sorundan veya Desteklenen Ürünle ilgili bir uyumsuzluk durumundan kaynaklandığı şeklinde bildirim; (d) sorunun, Desteklenen ürünün daha yeni bir sürümüne yükseltme ile çözüleceğini belirten bilgiler; ya da (e) sorunun bir donanım ekipmanı sorunu olduğunu belirten bildirim. Sınırlı sayıda Destek Olayına sahip bir Servis Planı kapsamında, Müşterinin her yeni Destek Olayı irtibatı kalan, uygulanabilir Destek Olayı sayısını azaltacaktır.
+
+2.2	Yanıtlama Süreleri. Apple, bir Destek Hizmeti talebini makul bir süre içinde ya da geçerli bir Servis Planı kapsamında açıklanan yanıtlama süresi ("Yanıtlama Süresi") içinde, hangisi önce oluşursa, yanıtlamak için makul çabaları gösterecektir ancak bir yanıtın belirli bir süre içinde sağlanacağını garanti etmez. Tüm Yanıtlama Süreleri, Servis Planı Destek Sayfasında açıklanan Servis Planı Çalışma Saatlerine uygun olarak ölçülür. 
+
+2.3	Geçerli Sürüm. Aksi belirtilmediği takdirde, tüm Desteklenen Ürünlerin en son geçerli sürüm seviyelerinde olması gerekir. 
+
+2.4	Kullanım. Destek Hizmetlerinin, nükleer tesislerin, hava taşıtı kumandalarının, iletişim sistemlerinin, hava trafik kontrol makinelerinin işletiminde ve Destek Hizmetlerinin arzu edilen sonucu sağlamamasının ölüm, kişisel yaralanma ya da ciddi fiziksel veya çevresel zararlara yol açabileceği diğer faaliyetlerde kullanılması amaçlanmamıştır.
+
+2.5	Teknik İlgililer. Destek Hizmetleri, kayıt sırasında Müşteri tarafından belirlenen tek bir kişiye ya da birden çok kişiye ve Servis Planı kapsamında izin verildiği ölçüde ("Teknik İlgililer") sağlanır. Servis Planı teknik desteği için Müşteri ve Apple arasındaki iletişimin sağlanmasından yalnızca Teknik İlgililer sorumludur. Müşteri, birden çok Teknik İlgiliye sahip Servis Planları için, Teknik İlgilileri değiştirmek isterse, değişikliği aşağıda belirtilen geçerli Para İadesi İletişim Adresinden Apple'a en az beş (5) gün öncesinden yazılı bildirecektir veya Servis Planına uygunsa Servis Planının başında verilen yönerge belgelerinde açıklandığı şekilde Müşterinin güvenli, özelleştirilmiş web sitesi üzerinden değişiklikleri doğrudan girmelidir.
+
+3.	Hariç Tutmalar. Hizmet Planında aksi belirtilmediği takdirde Apple, (a) Desteklenen Ürünün sunucu tabanlı bir uygulama olarak kullanılması; (b) Desteklenen Ürünün yükseltilmesiyle çözülebilecek sorunlar; (c) Desteklenen Ürünün amacına uygun olmayan biçimde kullanılması ya da üzerinde amacına uygun olmayan biçimde değişiklik yapılması; (d) üçüncü taraf ürünler ve teknolojiler ve bunların Desteklenen Ürünle etkileşimleri veya bu Ürün üzerindeki etkisi; (e) Desteklenen Ürünün sağlandığı medyada ya da Desteklenen ürünün yüklü olduğu bilgisayarda hasar; (f) Desteklenen Ürünle uyumlu olmayan bir bilgisayar sistemi kullanılması; ve (g) İnternet, e-posta, dosya yönetimi, ağ yapılandırması, kodlama, FX kodlaması, programlama, derleme, hata ayıklama, altyapı tasarımı, içerik oluşturma, içerik özelleştirme, multimedya projesi planlaması/tasarımı, kaynak yönetimi, bütçe oluşturma, eğitim, yerinde tanı ile ilgili sorunlar ya da bir Hizmet Planında açıklanan Destek Hizmetlerinin kapsamında olmayan sorunlar için Destek Hizmetleri sağlamayacaktır.
+
+4.	Müşterinin Sorumlulukları. Müşteri, Destek Hizmetlerini almak için Hizmet Planını kaydetmeli ve Apple'ın sağladığı erişim yönergelerini izlemelidir. Müşteri, Apple ile e-posta ve telefon iletişimleri kurulması ve sürdürülmesi ile ilgili tüm ücretlerden sorumludur. Müşteri, Destek Hizmeti isteğinde bulunurken Apple'ın bir sorunu tanılamasına yardımcı olmak için gerekli bilgileri vererek Apple ile işbirliği yapacaktır. Müşteri, kayıp ya da değiştirilmiş dosya, veri ya da programların herhangi ve bütün geri yüklemesi veya yeniden oluşturulmasından sorumludur. Müşteri, tam bir veri yedekleme ve olağanüstü durumdan kurtarma planı oluşturacak ve uygulayacaktır. Müşteri, kendine ait gizli, tescilli veya sınıflandırılmış bilgilerin herhangi ve tüm güvenliğinden kendisi sorumludur. Müşteri, Apple üzerinde sorumluluk oluşturabilecek olan fikri mülkiyet haklarına tabi gizli, tescilli ya da herhangi bir bilgiyi Apple'a açıklamayacaktır. Müşteri, Destek Hizmeti istediği Desteklenen Ürünler ve üzerinde çalıştırdığı bilgisayar sistemi hakkında makul ölçüde bilgiye sahip olacaktır. Müşteri, Destek Hizmetlerini üçüncü bir tarafa aktaramaz. Destek Hizmetleri yalnızca Müşterinin kendi kullanımı için sağlanır ve Destek Hizmetlerinin herhangi bir yetkisiz dağıtımı işbu Hüküm ve Koşulların hemen sonlandırılması için bir neden olacaktır. Müşteri, Destek Hizmetlerinin yetkisiz dağıtım ve kullanımını önlemek için makul önlemleri alacaktır. Müşteri, zaten çözülmüş sorunlar için Destek Hizmetlerine erişim dahil ancak bununla sınırlı olmamak üzere, Destek Hizmetlerinin alınmasını veya kullanılmasını kötüye kullanmayacaktır. 
+
+5.	Uzaktan Erişimle Destek Hizmetleri. Apple, Hizmet Planının bir parçası olarak İnternet üzerinden uzaktan erişim aracılığıyla Destek Hizmetleri sağlayabilir ve Müşteri izin verirse, uzaktan erişim yazılımı yüklemesi ve kullanımıyla Müşterinin bilgisayarını kontrol edebilir ve bilgi toplayabilir. Uzaktan erişim yazılımını yüklemesi ve kullanması, Müşterinin bu yolla Destek Hizmetleri sağlaması için Apple'a izin verdiğini gösterir. Destek Hizmetleri oturumu sona erdikten sonra uzaktan erişim yazılımına ait dosyaların tümü ya da bir kısmı Müşterinin bilgisayarında kalabilir. Uzaktan erişim yazılımının mülkiyeti ve buna ait tüm fikri mülkiyet hakları Apple Inc. ve/veya lisans verenlerinde kalır. Uygun uzaktan erişim yazılımının kullanılması http://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf adresinde bulunan ek lisans şartlarına tabi olabilir. Müşteri, uzaktan erişim yazılımının herhangi bir bölümünü parçalarına ayıramaz ya da tersine mühendislik işlemleri yapamaz. Uzaktan erişimle Destek Hizmetleri sağlanırken Apple, Müşterinin bilgisayarındaki, yalnızca Destek Olayının analizi ve yardım sağlamak için makul ölçüde gerekli olduğuna inandığı bilgilere erişecektir, kontrol edecektir ve toplayacaktır. Apple Müşteriye, Destek Olayı ile ilgili olmayan tüm dosya ve uygulamaları kapatmasını önerir. Uzaktan erişim yazılımı ya da Müşterinin bilgisayarının özellikleri Müşteriye istediği zaman uzaktan erişimle Destek Hizmetini sonlandırma olanağı tanıyacaktır.
+
+Önemli: Apple yasalar ve politikaları gereği oturum sırasında görüntülenmiş ise belirli resimleri emniyet güçlerine bildirmek zorunda kalabilir.
+
+6.	Garantiye İlişkin Sorumluluğun Reddi. APPLE, UZAKTAN ERİŞİMLE TEKNİK DESTEK SAĞLANMASININ SORUNUNUZU ÇÖZECEĞİNİ GARANTİ EDEMEMEKLE BİRLİKTE, DESTEK HİZMETİ SAĞLAMAK İÇİN PROFESYONEL ANLAMDA MAKUL ÇABAYI GÖSTERECEKTİR. GEÇERLİ KANUN ÇERÇEVESİNDE İZİN VERİLDİĞİ ÖLÇÜDE, İŞBU SÖZLEŞMEDE BELİRTİLEN AÇIK GARANTİ VE ÇÖZÜM YOLLARI MÜNHASIRDIR VE DİĞER BÜTÜN YAZILI VEYA SÖZLÜ, AÇIK, KANUNİ VEYA ZIMNİ GARANTİ, ÇÖZÜM YOLU VE ŞARTLARIN YERİNE GEÇER. GEÇERLİ KANUN ÇERÇEVESİNDE İZİN VERİLDİĞİ ÖLÇÜDE APPLE VE LİSANS VERENLERİ, HER TÜRLÜ ZIMNİ GARANTİ YA DA TİCARİ GARANTİ VEYA ÖZEL BİR AMACA UYGUNLUĞA İLİŞKİN GARANTİLER DAHİL OLMAK ÜZERE HERHANGİ BİR ŞEKİLDE İŞBU KOŞULLARLA İLGİLİ YA DA İŞBU KOŞULLARDAN KAYNAKLANAN HER TÜRLÜ VE BÜTÜN ZIMNİ VE KANUNİ GARANTİLERİ ÖZELLİKLE REDDEDER. 
+
+7.	Sorumluluğun Sınırlandırılması.  GEÇERLİ KANUN ÇERÇEVESİNDE İZİN VERİLDİĞİ ÖLÇÜDE APPLE'IN VE LİSANS VERENLERİNİN İŞBU HÜKÜM VE KOŞULLAR KAPSAMINDAKİ SORUMLULUĞU, MÜŞTERİ TARAFINDAN SİPARİŞ EDİLEN HİZMET PLANI İÇİN MÜŞTERİ TARAFINDAN YAPILAN ÖDEME MİKTARIYLA SINIRLIDIR. HİÇBİR DURUMDA APPLE VE LİSANS VERENLERİ, KAYIP GELİR, VERİ KAYBI, KULLANIM VEYA EKİPMAN YA DA TESİS KAYBI VEYA İŞ KESİNTİSİ ZARARLARI DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, HERHANGİ BİR SORUMLULUK ALTINDA HERHANGİ BİR ŞEKİLDE İŞBU HÜKÜM VE KOŞULLARDAN KAYNAKLANAN DOLAYLI, ÖZEL, BAĞLI YA DA ARIZİ ZARARLARDAN, APPLE VE LİSANS VERENLERİ ÖNCEDEN HABERDAR EDİLMİŞ OLSUN YA DA OLMASIN SORUMLU DEĞİLDİR. http://www.apple.com/legal/sales-support/remote-support/ ADRESİNDE, BULUNAN UZAKTAN ERİŞİM YAZILIMI İÇİN GEÇERLİ LİSANSLAMA ŞARTLARI, BAŞKA REDDEDİLEN SORUMLULUKLAR İÇEREBİLİR. MÜŞTERİ, SATIN ALMAYI YAPTIĞI YA DA, FARKLIYSA, İKAMET ETTİĞİ ÜLKEDE TÜKETİCİYİ KORUMA YASALARI VEYA YÖNETMELİKLERİ KAPSAMINDAYSA, İŞBU SÖZLEŞME İLE SAĞLADIĞI FAYDALAR SÖZ KONUSU TÜKETİCİYİ KORUMA YASALARI VE YÖNETMELİKLERİ TARAFINDAN VERİLEN TÜM HAK VE YASAL YOLLARA EK OLARAK SAĞLANIR. BAZI ÜLKELER, EYALETLER VE BÖLGELER ARIZİ YA DA BAĞLI HASARLARIN HARİÇ TUTULMASINA VEYA SINIRLANMASINA VEYAHUT ZIMNİ GARANTİLER YA DA KOŞULLARDA HARİÇ TUTMA VE SINIRLAMALARA İZİN VERMEMEKTEDİR, BU NEDENLE YUKARIDAKİ SINIRLAMALAR YA DA HARİÇ TUTMALAR MÜŞTERİYE UYGULANAMAYABİLİR. İŞBU HÜKÜM VE KOŞULLAR MÜŞTERİYE, ÖZEL HUKUKİ HAKLAR VERİR VE MÜŞTERİ ÜLKE, EYALET YA DA BÖLGEYE GÖRE DEĞİŞİKLİK GÖSTEREN DİĞER HAKLARA DA SAHİP OLABİLİR. 
+
+8.	Süre ve Sonlandırma. İşbu bölüme uygun olarak daha önce sonlandırılmadıkça, bir Hizmet Planı, aksi Apple tarafından yazılı şekilde yetkilendirilmediği sürece Yürürlük Tarihinden itibaren on iki (12) ya da tüm Destek Olayları kullanılana kadar (hangisi önce meydana gelirse) devam edecektir. Apple, siz Servis Planının sona erme tarihinden önce yenilemediğiniz takdirde, Servis Planı bittikten sonra Destek Hizmetleri sağlamayacaktır. Apple, (a) on beş (15) günden az olmamak üzere, önceden Müşteriye yazılı bildirim yapıldıktan sonra Müşteri, Servis Planı ücretlerini ödemezse ya da (b) otuz (30) günden az olmamak üzere, önceden Müşteriye yazılı bildirim yapıldıktan sonra işbu Sözleşmenin bir ihlalini düzeltmezse veya (c) Müşteri bir Servis Planı kapsamında sağlanan yazılımın kullanımını yöneten yazılım lisans sözleşmesinin bir hükmünü ihlal ederse, istediği zaman bir Servis Planını sonlandırabilir. Aksi geçerli kanun çerçevesinde belirtilmedikçe ve Müşteri hiç Destek Hizmeti almadıysa, Müşteri herhangi bir nedenle bir Servis Planını, Servis Planının satın alınmasından ya da Yürürlük Tarihinden (bunlardan hangisi daha sonra olursa) sonra otuz (30) gün içinde iptal edebilir ve ödenen tüm toplamla ilgili para iadesi alabilir. Para iadesi istekleri, satın aldığınıza dair geçerli bir belgeyle birlikte yazılı olarak, aşağıda belirtilen Para İadesi İletişim adresine gönderilmelidir. İşbu Hüküm ve Koşulların herhangi bir nedenle feshi halinde Bölüm 6, 7 ve 12 geçerliliğini korur.
+
+9.	Apple, Amir Hukuk.  "Apple" Müşterinin ikamet ettiği ülkeye göre aşağıdaki tabloda tanımlanır. İŞBU HÜKÜM VE KOŞULLAR'IN SATIN ALMANIN YAPILDIĞI YA DA, FARKLIYSA, İKAMET EDİLEN ÜLKE'NİN, KANUNLARI TARAFINDAN YÖNETİLDİĞİ VE İLGİLİ ÜLKELERİN MAHKEMELERİNİN KONU HAKKINDA YARGI YETKİSİNE SAHİP OLDUĞU KABUL EDİLİR. 
+
+10.	Ek Hizmetler veya Yazılımlar. Bir Hizmet Planının parçası olarak sağlanan tüm ek hizmetler işbu Hüküm ve Koşullar tarafından yönetilecektir. Bir Hizmet Planının parçası olarak Destek Hizmetlerinin müşterinin adresinde sağlanması durumunda, Müşteri Apple'ın üzerinde anlaşılan saatte adrese erişimine izin verecek ve Destek Hizmetlerinin gerçekleştirilmesi için Apple'a güvenli bir çalışma ortamı sağlayacaktır. Bir Servis Planının parçası olarak yazılım sağlanması durumunda, söz konusu yazılım Apple Inc. ve/veya lisans verenlerinin telif hakkına sahip oldukları çalışmalardır. Müşteri, yazılımı yalnızca Desteklenen Ürünleri destekleme amacıyla yükleyebilir, çoğaltabilir ve kullanabilir ancak, geçerli kanun çerçevesinde izin verilmedikçe, yazılım üzerinde kaynak koda dönüştürme, tersine mühendislik işlemi yapma, değişiklik yapma, kiralama, icar etme, ödünç verme işlemleri yapamaz ya da türetilmiş çalışmalar oluşturamaz. Yazılım ayrı bir lisans sözleşmesi şartlarına tabiyse, ayrı lisans sözleşmesinin şartları yazılımın kullanımını yönetecektir. İşbu Hüküm ve Koşullar kapsamında Amerika Birleşik Devletleri Devletine sağlanan tüm yazılımlar, FAR'ın 52.227-19 numaralı hükmünde tanımlandığı şekilde "kısıtlı bilgisayar yazılımı" olarak sınıflandırılır. Amerika Birleşik Devletleri Devletinin yazılım üzerindeki hakları FAR'ın 52.227-19 numaralı hükmünde belirtilmiştir.
+
+11.	Veri Koruması. Müşteri, Apple'ın Hizmet Planı kapsamındaki hizmet ve destek yükümlülüklerini gerçekleştirebilmek için Müşteriye ait bilgileri toplaması, işlemesi ve kullanması gerekliliğini kabul eder ve anlar. Bu, Apple Gizlilik Politikası (http://www.apple.com/legal/warranty/privacy) şartlarına uygun olarak Müşteriye ait verilerin bağlı şirketlere veya servis sağlayıcılara aktarılmasını da içerebilir. Apple, Apple Gizlilik Politikasına uygun olarak Müşteriye ait bilgileri koruyacaktır. Müşteri, kendisiyle ilgili Apple'ın elinde olan bilgilere erişmek isterse veya herhangi bir değişiklik yapmak isterse, kişisel iletişim tercihlerini Gizlilik Güncelleme (http://www.apple.com/contact/myinfo) web sayfasına erişerek güncelleyebilir. Apple, Müşteri ile Apple arasındaki görüşmelerin bir kısmını ya da tümünü eğitim, kalite kontrol ve referans amaçlarıyla kaydedebilir.
+
+12.	Genel. Müşteri, bir Hizmet Planı kapsamında haklarını ya da yükümlülüklerini devredemez. Her türlü yetkisiz devir işlemi geçersiz sayılacaktır. Apple, makul kontrolünün ötesindeki nedenlerle yükümlülüklerini yerine getirmesinde oluşan gecikmelerden ya da yükümlülüklerini yerine getirememesinden sorumlu olmayacaktır. İşbu Hüküm ve Koşullar'ın herhangi bir hükmünden feragat edilmesi ya da yükümlülüğün yerine getirilmemesi, geri kalan hükümlerden feragat edilmesi ve yükümlülüğün yerine getirilmemesine neden olmaz. Yargı yetkisine sahip bir mahkeme, işbu Sözleşme'nin herhangi bir hükmünün geçersiz ya da uygulanamaz olduğuna karar verirse, geri kalan hükümler tam olarak yürürlükte kalmaya devam eder ve taraflar geçersiz ya da uygulanamaz hükümleri, tarafların özgün niyetlerini ve Hüküm ve Koşullar'ın ekonomik etkisini karşılayan geçerli ve uygulanabilir hükümlerle değiştirir. İşbu Sözleşme’de atıfta bulunulan tüm ek şartlar dahil, bu Hüküm ve Koşullar, Hizmet Planı ve burada sağlanan Destek Hizmetleri ile ilgili Apple ve Müşteri arasındaki tüm sözleşmeyi oluşturur ve konu ile ilgili tüm önceki görüşmeler, sözleşmeler ve mutabakatları hükümsüz kılar ve yetkili bir Apple temsilcisi tarafından yazılı hale getirilip imzalanmadığı sürece işbu Sözleşme’deki herhangi bir hükme yönelik herhangi eklemede bulunma, silme ya da değiştirme eyleminin Apple üzerinde bağlayıcılığı yoktur. Müşteri tarafından iletilen herhangi bir sipariş ya da diğer belgedeki hiçbir şart ya da koşul geçerli ve yürürlükte değildir ve bilhassa reddedilir. 
+
+ÜLKEYE ÖZGÜ HÜKÜMLER
+
+İşbu Planın herhangi diğer bir hükmü ile tutarsızlık durumunda Aşağıdaki ülkeye özgü hükümler geçerlidir:
+
+AVUSTRALYA
+İşbu sözleşmede iadeler, para iadeleri ve garantilerle ilgili olarak açıklanan haklar Rekabet ve Tüketici Yasası 2010 ve diğer geçerli Avustralya tüketiciyi koruma yasaları ve yönergeleri kapsamında sahip olabileceğiniz temel haklara ek olarak sağlanır.
+
+BELÇİKA
+Müşteri, Destek Hizmetleri için Apple ile irtibata geçerek, 14 Temmuz 1991 tarihli Ticari Uygulamalar Yasası'nın 94 numaralı maddesinde kastedilen, daha önce yapılan satış sözleşmesi ile ilgili herhangi bir hakkı uygulamadığını kabul eder
+
+ALMANYA
+Madde 7. Sorumluluğun Sınırlandırılması. Tüketici olan Müşterilerle ilgili olarak şu hükümler geçerlidir: Apple yalnızca aşağıdaki hükümlere uygun olarak Servis Planı şartları kapsamındaki kayıplar için sorumlu olur: (i) kasıt ya da ağır ihmal sonucu oluşan kayıplar için sınırsız sorumluluk, (ii) kasıt ya da ihmal sonucu oluşan ölüm, bedensel yaralanma ya da sağlık zararları için sınırsız sorumluluk, (iii) garantinin amacı kapsamındaki ve garantinin verildiği tarihte Apple tarafından öngörülebilir olan miktara kadar garanti edilen nitelik eksikliğinden doğan kayıplar için, (iv) ürün sorumluluğu durumunda Ürün Sorumluluğu Yasasına uygun olarak ya da (v) Servis Planının yerine getirilmesi için belirleyici olan ve Müşterinin istinat ettiği, Servis Planının esasını oluşturan söz konusu temel görevlerin Apple tarafından ihlali sonucu oluşan kayıplar için. Apple'ın esaslar üzerindeki diğer geniş sorumlulukları hariçtir.
+
+İTALYA
+Madde 4. Müşterinin Sorumlulukları. Aşağıdaki hüküm madde 4.'e eklenmiştir:
+
+E-posta ve telefon iletişimlerinin maliyetleri telefon/internet hizmet sağlayıcının uyguladığı maliyetlerdir.
+
+NORVEÇ
+Madde 8. Süre ve sonlandırma: Aşağıdaki hüküm madde 8'e eklemiştir: 
+
+Tüketiciyseniz, Süre ve sonlandırma ile ilgili Bölüm 8'de, bir satıştan pişman olma hakkı ile ilgili Norveç Yasası'nın (21 Aralık 2000, 105 no'lu Yasa) göz önüne alındığını lütfen unutmayın. 
+
+İSVEÇ
+Madde 1. Hizmetler. Aşağıdaki hüküm madde 1.'e eklenmiştir:
+
+Destek Hizmetlerinde yapılan değişiklikler Müşteri için maddi olarak zarar veren nitelikteyse, Müşteri aşağıda Bölüm 8'deki hükümlere uygun olarak Hizmet Planını sonlandırma hakkına sahiptir.
+
+Madde 8. Süre ve Sonlandırma. "Aksi geçerli kanun çerçevesinde belirtilmedikçe ve Müşteri hiç Destek Hizmeti almadıysa, Müşteri herhangi bir nedenle bir Servis Planını, Servis Planının satın alınmasından ya da Yürürlük Tarihinden, hangisi sonra meydana gelirse, sonra otuz (30) gün içinde iptal edebilir ve ödenen tüm toplamla ilgili para iadesi alabilir" hükmünden sonra "Apple Destek Hizmetlerinde, Müşteri için maddi olarak zarar veren nitelikte olan değişiklikler yaparsa, örneğin Müşterinin ürünüyle ilgili destek hizmetlerini iptal etmek, Müşteri Servis Planını sonlandırma hakkına sahip olur ve kalan Servis Planı süresi ile eşit miktarda para iadesi alır" hükmü eklenmiştir.
+
+Satın Alma Bölgesi/Ülkesi
+Apple
+Adres
+Amerika
+
+
+Brezilya
+Apple Computer Brasil Ltda
+Rua: Leopoldo Couto Magalhães Júnior, nº 700, 7º andar, São Paulo, SP, Brezilya 
+04542-000
+SAC: 0800-761-0880
+http://www.apple.com/br/support
+Kanada
+Apple Canada Inc.
+7495 Birchmount Rd.; Markham, Ontario, Kanada; L3R 5G2 Kanada
+Meksika
+Apple Operations Mexico, S.A. de C.V.
+Prolongación Paseo de la Reforma #600, Suite 132, Colonia Peña Blanca, Santa Fé, Delegación Álvaro Obregón, México D. F., CP 01210, Meksika
+Amerika Birleşik Devletleri ve Amerika'daki Diğer Ülkeler
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, ABD
+Avrupa, Orta Doğu ve Afrika
+
+
+Rusya Federasyonu
+Limited Liability Company Apple Rus
+5 Petrovka Street, Berlin House Business Center, 107031, Moscow, Rusya Federasyonu
+Türkiye
+Apple Teknoloji ve Satış Limited Şirketi
+FSM Mahallesi Poligon Caddesi Buyaka 2 Sitesi No:8, Blok No.2 (C Blok) Kat:18 34471 Ümraniye İstanbul, Türkiye
+Diğer Tüm Ülkeler
+Apple Distribution International
+Hollyhill Industrial Estate Hollyhill, Cork, İrlanda Cumhuriyeti
+Asya Pasifik
+
+
+Avustralya, Yeni Zelanda; Fiji, Papua Yeni Gine; Vanuatu
+Apple Pty. Limited.
+PO Box A2629, Sydney South, NSW 1235, Avustralya Tel: 133 622
+Hong Kong
+Apple Asia Limited
+2401 Tower One, Times Square, Causeway Bay; Hong Kong
+Hindistan
+Apple India Private Ltd..
+19th Floor, Concorde Tower C, UB City No 24, Vittal Mallya Road, Bangalore 560-001, Hindistan
+Japonya
+Apple Japan Inc.
+6-10-1 Roppongi, Minato-ku Tokyo 106-6140, Japonya
+Kore
+Apple Korea Ltd.
+3901, ASEM Tower; 159, Samsung-dong, Gangnam-Gu; Seoul 135-798, Kore Cumhuriyeti
+Afganistan, Bangladeş, Bhutan, Brunei, Kamboçya, Guam, Endonezya, Laos, Singapur, Malezya, Nepal, Pakistan, Filipinler, Sri Lanka, Vietnam
+Apple South Asia Pte. Ltd.
+7 Ang Mo Kio Street 64
+Singapur 569086
+
+
+Çin Halk Cumhuriyeti
+Apple Computer Trading (Shanghai) Co. Ltd. 
+Units 610-13 on partial Floor 6, HSBC Building (i.e., Tower A), Shanghai ifc, 8 Century Avenue, Pudong New Area, Shanghai, Çin
+Tayland
+Apple South Asia (Thailand) Limited
+44. Kat, Oda No. HH4401-6, The Offices at Central World, 999/9 Rama 1 Road , Pathumwan, Pathumwan , Bangkok 10330 Tayland
+Tayvan
+Apple Asia LLC
+19F., No.1, Songzhi Rd., Xinyi Dist., Taipei City 110, Tayvan
+Diğer Asya Pasifik Ülkeleri
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, ABD
+
+071814 Tech Support Turkish v1.8

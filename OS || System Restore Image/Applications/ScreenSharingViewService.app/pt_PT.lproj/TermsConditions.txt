@@ -1,0 +1,144 @@
+Suporte Técnico AppleCare
+
+Termos e Condições
+
+AO CONTACTAR A APPLE NO ÂMBITO DA ASSISTÊNCIA TÉCNICA DISPONIBILIZADA AO ABRIGO DE UM PLANO DE ASSISTÊNCIA REFERENCIADO INFRA ("PLANO DE ASSISTÊNCIA") OU AO REGISTAR UM PLANO DE ASSISTÊNCIA JUNTO DA APPLE, O INDIVÍDUO OU A ENTIDADE ("CLIENTE") CONCORDA QUE OS SEGUINTES TERMOS E CONDIÇÕES ("TERMOS E CONDIÇÕES") REGULAM A PRESTAÇÃO DA ASSISTÊNCIA TÉCNICA AO ABRIGO DO PLANO DE ASSISTÊNCIA APLICÁVEL. DE NOTAR, TODAVIA, QUE A ASSISTÊNCIA TÉCNICA PRESTADA A UM CLIENTE BENEFICIÁRIO DA GARANTIA LIMITADA DE UM ANO DA APPLE, DO APPLECARE+, DO APPLECARE PROTECTION PLAN OU DA LEGISLAÇÃO PARA A PROTEÇÃO DOS CONSUMIDORES APLICÁVEL É REGULADA DE ACORDO COM OS TERMOS DA RESPETIVA GARANTIA, CONTRATO DE ASSISTÊNCIA APPLECARE OU LEGISLAÇÃO PARA A PROTEÇÃO DOS CONSUMIDORES.   RELATIVAMENTE À ASSISTÊNCIA TÉCNICA REGULADA PELOS PRESENTES TERMOS E CONDIÇÕES, SE O CLIENTE NÃO CONCORDAR COM OS MESMOS, NÃO DEVE CONTACTAR A APPLE NEM EFETUAR O REGISTO DO PLANO DE ASSISTÊNCIA. PARA CANCELAR UM PLANO DE ASSISTÊNCIA ADQUIRIDO E RECEBER UM REEMBOLSO DE TODO O VALOR PAGO, O CLIENTE DEVE CONTACTAR A APPLE, CONFORME DESCRIÇÃO INFRA. O PLANO DE ASSISTÊNCIA ENTRARÁ EM VIGOR QUANDO A APPLE ACEITAR O REGISTO DO CLIENTE ("DATA EFETIVA").
+
+1.	Serviços. Após a aceitação do registo do Cliente, a Apple fornecerá assistência técnica ("Assistência Técnica") para os produtos de software Apple ou tecnologias relacionadas ("Produtos Suportados") no âmbito do Plano de Assistência aplicável, tal como descrito integralmente na seguinte página Web disponível online: http://www.apple.com/legal/sales-support/applecare/actssgeos.html ("Página de Suporte do Plano de Assistência"). A Apple reserva-se o direito de alterar, em qualquer altura, a Assistência Técnica prestada e/ou os Produtos Suportados abrangidos por um Plano de Assistência mediante a publicação de atualizações na Página de Suporte do Plano de Assistência. A Apple não alterará a Assistência Técnica e/ou os Produtos Suportados de uma forma que (i) reduza o nível de esforço que a Apple presta no âmbito da Assistência Técnica, ou (ii) tenha um impacto material sobre a obrigação da Apple de prestar a Assistência Técnica, ou (iii) tenha um impacto material sobre os direitos de que o Cliente beneficia no âmbito da Assistência Técnica. Para quaisquer atualizações que afetem o Plano de Assistência do Cliente, a Apple notificará o Cliente relativamente à atualização através do endereço de e-mail registado pelo Cliente no prazo mínimo de trinta (30) dias antes da sua publicação. Os termos descritos na Página de Suporte do Plano de Assistência são incorporados nos presentes Termos e Condições. No caso de existirem inconsistências entre os termos constantes no presente documento e os termos na Página de Suporte do Plano de Assistência, prevalecem estes últimos.
+
+2.	Limitações. 
+
+2.1	Incidentes de Suporte. Os Planos de Assistência são disponibilizados em pacotes de Incidentes de Suporte únicos, múltiplos ou ilimitados. Um Incidente de Suporte é um problema específico e diferenciado cuja origem pode ser isolada a uma única causa. A Apple envidará os esforços razoáveis para resolver um Incidente de Suporte, mas não garante a resolução dos Incidentes de Suporte. A Apple determinará, apenas no seu entender, o que constitui um Incidente de Suporte e, na medida do permitido por lei, se o Incidente de Suporte foi resolvido. Em termos genéricos, o Incidente de Suporte fica resolvido quando o Cliente recebe um dos seguintes: (a) informações que resolvem o problema; (b) informações sobre como obter uma solução de software que resolverá o problema; (c) um aviso de que o problema é causado por um problema conhecido e sem resolução ou por um problema de incompatibilidade com um Produto Suportado; (d) informações que identificam o problema como resolúvel através da atualização para uma versão mais recente do Produto Suportado; ou (e) aviso de que o problema foi identificado como um problema de equipamento de hardware. Ao abrigo de um Plano de Assistência com um número limitado de Incidentes de Suporte, cada novo contacto de Incidente de Suporte efetuado pelo Cliente diminuirá o número restante de Incidentes de Suporte elegíveis.
+
+2.2	Tempos de Resposta. A Apple envidará os esforços razoáveis para responder a um pedido de Assistência Técnica num prazo razoável ou dentro do tempo de resposta descrito no âmbito de um Plano de Assistência aplicável ("Tempo de Resposta"), consoante o que ocorrer primeiro, mas não garante que será dada uma resposta dentro de um determinado prazo. Todos os Tempos de Resposta são medidos de acordo com os Horários de Funcionamento do Plano de Assistência descritos na Página de Suporte do Plano de Assistência. 
+
+2.3	Versão Atual. Salvo especificação em contrário, todos os Produtos Suportados terão de ter o nível de versão mais atualizado. 
+
+2.4	Uso. A Assistência Técnica não se destina a ser usada no funcionamento de instalações nucleares, navegação de aeronaves, sistemas de comunicação, equipamentos de controlo de tráfego aéreo ou outras atividades em que a falha da Assistência Técnica na consecução de um resultado pretendido possa resultar na morte, ofensas à integridade física ou danos físicos ou ambientais graves.
+
+2.5	Contactos Técnicos. A Assistência Técnica é prestada a uma única pessoa ou a várias pessoas designadas pelo Cliente no momento do registo e conforme previsto no âmbito do Plano de Assistência ("Contacto(s) Técnico(s)"). Os Contactos Técnicos são os únicos elos de ligação entre o Cliente e a Apple para suporte técnico no âmbito do Plano de Assistência. Para os Planos de Assistência com vários Contactos Técnicos, se o Cliente pretender alterá-los, deve notificar por escrito a Apple sobre a alteração com não menos de cinco (5) dias de antecedência através do Endereço de Contacto para Reembolso aplicável descrito abaixo ou, se aplicável ao Plano de Assistência, introduzir as alterações diretamente através do website personalizado e seguro do Cliente, tal como descrito nos documentos de instrução fornecidos no início do Plano de Assistência.
+
+3.	Exclusões. Salvo especificação em contrário no Plano de Assistência, a Apple não prestará Assistência Técnica relacionada com problemas resultantes ou de qualquer forma relacionados com (a) a utilização do Produto Suportado como uma aplicação baseada em servidor; (b) problemas que possam ser resolvidos através da atualização do Produto Suportado; (c) a utilização ou modificação de um Produto Suportado de modo não previsto; (d) produtos ou tecnologias de terceiros e respetivos efeitos sobre um Produto Suportado ou interações com o mesmo; (e) danos ao suporte em que o Produto Suportado é disponibilizado ou ao computador em que um Produto Suportado está instalado; (f) a utilização de um sistema informático incompatível com um Produto Suportado; e (g) problemas relacionados com a Internet, e-mail, gestão de ficheiros, configuração de rede, scripting, scripting de FX, programação, compilação, depuração, conceção de infraestruturas, criação de conteúdos, personalização de conteúdos, conceção/planeamento de projetos multimédia, gestão de recursos, orçamentação, formação, diagnóstico no local ou outros problemas não abrangidos pela Assistência Técnica descrita no âmbito de um Plano de Assistência.
+
+4.	Responsabilidades do Cliente. Para beneficiar da Assistência Técnica, o Cliente deve efetuar o registo do Plano de Assistência e seguir as instruções de acesso fornecidas pela Apple. O Cliente é responsável por todas as tarifas aplicáveis para estabelecer e manter as comunicações por e-mail e telefone com a Apple. O Cliente compromete-se a cooperar com a Apple quando procura beneficiar da Assistência Técnica, fornecendo, para tal, as informações necessárias que permitam ajudar a Apple no diagnóstico do problema. O Cliente é responsável por todo e qualquer restauro ou reconstituição dos ficheiros, dados ou programas perdidos ou alterados. O Cliente compromete-se a manter e implementar um plano abrangente de cópia de segurança dos dados e recuperação após desastre. O Cliente é o único responsável por toda e qualquer segurança das respetivas informações confidenciais, privativas ou reservadas. O Cliente não revelará à Apple quaisquer informações confidenciais, privativas ou outras que estejam sujeitas a direitos de propriedade intelectual que possam expor a Apple a situações de responsabilidade civil. O Cliente deve ter uma compreensão razoável dos Produtos Suportados para os quais procura obter o Serviço de Suporte, bem como do sistema informático que está a utilizar. O Cliente não pode transferir a Assistência Técnica para terceiros. A Assistência Técnica é prestada somente para uso interno do Cliente e qualquer distribuição não autorizada da mesma constituirá motivo para a cessação imediata dos presentes Termos e Condições. O Cliente tomará as medidas consideradas razoáveis para impedir a distribuição e utilização não autorizadas da Assistência Técnica. O Cliente não tirará proveito da prestação ou recurso à Assistência Técnica, incluindo, entre outros, o acesso à Assistência Técnica para problemas que já tenham sido resolvidos. 
+
+5.	Assistência Técnica de Acesso Remoto. Enquanto parte de um Plano de Assistência, a Apple pode prestar a Assistência Técnica através de acesso remoto pela Internet, em que poderá ter acesso e, se o Cliente o permitir, controlo e poderá recolher informações no computador do Cliente através da instalação e utilização de software de acesso remoto. A instalação e utilização do software de acesso remoto por parte do Cliente indicam que o mesmo autoriza a Apple a prestar Assistência Técnica desta forma. Todos ou parte dos ficheiros do software de acesso remoto poderão permanecer no computador do Cliente depois de terminada a sessão de Assistência Técnica. Os direitos relativos à propriedade do software de acesso remoto e todos os direitos de propriedade intelectual conexos pertencem à Apple Inc. e/ou aos respetivos licenciantes. A utilização do software de acesso remoto aplicável poderá estar sujeita a termos de licenciamento adicionais disponíveis em http://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf. O Cliente não poderá proceder à desassemblagem ou engenharia inversa de qualquer parte do software de acesso remoto. Durante a prestação da Assistência Técnica, a Apple só terá acesso e só poderá controlar e recolher as informações presentes no computador Cliente que considerar, com motivos razoavelmente justificados, serem necessárias para analisar e prestar a assistência no âmbito do Incidente de Suporte. A Apple recomenda que o Cliente feche todos os ficheiros e aplicações que não sejam pertinentes para o Incidente de Suporte. O software de acesso remoto ou as funcionalidades do computador do Cliente permitirão ao Cliente terminar a qualquer momento a sessão de Assistência Técnica de acesso remoto.
+
+Importante - A Apple poderá ser obrigada a reportar, ao abrigo das políticas ou da lei em vigor, determinadas imagens quando visualizadas durante uma sessão.
+
+6.	Exclusão de Garantia. EMBORA A APPLE NÃO POSSA GARANTIR A RESOLUÇÃO DE UM INCIDENTE DE SUPORTE, ENVIDARÁ OS ESFORÇOS CONSIDERADOS RAZOÁVEIS PARA PRESTAR DE FORMA PROFISSIONAL A ASSISTÊNCIA TÉCNICA AO ABRIGO DO PLANO DE ASSISTÊNCIA. NA MEDIDA DO PERMITIDO POR LEI, A GARANTIA EXPRESSA E OS RESSARCIMENTOS ESTABELECIDOS NO PRESENTE DOCUMENTO SÃO EXCLUSIVOS E SUBSTITUEM TODAS AS GARANTIAS, RESSARCIMENTOS E CONDIÇÕES, ORAIS OU ESCRITOS, PREVISTOS NA LEI, EXPRESSOS OU IMPLÍCITOS. NA MEDIDA DO PERMITIDO PELA LEI APLICÁVEL, A APPLE E OS RESPETIVOS LICENCIANTES EXCLUEM ESPECIFICAMENTE TODA E QUALQUER GARANTIA PREVISTA POR LEI OU IMPLÍCITA, RESULTANTE OU DE QUALQUER FORMA RELACIONADA COM OS PRESENTES TERMOS E CONDIÇÕES, INCLUINDO QUALQUER GARANTIA IMPLÍCITA OU CONDIÇÃO DE COMERCIALIZAÇÃO OU ADEQUAÇÃO A UM FIM ESPECÍFICO. 
+
+7.	Limitação de Responsabilidade. NA MEDIDA DO PERMITIDO POR LEI, A RESPONSABILIDADE DA APPLE E DOS RESPETIVOS LICENCIANTES NO ÂMBITO DOS PRESENTES TERMOS E CONDIÇÕES ESTÁ LIMITADA AOS VALORES PAGOS PELO CLIENTE PELO PLANO DE ASSISTÊNCIA ENCOMENDADO PELO CLIENTE. EM CIRCUNSTÂNCIA ALGUMA TERÁ A APPLE E O SEU LICENCIANTE QUALQUER RESPONSABILIDADE POR QUAISQUER DANOS INDIRETOS, ESPECIAIS, EMERGENTES OU CONSEQUENTES, INCLUINDO, MAS NÃO LIMITADO AOS DANOS POR PERDA DE LUCROS, PERDA DE DADOS, PERDA DE UTILIZAÇÃO, EQUIPAMENTO OU INSTALAÇÕES OU PELA INTERRUPÇÃO DA ATIVIDADE, DE QUALQUER FORMA RESULTANTE DOS PRESENTES TERMOS E CONDIÇÕES, COM BASE EM QUALQUER DOUTRINA DE RESPONSABILIDADE, QUER A APPLE E OS RESPETIVOS LICENCIANTES TENHAM OU NÃO SIDO AVISADOS DA POSSIBILIDADE DE OCORRÊNCIA DOS REFERIDOS DANOS. OUTRAS EXCLUSÕES DE RESPONSABILIDADE PODERÃO CONSTAR NOS TERMOS DE LICENCIAMENTO APLICÁVEIS AO SOFTWARE DE ACESSO REMOTO EM http://www.apple.com/legal/sales-support/remote-support/. SE O CLIENTE ESTIVER ABRANGIDO PELAS DISPOSIÇÕES LEGISLATIVAS E REGULAMENTARES NO RESPETIVO PAÍS DE COMPRA OU, SE FOR DIFERENTE, NO RESPETIVO PAÍS DE RESIDÊNCIA, OS BENEFÍCIOS CONFERIDOS PELOS PRESENTES TERMOS E CONDIÇÕES ACRESCEM A TODOS OS DIREITOS E RESSARCIMENTOS ESTABELECIDOS NA LEGISLAÇÃO E REGULAMENTOS RESPEITANTES À DEFESA DO CONSUMIDOR. ALGUNS PAÍSES OU REGIÕES NÃO PERMITEM A EXCLUSÃO OU A LIMITAÇÃO DE DANOS EMERGENTES OU CONSEQUENTES, NEM EXCLUSÕES OU LIMITAÇÕES ÀS CONDIÇÕES E GARANTIAS IMPLÍCITAS, PELO QUE AS LIMITAÇÕES OU EXCLUSÕES SUPRA PODERÃO NÃO SER APLICADAS AO CLIENTE. OS PRESENTES TERMOS E CONDIÇÕES CONFEREM DIREITOS LEGAIS ESPECÍFICOS AO CLIENTE, E ESTE PODE AINDA TER OUTROS DIREITOS QUE VARIAM CONSOANTE O PAÍS OU REGIÃO.
+
+8.	Vigência e Cessação. A menos que seja posto termo antes desta data, na aplicação da presente secção, o Plano de Assistência permanecerá em vigor por um período de doze (12) meses a contar da Data Efetiva ou até serem usados os Incidentes de Suporte, consoante o que ocorrer primeiro (salvo autorização em contrário por escrito por parte da Apple). A Apple não prestará Assistência Técnica para além do final do Plano de Assistência, salvo renovação do Plano de Assistência até à respetiva data de cessação, inclusive. A Apple poderá cessar um Plano de Assistência em qualquer altura (a) se, depois de notificar por escrito o Cliente com uma antecedência mínima de quinze (15) dias, este não proceder ao pagamento das taxas devidas pela prestação de um Plano de Assistência ou (b) se, depois de notificar por escrito o Cliente com uma antecedência mínima de trinta (30) dias, este não reparar a infração aos presentes Termos e Condições ou (c) se o Cliente infringir uma cláusula de qualquer contrato de licença de software que regula a utilização do software disponibilizado ao abrigo de um Plano de Assistência. Salvo disposição legal em contrário e desde que o Cliente não tenha usufruído da Assistência Técnica, este poderá cancelar um Plano de Assistência por qualquer motivo no prazo de trinta (30) dias após a data de aquisição ou a Data Efetiva do Plano de Assistência, consoante a data que for posterior, e receber o reembolso de todos os montantes pagos. Os pedidos de reembolso deverão ser enviados por escrito, juntamente com a prova de compra aplicável, para o Endereço de Contacto para Reembolso identificado abaixo. As secções 6, 7 e 12 mantêm-se em vigor após a cessação dos presentes Termos e Condições, independentemente do motivo.
+
+9.	Apple; Foro. "Apple" é identificada na tabela abaixo consoante o país de residência do Cliente. FICA ACORDADO QUE OS PRESENTES TERMOS E CONDIÇÕES SÃO REGULADOS PELA LEGISLAÇÃO DO PAÍS DE COMPRA OU, SE FOR DIFERENTE, DO PAÍS DE RESIDÊNCIA, E OS TRIBUNAIS DOS RESPETIVOS PAÍSES TERÃO JURISDIÇÃO SOBRE A QUESTÃO JURÍDICA. 
+
+10.	Software ou Serviços Adicionais. Quaisquer serviços prestados no âmbito do Plano de Assistência serão regulados pelos presentes Termos e Condições. Na eventualidade de a Assistência Técnica ser prestada numa instalação do Cliente no âmbito de um Plano de Assistência, o Cliente assegura que a Apple terá acesso à localização à hora estabelecida e garantirá um ambiente de trabalho suficientemente seguro para que a Apple possa prestar a Assistência Técnica. Na eventualidade de o software ser fornecido no âmbito de um Plano de Assistência, esse software será um trabalho protegido por direitos de autor da Apple Inc. e/ou dos respetivos licenciantes. O Cliente poderá instalar, reproduzir e usar o software somente no apoio aos Produtos Suportados mas, exceto na medida do permitido pela lei aplicável, não poderá descompilar, efetuar engenharia inversa, modificar, arrendar, alugar, proceder a locação financeira (leasing) ou criar trabalhos derivados no software. Se o software estiver sujeito aos termos de um contrato de licença separado, os termos desse contrato regularão a utilização do software. Qualquer software disponibilizado ao Governo dos Estados Unidos ao abrigo dos presentes Termos e Condições será classificado como "programa informático restrito", de acordo com a definição na cláusula 52.227-19 da FAR (legislação federal norte-americana relativa a aquisições). Os direitos do Governo dos Estados Unidos relativos ao software são os previstos na cláusula 52.227-19 da FAR.
+
+11.	Proteção de Dados. O Cliente compreende e aceita que a Apple necessita de recolher, processar e utilizar dados do Cliente para cumprir todas as suas obrigações em relação à assistência e ao suporte ao abrigo do Plano de Assistência. Tal poderá incluir a transferência de dados do Cliente para empresas afiliadas ou prestadores de serviços, de acordo com os termos da Política de Privacidade da Apple (http://www.apple.com/legal/warranty/privacy). A Apple protegerá as informações do Cliente de acordo com a Política de Privacidade da Apple. Se o Cliente pretender ter acesso às respetivas informações detidas pela Apple ou se pretender efetuar quaisquer alterações, poderá atualizar as preferências de contacto pessoais através da página Web de Atualização da Privacidade (http://www.apple.com/contact/myinfo). A Apple poderá gravar todas ou parte das chamadas entre o Cliente e a Apple para efeitos de formação, controlo de qualidade e referência.
+
+12.	Disposições Gerais. O Cliente não poderá ceder os respetivos direitos ou obrigações ao abrigo de um Plano de Assistência. Qualquer cedência não autorizada será nula. A Apple não será responsável pelo cumprimento não atempado ou pelo incumprimento das suas obrigações por motivos que estejam fora do seu controlo razoável. A renúncia a invocar qualquer violação ou incumprimento ao abrigo dos presentes Termos e Condições não constituirá uma renúncia de qualquer incumprimento ou infração subsequente. Se um tribunal competente considerar que qualquer cláusula dos presentes Termos e Condições é inválida ou não aplicável, as restantes secções permanecerão em pleno vigor e as partes substituirão a cláusula inválida ou não aplicável por outra que seja válida e aplicável e que expresse a intenção original das partes e o efeito económico dos Termos e Condições. Os presentes Termos e Condições, incluindo quaisquer termos adicionais referenciados no presente documento, constituem o contrato integral entre a Apple e o Cliente relativamente ao Plano de Assistência e à Assistência Técnica prestados ao abrigo do presente documento e prevalecem sobre todas as negociações, contratos e entendimentos anteriores relativamente à matéria em questão, e nenhum aditamento ou supressão ou modificação de qualquer uma das disposições do presente documento terá caráter vinculativo para a Apple, a menos que tal seja feito por escrito e assinado por um representante autorizado da Apple. Nenhum termo ou condição em qualquer encomenda ou outro documento submetido pelo Cliente será válido ou eficaz e é especificamente rejeitado. 
+
+ESPECIFICIDADES NACIONAIS
+
+As seguintes especificidades nacionais prevalecerão se forem inconsistentes com qualquer outra cláusula do presente Plano:
+
+AUSTRÁLIA
+Os direitos descritos nos presentes termos e condições relativamente a devoluções, reembolsos e garantias acrescem aos direitos legais a que poderá ter direito ao abrigo do Competition and Consumer Act 2010 (legislação australiana sobre concorrência e consumo) e a outras regulamentações e leis australianas de defesa do consumidor aplicáveis.
+
+BÉLGICA
+O Cliente reconhece que, ao contactar a Apple no âmbito da Assistência Técnica, não está a exercer qualquer direito relativo a um contrato de venda concluído previamente, tal como estipulado no artigo 94 ter. do Trade Practices Act de 14 de julho de 1991
+
+ALEMANHA
+Cláusula 7. Limitação de Responsabilidade. Relativamente aos Clientes que sejam consumidores finais, aplicam-se as seguintes disposições: a Apple será responsável por quaisquer perdas ao abrigo dos termos do Plano de Assistência apenas em conformidade com as disposições que se seguem: (i) responsabilidade ilimitada por perdas causadas intencionalmente ou por negligência grosseira, (ii) responsabilidade ilimitada por morte, ofensas à integridade física ou danos à saúde causados intencionalmente ou por negligência, (iii) por perdas resultantes da falta de qualquer das características garantidas até ao valor coberto pelo objetivo da garantia e que era previsível para a Apple no momento da concessão da garantia, (iv) em conformidade com o Product Liability Act no caso de responsabilidade do produto ou (v) por perdas causadas pela violação dos deveres básicos da Apple que formam a essência do Plano de Assistência e que foram decisivos para a conclusão do Plano de Assistência e nos quais o Cliente confia. É excluída qualquer responsabilidade mais alargada por parte da Apple.
+
+ITÁLIA
+Cláusula 4. Responsabilidades do Cliente. É adicionado o seguinte à cláusula 4:
+
+Os custos das comunicações por e-mail e telefone correspondem aos aplicados pelo fornecedor de serviços telefónicos/Internet.
+
+NORUEGA
+Cláusula 8. Vigência e cessação: É adicionado o seguinte à cláusula 8: 
+
+Se for um consumidor final, tenha em atenção que o direito ao arrependimento ao abrigo do Norwegian Act sobre o direito ao arrependimento numa compra (Lei n.º 105 de 21 de dezembro de 2000 ), é considerado na Secção 8, Vigência e cessação. 
+
+SUÉCIA
+Cláusula 1. Serviços. É adicionado o seguinte à cláusula 1:
+
+Se as alterações efetuadas à Assistência Técnica prejudicarem materialmente o Cliente, este tem o direito à cessação do Plano de Assistência de acordo com o disposto na Secção 8 infra.
+
+Cláusula 8. Vigência e Cessação. É adicionada a frase "Se a Apple introduzir qualquer alteração à Assistência Técnica que prejudique materialmente o Cliente, tal como o cancelamento da assistência técnica relacionado com o produto do Cliente, este terá o direito à cessação do Plano de Assistência e a receber um reembolso no montante equivalente ao período restante do Plano de Assistência" após "Salvo disposição legal em contrário e desde que o Cliente não tenha usufruído da Assistência Técnica, este poderá cancelar um Plano de Assistência por qualquer motivo no prazo de trinta (30) dias após a data de aquisição ou a Data Efetiva do Plano de Assistência, consoante a data que for posterior, e receber o reembolso de todos os montantes pagos."
+
+País/Região de Compra
+Apple
+Morada
+Américas
+
+
+Brasil
+Apple Computer Brasil Ltda
+Rua: Leopoldo Couto Magalhães Júnior, nº 700, 7º andar, São Paulo, SP, Brasil 
+04542-000
+SAC: 0800-761-0880
+http://www.apple.com/br/support
+Canadá
+Apple Canada Inc.
+7495 Birchmount Rd.; Markham, Ontário, Canadá; L3R 5G2 Canadá
+México
+Apple Operations Mexico, S.A. de C.V.
+Prolongación Paseo de la Reforma #600, Suite 132, Colonia Peña Blanca, Santa Fé, Delegación Álvaro Obregón, México D. F., CP 01210, México
+Estados Unidos da América e Outros Países Americanos
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, E.U.A.
+Europa, Médio Oriente e África
+
+
+Federação Russa
+Limited Liability Company Apple Rus
+5 Petrovka Street, Berlin House Business Center, 107031, Moscovo, Federação Russa
+Turquia
+Apple Teknoloji ve Satış Limited Şirketi
+FSM Mahallesi Poligon Caddesi Buyaka 2 Sitesi No:8, Blok No.2 (C Blok) Kat:18 34471 Ümraniye İstambul, Turquia
+Todos os Outros Países
+Apple Distribution International
+Hollyhill Industrial Estate Hollyhill, Cork, República da Irlanda
+Ásia-Pacífico
+
+
+Austrália; Nova Zelândia; Fiji, Papua-Nova Guiné; Vanuatu
+Apple Pty. Limited.
+PO Box A2629, Sydney South, NSW 1235, Austrália Tel: 133 622
+Hong Kong
+Apple Asia Limited
+2401 Tower One, Times Square, Causeway Bay; Hong Kong
+Índia
+Apple India Private Ltd..
+19th Floor, Concorde Tower C, UB City No 24, Vittal Mallya Road, Bangalore 560-001, Índia
+Japão
+Apple Japan Inc.
+6-10-1 Roppongi, Minato-ku Tokyo 106-6140, Japão
+Coreia
+Apple Korea Ltd.
+3901, ASEM Tower; 159, Samsung-dong, Gangnam-Gu; Seoul 135-798, República da Coreia
+Afeganistão, Bangladeche, Butão, Brunei, Camboja, Guam, Indonésia, Laos, Singapura, Malásia, Nepal, Paquistão, Filipinas, Sri Lanka, Vietname
+Apple South Asia Pte. Ltd.
+7 Ang Mo Kio Street 64
+Singapure 569086
+
+
+República Popular da China
+Apple Computer Trading (Shanghai) Co. Ltd. 
+Units 610-13 on partial Floor 6, HSBC Building (i.e., Tower A), Shanghai ifc, 8 Century Avenue, Pudong New Area, Xangai, China
+Tailândia
+Apple South Asia (Thailand) Limited
+44th Floor, Room No. HH4401-6, The Offices at Central World, 999/9 Rama 1 Road , Pathumwan, Pathumwan , Banguecoque 10330 Tailândia
+Taiwan
+Apple Asia LLC
+19F., No.1, Songzhi Rd., Xinyi Dist., Cidade de Taipé 110, Taiwan
+Outros Países da Ásia-Pacífico
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, E.U.A.
+
+071814 Tech Support EMEA Portuguese v1.8
+

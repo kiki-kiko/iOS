@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayname</key>
+	<string>gen-hhvp-hhvp-fpna-dlnk</string>
+	<key>name</key>
+	<string>gen-hhvp-hhvp-fpna-dlnk</string>
+	<key>strips</key>
+	<array>
+		<dict>
+			<key>effects</key>
+			<array>
+				<dict>
+					<key>aupreset</key>
+					<dict>
+						<key>data</key>
+						<data>
+						AAAAAAAAAAAAAAACaGFyZL3MzM1z
+						b2Z0wEAAAA==
+						</data>
+						<key>manufacturer</key>
+						<integer>1634758764</integer>
+						<key>name</key>
+						<string>Untitled</string>
+						<key>subtype</key>
+						<integer>1936089964</integer>
+						<key>type</key>
+						<integer>1635083896</integer>
+						<key>version</key>
+						<integer>0</integer>
+					</dict>
+					<key>bypass</key>
+					<integer>0</integer>
+					<key>displayname</key>
+					<string>(DL-)SC</string>
+					<key>unit</key>
+					<dict>
+						<key>manufacturer</key>
+						<integer>1634758764</integer>
+						<key>name</key>
+						<string>Apple: AUSoftClip</string>
+						<key>subtype</key>
+						<integer>1936089964</integer>
+						<key>type</key>
+						<integer>1635083896</integer>
+					</dict>
+				</dict>
+				<dict>
+					<key>aupreset</key>
+					<dict>
+						<key>data</key>
+						<data>
+						AAAAAAAAAAAAAAAEAAAAAAAAAA8A
+						AAABQwAAAAAAAALCcAAAAAAAA8Fw
+						AAA=
+						</data>
+						<key>manufacturer</key>
+						<integer>1634758764</integer>
+						<key>name</key>
+						<string>Untitled</string>
+						<key>subtype</key>
+						<integer>1635284580</integer>
+						<key>type</key>
+						<integer>1635082616</integer>
+						<key>version</key>
+						<integer>0</integer>
+					</dict>
+					<key>displayname</key>
+					<string>(DL)-AuxVP</string>
+					<key>unit</key>
+					<dict>
+						<key>manufacturer</key>
+						<integer>1634758764</integer>
+						<key>name</key>
+						<string>Apple: AUAuxVPDownlink</string>
+						<key>subtype</key>
+						<integer>1635284580</integer>
+						<key>type</key>
+						<integer>1635082616</integer>
+					</dict>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,148 @@
+Hỗ trợ Kỹ thuật AppleCare
+
+Điều khoản và Điều kiện
+
+BẰNG VIỆC LIÊN HỆ VỚI APPLE ĐỂ ĐƯỢC CUNG CẤP DỊCH VỤ HỖ TRỢ THEO CHƯƠNG TRÌNH DỊCH VỤ ĐƯỢC ĐỀ CẬP DƯỚI ĐÂY (“CHƯƠNG TRÌNH DỊCH VỤ”) HOẶC ĐĂNG KÝ CHƯƠNG TRÌNH DỊCH VỤ VỚI APPLE, CÁ NHÂN HOẶC TỔ CHỨC ("KHÁCH HÀNG") ĐỒNG Ý RẰNG NHỮNG ĐIỀU KHOẢN VÀ ĐIỀU KIỆN SAU ĐÂY (“ĐIỀU KHOẢN VÀ ĐIỀU KIỆN”) SẼ ĐIỀU CHỈNH VIỆC CUNG CẤP CÁC DỊCH VỤ HỖ TRỢ THEO CHƯƠNG TRÌNH DỊCH VỤ ÁP DỤNG. TUY NHIÊN, VUI LÒNG LƯU Ý RẰNG CÁC DỊCH VỤ HỖ TRỢ ĐƯỢC CUNG CẤP NHẰM HỖ TRỢ KHÁCH HÀNG ĐÃ NHẬN ĐƯỢC NHỮNG QUYỀN LỢI THEO CHƯƠNG TRÌNH BẢO HÀNH GIỚI HẠN MỘT NĂM CỦA APPLE, CHƯƠNG TRÌNH BẢO VỆ APPLECARE+, APPLECARE HOẶC LUẬT TIÊU DÙNG HIỆN HÀNH ĐƯỢC ĐIỀU CHỈNH THEO CÁC ĐIỀU KHOẢN CỦA BẢO HÀNH TƯƠNG ỨNG, HỢP ĐỒNG DỊCH VỤ APPLECARE HOẶC CÁC QUY ĐỊNH LUẬT PHÁP BẢO VỆ NGƯỜI TIÊU DÙNG.   VỀ DỊCH VỤ HỖ TRỢ ĐƯỢC ĐIỀU CHỈNH BỞI NHỮNG ĐIỀU KHOẢN VÀ ĐIỀU KIỆN NÀY, NẾU KHÁCH HÀNG KHÔNG ĐỒNG Ý VỚI NHỮNG ĐIỀU KHOẢN VÀ ĐIỀU KIỆN NÀY, KHÁCH HÀNG KHÔNG CẦN LIÊN HỆ VỚI APPLE HOẶC ĐĂNG KÝ CHƯƠNG TRÌNH DỊCH VỤ. ĐỂ HỦY CHƯƠNG TRÌNH DỊCH VỤ ĐÃ MUA VÀ NHẬN KHOẢN HOÀN LẠI CỦA SỐ TIỀN ĐÃ TRẢ, KHÁCH HÀNG CẦN LIÊN HỆ VỚI APPLE, NHƯ ĐƯỢC TRÌNH BÀY BÊN DƯỚI. CHƯƠNG TRÌNH DỊCH VỤ SẼ CÓ HIỆU LỰC KHI APPLE CHẤP NHẬN ĐĂNG KÝ CỦA KHÁCH HÀNG (“NGÀY HIỆU LỰC”).
+
+1.	Dịch vụ. Sau khi chấp nhận đăng ký của Khách hàng, Apple sẽ cung cấp dịch vụ hỗ trợ (“Dịch vụ hỗ trợ”) cho các sản phẩm phần mềm hoặc các công nghệ liên quan của Apple (“Sản phẩm được hỗ trợ”) đối với Chương trình dịch vụ áp dụng, tất cả như được trình bày trên trang web trực tuyến sau: http://www.apple.com/legal/sales-support/applecare/actssgeos.html (“Trang hỗ trợ chương trình dịch vụ”). Apple bảo lưu quyền sửa đổi các Dịch vụ hỗ trợ được cung cấp và/hoặc các Sản phẩm được hỗ trợ nằm trong Chương tình dịch vụ, tại bất kỳ thời điểm nào, bằng cách đăng cập nhật lên Trang hỗ trợ chương trình dịch vụ. Apple sẽ không sửa đổi Dịch vụ hỗ trợ và/hoặc các Sản phẩm được hỗ trợ theo cách sẽ (i) giảm mức độ nỗ lực của Apple trong các Dịch vụ hỗ trợ hoặc (ii) tác động đáng kể đến nghĩa vụ của Apple trong việc cung cấp các Dịch vụ hỗ trợ hoặc (iii) tác động đáng kể đến các quyền mà Khách hàng nhận được theo Dịch vụ hỗ trợ. Đối với bất kỳ cập nhật nào ảnh hưởng đến Chương trình dịch vụ của khách hàng, Apple sẽ thông báo cho Khách hàng về cập nhật đó qua địa chỉ thư điện thử do Khách hàng đăng ký ít nhất ba mươi (30) ngày trước khi đăng. Các điều khoản được trình bày trong Trang hỗ trợ chương trình dịch vụ được lồng vào các Điều khoản và điều kiện này. Trong trường hợp có bất kỳ mâu thuẫn nào giữa các điều khoản trong tài liệu này với các điều khoản trên Trang hỗ trợ chương trình dịch vụ thì điều khoản trên Trang hỗ trợ chương trình dịch vụ sẽ được áp dụng.
+ 
+2.	Giới hạn. 
+
+2.1	Sự cố cần hỗ trợ. Các Chương trình dịch vụ được cung cấp theo các gói có một, nhiều hoặc không giới hạn Sự cố cần hỗ trợ. Sự cố cần hỗ trợ là một vấn đề cụ thể, riêng biệt mà nguồn gốc của sự cố này có thể được tách biệt với nguyên nhân đơn lẻ. Apple đưa ra những nỗ lực hợp lý để giải quyết Sự cố cần hỗ trợ nhưng không đảm bảo rằng các Sự cố cần hỗ trợ sẽ được giải quyết. Apple sẽ toàn quyền quyết định xem yếu tố nào cấu thành Sự cố cần hỗ trợ và trong phạm vi pháp luật cho phép nếu Sự cố cần hỗ trợ được giải quyết. Thông thường, Sự cố cần hỗ trợ được giải quyết khi Khách hàng nhận được một trong những thông tin sau: (a) thông tin giải quyết vấn đề; (b) thông tin về cách có được giải pháp phần mềm để giải quyết vấn đề; (c) thông báo rằng sự cố gây ra bởi một vấn đề đã biết, không giải quyết được hoặc vấn đề không tương thích với Sản phẩm được hỗ trợ; (d) thông tin xác định rằng vấn đề đang được giải quyết bằng cách nâng cấp lên bản phát hành mới hơn của Sản phẩm được hỗ trợ; hoặc (e) thông báo rằng sự cố đã được xác định là vấn đề về thiết bị phần cứng. Theo Chương trình dịch vụ với số lượng Sự cố cần hỗ trợ có giới hạn, mỗi liên hệ về Sự cố cần hỗ trợ mới từ Khách hàng sẽ làm giảm số lượng Sự cố cần hỗ trợ đủ điều kiện còn lại.
+
+2.2	Thời gian trả lời. Apple sẽ đưa ra những nỗ lực hợp lý để trả lời yêu cầu về Dịch vụ cần hỗ trợ trong thời gian hợp lý hoặc trong thời gian trả lời được trình bày trong Chương trình dịch vụ áp dụng (“Thời gian trả lời”), tùy theo thời gian nào đến trước, nhưng không đảm bảo sẽ trả lời trong khoảng thời gian cụ thể. Tất cả Thời gian trả lời được tính theo Số giờ hoạt động của Chương trình dịch vụ được trình bày trên Trang hỗ trợ chương trình dịch vụ. 
+
+2.3	Bản phát hành hiện tại. Trừ khi được quy định khác, tất cả các Sản phẩm được hỗ trợ phải ở cấp phát hành gần đây nhất. 
+
+2.4	Sử dụng. Các Dịch vụ hỗ trợ không được chủ định để sử dụng trong việc vận hành các cơ sở hạt nhân, dẫn đường hàng không, hệ thống liên lạc, máy kiểm soát không lưu hoặc các hoạt động khác mà trong đó việc không thực hiện Dịch vụ hỗ trợ để đạt được kết quả mong muốn có thể dẫn đến tử vong, thương tật cá nhân hay gây tổn hại nghiêm trọng về thể chất hoặc môi trường.
+
+2.5	Liên lạc kỹ thuật. Dịch vụ hỗ trợ được cung cấp đến cá nhân riêng lẻ hoặc nhiều người do Khách hàng chỉ định tại thời điểm đăng ký và như được cho phép theo Chương trình dịch vụ (“(Các) Liên hệ kỹ thuật”). Liên hệ kỹ thuật là các đầu mối liên lạc duy nhất giữa Khách hàng và Apple để được hỗ trợ kỹ thuật nằm trong Chương trình dịch vụ. Đối với các Chương trình dịch vụ có nhiều Liên hệ kỹ thuật, nếu Khách hàng muốn thay đổi Liên hệ kỹ thuật, Khách hàng phải đưa ra thông báo bằng văn bản về sự thay đổi đó trước ít nhất năm (5) ngày cho Apple tại Địa chỉ liên hệ hoàn phí hiện hành được nêu bên dưới hoặc, nếu áp dụng cho Chương trình dịch vụ, hãy nhập những thay đổi trực tiếp qua trang web bảo mật, được tùy chỉnh của Khách hàng như được trình bày trong các tài liệu hướng dẫn khi bắt đầu Chương trình dịch vụ.
+
+3.	Ngoại lệ. Trừ khi được quy định khác trong Chương trình dịch vụ, Apple sẽ không cung cấp các Dịch vụ hỗ trợ liên quan đến các vấn đề hoặc sự cố phát sinh bởi hoặc từ (a) việc sử dụng Sản phẩm được hỗ trợ làm ứng dụng dựa trên máy chủ; (b) các vấn đề có thể được giải quyết bằng cách nâng cấp Sản phẩm được hỗ trợ; (c) việc sử dụng hoặc sửa đổi Sản phẩm được hỗ trợ theo cách mà vì đó Sản phẩm được hỗ trợ không nhằm mục đích để sử dụng hoặc sửa đổi; (d) các sản phẩm hoặc công nghệ của bên thứ ba và các tác động lên hoặc tương tác với Sản phẩm được hỗ trợ; (e) thiệt hại đối với phương tiện được cung cấp Sản phẩm được hỗ trợ hoặc đối với máy tính mà trên đó có cài đặt Sản phẩm được hỗ trợ; (f) việc sử dụng hệ thống máy tính không tương thích với Sản phẩm được hỗ trợ; và (g) các vấn đề liên quan đến Internet, email, quản lý tệp, cấu hình mạng, viết script, viết FX script, lập trình, biên soạn, gỡ lỗi, thiết kế cơ sở hạ tầng, tạo nội dung, tùy chỉnh nội dung, lập kế hoạch/thiết kế dự án đa phương tiện, quản trị nguồn lực, lập ngân sách, đào tạo, chẩn đoán tại chỗ hoặc các vấn đề khác không nằm trong phạm vi của Dịch vụ hỗ trợ như được nêu trong Chương trình dịch vụ.
+
+4.	Trách nhiệm của khách hàng. Để nhận được các Dịch vụ hỗ trợ, Khách hàng phải đăng ký Chương trình dịch vụ và tuân theo các hướng dẫn truy cập được Apple cung cấp. Khách hàng chịu trách nhiệm chi trả mọi khoản phí trong việc thiết lập và duy trì liên lạc qua email và điện thoại với Apple. Khách hàng sẽ phối hợp với Apple để tìm kiếm các Dịch vụ hỗ trợ bằng cách cung cấp các thông tin cần thiết để hỗ trợ Apple trong việc chẩn đoán vấn đề. Khách hàng chịu trách nhiệm đối với bất kỳ và tất cả hoạt động khôi phục hoặc tái cấu trúc các tệp, dữ liệu hoặc chương trình bị mất hoặc thay thế. Khách hàng sẽ duy trì và thực hiện sao lưu dữ liệu hoàn chỉnh và kế hoạch khôi phục sau thảm họa. Khách hàng hoàn toàn chịu trách nhiệm cho bất kỳ và toàn bộ vấn đề bảo mật của các thông tin bảo mật, độc quyền hoặc được phân loại. Khách hàng sẽ không tiết lộ cho Apple thông tin bảo mật, độc quyền hoặc bất kỳ thông tin nào mà theo quyền sở hữu trí tuệ có thể khiến Apple phải chịu trách nhiệm. Khách hàng phải có sự hiểu biết hợp lý về các Sản phẩm được hỗ trợ cần tìm kiếm Dịch vụ hỗ trợ và hệ thống máy tính mà đang sử dụng Sản phẩm được hỗ trợ. Khách hàng không được chuyển nhượng Dịch vụ hỗ trợ cho bên thứ ba. Dịch vụ hỗ trợ được cung cấp chỉ cho mục đích sử dụng nội bộ của Khách hàng và bất kỳ sự phân phối trái phép Dịch vụ hỗ trợ nào sẽ là cơ sở để chấm dứt ngay lập tức những Điều khoản và điều kiện này. Khách hàng sẽ tiến hành những biện pháp hợp lý để ngăn chặn việc phân phối và sử dụng trái phép Dịch vụ hỗ trợ. Khách hàng không được lạm dụng việc tiếp nhận hoặc sử dụng các Dịch vụ hỗ trợ, bao gồm nhưng không giới hạn với việc tiếp cận Dịch vụ hỗ trợ cho các vấn đề đã được giải quyết. 
+
+5.	Dịch vụ hỗ trợ truy nhập từ xa. Là một phần của Chương trình dịch vụ, Apple có thể cung cấp Dịch vụ hỗ trợ qua việc truy cập từ xa bằng Internet, nhờ đó có thể truy cập và nếu được Khách hàng cho phép, kiểm soát và thu thập thông tin trên máy tính của Khách hàng thông qua việc cài đặt và sử dụng phần mềm truy cập từ xa. Việc cài đặt và sử dụng phần mềm truy cập từ xa của Khách hàng cho thấy rằng Khách hàng đồng ý cho Apple cung cấp Dịch vụ hỗ trợ theo cách này. Tất cả hoặc một phần các tệp phần mềm truy cập từ xa có thể vẫn còn trên máy tính của Khách hàng sau khi hoàn thành phiên Dịch vụ hỗ trợ. Quyền sở hữu đối với phần mềm truy cập từ xa và tất cả các quyền sở hữu trí tuệ bao gồm trong đó đều thuộc về Apple Inc. và/hoặc nhà cấp phép của Apple Inc. Việc sử dụng phần mềm truy cập từ xa hiện hành phải tuân theo các điều khoản cấp phép bổ sung có tại http://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf. Khách hàng không được gỡ hoặc đảo ngược thiết kế cho bất kỳ phần nào của phần mềm truy cập từ xa. Khi cung cấp Dịch vụ hỗ trợ truy cập từ xa, Apple sẽ chỉ truy cập, kiểm soát và thu thập thông tin trên máy tính của Khách hàng nếu Apple tin tưởng hợp lý rằng việc phân tích và cung cấp hỗ trợ cho Sự cố cần hỗ trợ là cần thiết. Apple khuyên Khách hàng nên đóng tất cả các tệp và ứng dụng không liên quan đến Sự cố cần hỗ trợ. Phần mềm truy cập từ xa hoặc các tính năng máy tính của Khách hàng sẽ cho phép Khách hàng chấm dứt việc truy cập từ xa vào phiên Dịch vụ hỗ trợ bất kỳ lúc nào.
+
+Lưu ý quan trọng - Apple có thể chịu trách nhiệm về mặt pháp lý và chính sách phải báo cáo cho cơ quan chấp pháp một số hình ảnh nhất định nếu được xem trong phiên.
+
+6.	Miễn trừ bảo hành. MẶC DÙ APPLE KHÔNG THỂ ĐẢM BẢO RẰNG SỰ CỐ CẦN HỖ TRỢ SẼ ĐƯỢC GIẢI QUYẾT, APPLE SẼ ĐƯA RA NHỮNG NỖ LỰC HỢP LÝ ĐỂ THỰC HIỆN CÁC DỊCH VỤ HỖ TRỢ THEO CHƯƠNG TRÌNH DỊCH VỤ VỚI PHONG CÁCH CHUYÊN NGHIỆP. TRONG PHẠM VI ĐƯỢC PHÁP LUẬT CHO PHÉP, BẢO HÀNH RÕ RÀNG NÀY VÀ CÁC BIỆN PHÁP KHẮC PHỤC ĐÃ ĐƯỢC NÊU RA TRONG ĐÂY KHÔNG BAO GỒM VÀ THAY THẾ MỌI BẢO HÀNH, BIỆN PHÁP KHẮC PHỤC VÀ ĐIỀU KIỆN KHÁC, CHO DÙ BẰNG LỜI NÓI HAY BẰNG VĂN BẢN, THEO QUY ĐỊNH CỦA LUẬT PHÁP, DÙ ĐƯỢC NÊU RA RÕ RÀNG HAY NGẦM ĐỊNH. KHI ĐƯỢC CÁC LUẬT HIỆN HÀNH CHO PHÉP, APPLE VÀ CÁC NHÀ CẤP PHÉP CỦA MÌNH TỪ CHỐI BẤT KỲ VÀ TẤT CẢ CÁC BẢO HÀNH THEO QUY ĐỊNH CỦA LUẬT PHÁP HOẶC NGẦM ĐỊNH, LIÊN QUAN TỚI HOẶC PHÁT SINH THEO BẤT KỲ CÁCH NÀO NGOÀI CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN NÀY, BAO GỒM BẢO HÀNH HOẶC KHẢ NĂNG BÁN ĐƯỢC HAY SỰ PHÙ HỢP BẤT KỲ VỚI MỘT MỤC ĐÍCH CỤ THỂ. 
+
+7.	Giới hạn trách nhiệm. TRONG PHẠM VI PHÁP LUẬT CHO PHÉP, TRÁCH NHIỆM CỦA APPLE VÀ NHỮNG NHÀ CẤP PHÉP CỦA MÌNH THEO CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN NÀY ĐƯỢC GIỚI HẠN TRONG KHOẢN TIỀN KHÁCH HÀNG THANH TOÁN CHO CHƯƠNG TRÌNH DỊCH VỤ MÀ KHÁCH HÀNG YÊU CẦU. TRONG MỌI TRƯỜNG HỢP, APPLE VÀ NHỮNG NHÀ CẤP PHÉP CỦA MÌNH SẼ KHÔNG CHỊU TRÁCH NHIỆM ĐỐI VỚI BẤT KỲ THIỆT HẠI GIÁN TIẾP, ĐẶC BIỆT, NGẪU NHIÊN HOẶC DO HẬU QUẢ NÀO, BAO GỒM NHƯNG KHÔNG GIỚI HẠN Ở CÁC THIỆT HẠI DO MẤT LỢI NHUẬN, MẤT DỮ LIỆU, MẤT KHẢ NĂNG SỬ DỤNG THIẾT BỊ HOẶC CƠ SỞ HOẶC GIÁN ĐOẠN HOẠT ĐỘNG KINH DOANH, PHÁT SINH THEO BẤT KỲ CÁCH NÀO TỪ CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN NÀY DỰA TRÊN BẤT KỲ THUYẾT TRÁCH NHIỆM NÀO, DÙ APPLE VÀ NHỮNG NHÀ CẤP PHÉP CỦA MÌNH CÓ ĐƯỢC TƯ VẤN VỀ KHẢ NĂNG GÂY RA THIỆT HẠI NHƯ VẬY HAY KHÔNG. CÁC MIỄN TRỪ KHÁC CÓ THỂ QUY ĐỊNH TRONG CÁC ĐIỀU KHOẢN CẤP PHÉP ÁP DỤNG CHO PHẦN MỀM TRUY CẬP TỪ XA CÓ TẠI http://www.apple.com/legal/sales-support/remote-support/. NẾU KHÁCH HÀNG ĐƯỢC BẢO VỆ BỞI PHÁP LUẬT HOẶC QUY ĐỊNH BẢO VỆ NGƯỜI TIÊU DÙNG TẠI QUỐC GIA MUA HÀNG HOẶC, NẾU KHÁC, QUỐC GIA CƯ TRÚ CỦA KHÁCH HÀNG, THÌ CÁC QUYỀN LỢI CÓ ĐƯỢC THEO CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN NÀY SẼ BỔ SUNG CHO TẤT CẢ CÁC QUYỀN VÀ BIỆN PHÁP KHẮC PHỤC ĐƯỢC QUY ĐỊNH TRONG PHÁP LUẬT VÀ QUY ĐỊNH BẢO VỆ NGƯỜI TIÊU DÙNG NÊU TRÊN. MỘT SỐ QUỐC GIA, TIỂU BANG VÀ TỈNH THÀNH KHÔNG CHO PHÉP LOẠI TRỪ HOẶC GIỚI HẠN VỀ CÁC THIỆT HẠI NGẪU NHIÊN HOẶC DO HẬU QUẢ HAY CÁC LOẠI TRỪ HOẶC GIỚI HẠN VỀ BẢO HÀNH HOẶC CÁC ĐIỀU KIỆN NGẦM ĐỊNH, VÌ VẬY CÁC GIỚI HẠN HOẶC LOẠI TRỪ TRÊN ĐÂY CÓ THỂ KHÔNG ÁP DỤNG CHO KHÁCH HÀNG. CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN NÀY MANG LẠI CHO KHÁCH HÀNG CÁC QUYỀN PHÁP ĐỊNH CỤ THỂ VÀ KHÁCH HÀNG CŨNG CÓ CÁC QUYỀN KHÁC NHAU TÙY THEO QUỐC GIA, TIỂU BANG HOẶC TỈNH THÀNH.
+
+8.	Thời hạn và Chấm dứt thỏa thuận. Trừ khi được chấm dứt sớm hơn theo quy định trong mục này, Chương trình dịch vụ sẽ tiếp tục thời hạn mười hai (12) tháng kể từ Ngày hiệu lực hoặc cho đến khi tất cả Sự cố cần hỗ trợ được sử dụng, tùy theo bất cứ thời hạn nào đến trước (trừ khi được Apple quy định khác bằng văn bản). Apple sẽ không cung cấp Dịch vụ hỗ trợ sau khi kết thúc Chương trình dịch vụ trừ khi Chương trình dịch vụ của bạn được gia hạn vào ngày hoặc trước ngày chấm dứt thỏa thuận. Apple có thể chấm dứt Chương trình dịch vụ tại bất kỳ thời điểm nào (a) nếu sau khi thông báo trước cho Khách hàng bằng văn bản ít nhất mười lăm (15) ngày, Khách hàng không trả phí đến hạn cho Chương trình dịch vụ; hoặc (b) nếu sau khi thông báo trước cho Khách hàng bằng văn bản ít nhất ba mươi (30) ngày, Khách hàng không khắc phục việc vi phạm các Điều khoản và điều kiện này; hoặc (c) nếu Khách hàng vi phạm thời hạn của bất kỳ thỏa thuận cấp phép phần mềm nào điều chỉnh việc sử dụng phần mềm được cung cấp theo Chương trình dịch vụ. Trừ khi được pháp luật quy định khác và Khách hàng không nhận được Dịch vụ hỗ trợ, Khách hàng có thể hủy Chương trình dịch vụ vì bất kỳ lý do gì trong vòng ba mươi (30) ngày kể từ ngày mua hoặc Ngày hiệu lực của Chương trình dịch vụ, tùy theo ngày nào đến sau và được hoàn lại tất cả các khoản đã thanh toán. Yêu cầu hoàn phí phải được gửi bằng văn bản, cùng với các bằng chứng mua hàng hiện có đến địa chỉ Liên hệ hoàn phí được nêu bên dưới. Các mục 6, 7 và 12 sẽ vẫn còn hiệu lực sau khi chấm dứt các Điều khoản và điều kiện này vì bất kỳ lý do gì.
+
+9.	Apple; Luật điều chỉnh. “Apple" được xác định trong bảng bên dưới theo quốc gia cư trú của Khách hàng. CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN NÀY ĐÃ ĐƯỢC ĐỒNG Ý RẰNG SẼ ĐƯỢC ĐIỀU CHỈNH BỞI PHÁP LUẬT CỦA QUỐC GIA MUA HÀNG HOẶC NẾU KHÁC, QUỐC GIA CƯ TRÚ VÀ TÒA ÁN CỦA CÁC QUỐC GIA TƯƠNG ỨNG SẼ CÓ QUYỀN TÀI PHÁN VỀ VẤN ĐỀ NÀY. 
+
+10.	Phần mềm hoặc Dịch vụ bổ sung. Bất kỳ dịch vụ bổ sung nào được cung cấp, như một phần của Chương trình dịch vụ sẽ được điều chỉnh bởi các Điều khoản và điều kiện này. Trong trường hợp các Dịch vụ hỗ trợ được cung cấp tại địa điểm của Khách hàng như một phần của Chương trình dịch vụ, Khách hàng sẽ đảm bảo rằng Apple được phép đến địa điểm của Khách hàng trong thời gian được sắp xếp và sẽ đảm bảo môi trường làm việc đủ an toàn cho Apple thực hiện các Dịch vụ hỗ trợ. Trong trường hợp phần mềm được cung cấp như một phần của Chương trình dịch vụ, phần mềm đó là sản phẩm có bản quyền của Apple Inc. và/hoặc các nhà cấp phép của Apple Inc. Khách hàng có thể cài đặt, sao chép và sử dụng phần mềm chỉ cho mục đích hỗ trợ Sản phẩm được hỗ trợ, tuy nhiên, trừ khi được các luật hiện hành cho phép, không được giải mã, đảo ngược thiết kế, sửa đổi, thuê, cho thuê, cho mượn hoặc tạo các sản phẩm phái sinh trong phần mềm. Phần mềm phải tuân theo các điều khoản của thỏa thuận cấp phép riêng, các điều khoản trong thỏa thuận cấp phép riêng sẽ điều chỉnh việc sử dụng phần mềm. Bất cứ phần mềm nào được cung cấp cho Chính phủ Mỹ theo các Điều khoản và điều kiện này sẽ được phân loại là “phần mềm máy tính bị hạn chế“ như được định nghĩa trong điều 52.227-19 của FAR. Các quyền của Chính phủ Mỹ đối với phần mềm này được quy định trong điều 52.227-19 của FAR.
+
+11.	Bảo vệ dữ liệu. Khách hàng hiểu và đồng ý rằng việc Apple thu thập, xử lý và sử dụng dữ liệu của Khách hàng để thực hiện dịch vụ và các nghĩa vụ hỗ trợ theo Chương trình dịch vụ là cần thiết. Điều này có thể bao gồm việc chuyển giao dữ liệu của Khách hàng cho các công ty liên kết hoặc các nhà cung cấp dịch vụ theo các điều khoản của Chính sách của Apple về quyền riêng tư (http://www.apple.com/legal/warranty/privacy). Apple sẽ bảo vệ thông tin của Khách hàng theo Chính sách của Apple về quyền riêng tư. Nếu Khách hàng muốn truy cập thông tin mà Apple đang nắm giữ liên quan đến Khách hàng hoặc nếu Khách hàng muốn thay đổi, Khách hàng có thể cập nhật phần tùy chọn liên hệ cá nhân bằng việc truy cập vào trang web Cập nhật riêng tư (http://www.apple.com/contact/myinfo). Apple có thể ghi âm một phần hoặc tất cả các cuộc gọi giữa Khách hàng và Apple vì mục đích đào tạo, đảm bảo chất lượng và tham khảo.
+
+12.	Điều khoản chung. Khách hàng không được chuyển nhượng quyền hoặc nghĩa vụ của mình trong Chương trình dịch vụ. Bất kỳ chuyển nhượng trái phép nào sẽ không có hiệu lực. Apple sẽ không chịu trách nhiệm về việc chậm trễ thực hiện hoặc không thực hiện, do những nguyên nhân nằm ngoài tầm kiểm soát hợp lý. Miễn trách đối với bất kỳ vi phạm hoặc sai hẹn nào theo các Điều khoản và điều kiện này sẽ không cấu thành miễn trách cho bất kỳ vi phạm hoặc sai hẹn nào sau đó. Nếu tòa án có thẩm quyền cho rằng bất kỳ điều khoản nào của các Điều khoản và điều kiện này là không hợp lệ hoặc không thể thực thi thì các phần còn lại vẫn có tính bắt buộc và có hiệu lực đầy đủ và các bên sẽ thay thế điều khoản không hợp lệ hoặc không thể thực thi bằng điều khoản hợp lệ và có thể thực thi để đạt được mục đích ban đầu của bác bên và hiệu quả kinh tế của các Điều khoản và điều kiện này. Các Điều khoản và điều kiện này, bao gồm bất kỳ điều khoản bổ sung nào được tham chiếu trong tài liệu này, cấu thành toàn bộ thỏa thuận giữa Apple và Khách hàng về Chương trình dịch vụ và Dịch vụ hỗ trợ được cung cấp theo tài liệu này và thay thế tất cả các thương lượng, giao kèo và thỏa thuận sơ bộ trước đó về vấn đề chủ đề này và không bổ sung hay xóa bỏ hoặc sửa đổi bất kỳ điều khoản nào theo đây sẽ ràng buộc Apple trừ khi được thực hiện bằng văn bản và được ký bởi đại diện được ủy quyền của Apple. Bất kỳ điều khoản hoặc điều kiện nào dựa trên bất kỳ yêu cầu hoặc tài liệu nào khác do Khách hàng gửi sẽ không có tính bắt buộc hoặc có hiệu lực và bị từ chối một cách cụ thể. 
+
+BIẾN THỂ THEO QUỐC GIA
+
+Các biến thể theo quốc gia sau đây sẽ nắm quyền kiểm soát nếu có sự không thông nhất với bất kỳ điều khoản nào khác của Chương trình dịch vụ này:
+
+ÚC
+Các quyền được trình bày trong các điều khoản và điều kiện này về việc trả lại, hoàn phí và bảo hành bổ sung vào các quyền theo quy định của luật pháp mà bạn được hưởng theo Bộ luật cạnh tranh và tiêu dùng 2010 và các luật và quy định hiện hành khác về bảo vệ người tiêu dùng của Úc.
+
+BỈ
+Khách hàng xác nhận rằng bằng cách liên hệ với Apple để nhận Dịch vụ hỗ trợ, Khách hàng sẽ không sử dụng bất cứ quyền gì liên quan đến hợp đồng mua bán đã kết thúc trước đó như được định nghĩa trong điều 94 ter. của Đạo luật thực hành thương mại ngày 14 tháng 7 năm 1991
+
+
+
+CANADA
+Cư dân Quebec: Luật pháp của tỉnh Quebec sẽ điều chỉnh chương trình dịch vụ này và bất kỳ tranh chấp nào phát sinh theo chương trình này.  Mục 7 – Giới hạn Trách nhiệm không áp dụng đối với cư dân Quebec.
+
+ĐỨC
+Điều 7. Giới hạn trách nhiệm. Đối với Khách hàng là Người tiêu dùng, điều sau đây sẽ được áp dụng: Apple sẽ chịu trách nhiệm về những tổn thất theo các điều khoản của Chương trình dịch vụ chỉ khi tuân theo các điều khoản sau: (i) trách nhiệm không giới hạn đối với các tổn thất do cố ý hoặc sơ ý nghiêm trọng, (ii) trách nhiệm không giới hạn đối với tử vong, thương tật cá nhân hoặc tổn thất về sức khỏe do cố ý hoặc do sơ ý, (iii) đối với tổn thất phát sinh từ việc thiếu bất kỳ đặc điểm được bảo hành nào cho tới giá trị được chi trả bởi mục đích bảo hành và giá trị đó Apple có thể dự tính được tại thời điểm cung cấp bảo hành, (iv) tuân theo Đạo luật Trách nhiệm về sản phẩm trong trường hợp chịu trách nhiệm về sản phẩm; hoặc (v) đối với các tổn thất gây ra do vi phạm các nghĩa vụ cơ bản của Apple, điều này hình thành sự cần thiết của Chương trình dịch vụ, là cơ sở mang tính quyết định để kết thúc Chương trình dịch vụ và Khách hàng có thể tin tưởng. Apple được miễn trừ bất cứ trách nhiệm bổ sung nào theo luật định.
+
+Ý
+Điều 4. Trách nhiệm của khách hàng. Nội dung sau được bổ sung vào điều 4:
+
+Các chi phí liên lạc qua email và điện thoại là những chi phí được nhà cung cấp dịch vụ điện thoại/internet áp dụng.
+
+NA UY
+Điều 8. Thời hạn và chấm dứt: Nội dung sau được bổ sung vào điều 8: 
+
+Nếu bạn là người tiêu dùng vui lòng lưu ý rằng quyền bán của bạn theo Đạo luật Na Uy về quyền bán (Đạo luật ngày 21 tháng 12 năm 2000 số 105), được xem xét trong Mục 8, Thời hạn và chấm dứt. 
+
+THỤY ĐIỂN
+Điều 1. Dịch vụ. Nội dung sau được bổ sung vào điều 1:
+
+Nếu các thay đổi của Dịch vụ hỗ trợ gây bất lợi đáng kể cho Khách hàng thì Khách hàng có quyền chấm dứt Chương trình dịch vụ theo các điều khoản trong Mục 8 bên dưới.
+
+Điều 8. Thời hạn và Chấm dứt thỏa thuận. Bổ sung câu sau đây "Nếu Apple có bất kỳ thay đổi nào đối với Dịch vụ hỗ trợ gây bất lợi đáng kể cho Khách hàng, ví dụ như hủy dịch vụ hỗ trợ liên quan tới sản phẩm của Khách hàng thì Khách hàng có quyền chấm dứt Chương trình dịch vụ và nhận khoản tiền hoàn trả tương đương với thời hạn còn lại của Chương trình dịch vụ" vào sau câu "Trừ khi có quy định khác bởi luật pháp và Khách hàng không nhận được Dịch vụ hỗ trợ, Khách hàng có thể hủy Chương trình dịch vụ vì bất cứ lý do gì trong vòng ba mươi (30) ngày kể từ ngày mua hoặc Ngày hiệu lực của Chương trình dịch vụ, tùy theo ngày nào đến sau và được hoàn trả tất cả các khoản đã thanh toán".
+
+
+Khu vực/Quốc gia mua
+Apple
+Địa chỉ
+Châu Mỹ
+
+
+Braxin
+Apple Computer Brasil Ltda
+Rua: Leopoldo Couto Magalhães Júnior, nº 700, 7º andar, São Paulo, SP, Braxin 
+04542-000
+SAC: 0800-761-0880
+http://www.apple.com/br/support 
+Canada
+Apple Canada Inc.
+7495 Birchmount Rd.; Markham, Ontario, Canada; L3R 5G2 Canada
+Mexico
+Apple Operations Mexico, S.A. de C.V.
+Prolongación Paseo de la Reforma #600, Suite 132, Colonia Peña Blanca, Santa Fé, Delegación Álvaro Obregón, México D. F., CP 01210, Mexico
+Hoa Kỳ và các quốc gia Châu Mỹ khác
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, Hoa Kỳ
+Châu Âu, Trung Đông và Châu Phi
+
+
+Liên bang Nga
+Limited Liability Company Apple Rus
+5 Đường Petrovka, Berlin House Business Center, 107031, Moscow, Liên bang Nga
+Thổ Nhĩ Kỳ
+Apple Teknoloji ve Satış Limited Şirketi
+FSM Mahallesi Poligon Caddesi Buyaka 2 Sitesi No:8, Blok No.2 (C Blok) Kat:18 34471 Ümraniye İstanbul, Turkey
+Tất cả các quốc gia khác
+Apple Distribution International
+Hollyhill Industrial Estate Hollyhill, Cork, Cộng hòa Ireland
+Châu Á Thái Bình Dương
+
+
+Úc; New Zealand; Fiji, Papua New Guinea; Vanuatu
+Apple Pty. Limited.
+PO Box A2629, Sydney South, NSW 1235, Úc ĐT: 133 622
+Hồng Kông
+Apple Asia Limited
+2401 Tower One, Times Square, Causeway Bay; Hồng Kông
+Ấn Độ
+Apple India Private Ltd..
+19th Floor, Concorde Tower C, UB City No 24, Vittal Mallya Road, Bangalore 560-001, Ấn Độ
+Nhật Bản
+Apple Japan Inc.
+6-10-1 Roppongi, Minato-ku Tokyo 106-6140, Nhật Bản
+Hàn Quốc
+Apple Korea Ltd.
+3901, ASEM Tower; 159, Samsung-dong, Gangnam-Gu; Seoul 135-798, Đại Hàn Dân Quốc
+Afghanistan, Bangladesh, Bhutan, Brunei, Campuchia, Guam, Indonesia, Lào, Singapore, Malaysia, Nepal, Pakistan, Philippin, Sri Lanka, Việt Nam
+Apple South Asia Pte. Ltd.
+7 Ang Mo Kio Street 64
+Singapore 569086
+
+Cộng hòa nhân dân Trung Hoa
+Apple Computer Trading (Shanghai) Co. Ltd. 
+Units 610-13 on partial Floor 6, HSBC Building (i.e., Tower A), Shanghai ifc, 8 Century Avenue, Pudong New Area, Shanghai, Trung Quốc
+Thái Lan
+Apple South Asia (Thailand) Limited
+44th Floor ,Room No. HH4401-6, The Offices at Central World, 999/9 Rama 1 Road , Pathumwan, Pathumwan , Bangkok 10330 Thái Lan
+Đài Loan
+Apple Asia LLC
+19F., No.1, Songzhi Rd., Xinyi Dist., Taipei City 110, Đài Loan
+Các quốc gia Châu Á Thái Bình Dương khác
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, Hoa Kỳ
+
+071814 Tech Support Vietnamese v1.8

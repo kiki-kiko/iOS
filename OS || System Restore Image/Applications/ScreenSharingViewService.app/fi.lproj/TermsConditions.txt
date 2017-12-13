@@ -1,0 +1,143 @@
+AppleCaren tekninen tuki
+
+Sopimusehdot
+
+OTTAMALLA YHTEYTTÄ APPLEEN JONKIN ALLA OLEVAN PALVELUSOPIMUKSEN (”PALVELUSOPIMUS”) TARJOAMIEN PALVELUIDEN SUHTEEN TAI REKISTERÖIMÄLLÄ PALVELUSOPIMUKSEN APPLEN KANSSA YKSILÖ TAI YRITYS (”ASIAKAS”) HYVÄKSYY, ETTÄ SEURAAVAT SOPIMUSEHDOT (”SOPIMUSEHDOT”) KOSKEVAT SOVELTUVAN PALVELUSOPIMUKSEN NOJALLA TARJOTTAVIEN TUKIPALVELUIDEN TOIMITUSTA. HUOMAA KUITENKIN, ETTÄ TUKIPALVELUT, JOTKA TARJOTAAN OSANA ASIAKKAAN VASTAANOTTAMIA ETUJA APPLEN YHDEN VUODEN RAJOITETUN TAKUUN, APPLECARE+:N, APPLECARE PROTECTION PLANIN TAI SOVELLETTAVAN KULUTTAJANSUOJALAIN MUKAISESTI, OVAT KYSEISEN TAKUUN TAI APPLECARE-SOPIMUKSEN EHTOJEN TAI KULUTTAJANSUOJALAIN SÄÄDÖKSIEN ALAISIA. JOS ASIAKAS EI HYVÄKSY NÄITÄ SOPIMUSEHTOJA, ASIAKKAAN EI PIDÄ OTTAA YHTEYTTÄ APPLEEN TAI REKISTERÖIDÄ PALVELUSOPIMUSTA, KUN KYSEESSÄ OVAT TUKIPALVELUT, JOITA NÄMÄ SOPIMUSEHDOT KOSKEVAT. JOS ASIAKAS HALUAA PERUUTTAA OSTETUN PALVELUSOPIMUKSEN JA SAADA HYVITYKSEN MAKSETUISTA RAHOISTA, ASIAKKAAN TULEE OTTAA YHTEYTTÄ APPLEEN ALLA KUVATULLA TAVALLA. PALVELUSOPIMUS ASTUU VOIMAAN, KUN APPLE VASTAANOTTAA ASIAKKAAN REKISTERÖINNIN (”VOIMAANTULOPÄIVÄ”).
+
+1.	Palvelut. Hyväksyttyään Asiakkaan rekisteröinnin Apple tarjoaa tukipalveluita (”Tukipalvelut”) Applen ohjelmistotuotteille tai niihin liittyville teknologioille (”Tuetut tuotteet”) soveltuvalle Palvelusopimukselle seuraavalla verkkosivulla kuvatulla tavalla: http://www.apple.com/legal/sales-support/applecare/actssgeos.html (”Palvelusopimuksen tukisivu”). Apple pidättää oikeuden muokata tarjottuja Tukipalveluita ja/tai Tuettuja tuotteita, joita Palvelusopimus koskee, milloin tahansa julkaisemalla päivityksiä Palvelusopimuksen tukisivulle. Apple ei muuta Tukipalveluita ja/tai Tuettuja tuotteita tavalla, joka (i) vähentää Applen Tukipalveluiden alaisuudessa tekemän työn määrää, (ii) olennaisesti heikentää Applen sitoumusta toimittaa Tukipalveluita tai (iii) olennaisesti heikentää oikeuksia, jotka Asiakas saa Tukipalveluiden alaisuudessa. Kun kyseessä ovat päivitykset, jotka vaikuttavat Asiakkaan Palvelusopimukseen, Apple ilmoittaa Asiakkaalle päivityksestä Asiakkaan rekisteröimään sähköpostiosoitteeseen vähintään kolmekymmentä (30) päivää ennen niiden julkaisemista. Palvelusopimuksen tukisivulla kuvatut ehdot sisällytetään näihin Sopimusehtoihin. Jos tämän asiakirjan ehtojen ja Palvelusopimuksen tukisivulla olevien ehtojen välillä on epäyhtenäisyyksiä, sovelletaan Palvelusopimuksen tukisivulla olevia ehtoja.
+
+2.	Rajoitukset. 
+
+2.1	Tukitapahtumat. Palvelusopimukset tarjotaan yksittäisen Tukitapahtuman tai useiden tai rajoittamattomien Tukitapahtumien paketteina. Tukitapahtuma on jokin tietty, erillinen ongelma, jonka alkuperä voidaan eristää yksittäiseen syyhyn. Apple pyrkii ratkaisemaan Tukitapahtuman kohtuuden rajoissa mutta ei takaa, että Tukitapahtumat ratkaistaan. Apple määrittää oman harkintansa mukaan, mitä Tukitapahtumaan kuuluu, ja lain sallimissa rajoissa sen, onko Tukitapahtuma ratkaistu. Yleisesti ottaen Tukitapahtuma on ratkaisu, kun Asiakas saa jonkin seuraavista: (a) tiedot, jotka ratkaisevat ongelman; (b) tiedot siitä, miten hankitaan ongelman ratkaiseva ohjelmistoratkaisu; (c) ilmoitus siitä, että ongelman aiheuttaa tunnettu, ratkaisematon ongelma tai yhteensopivuusongelma Tuetussa tuotteessa; (d) tiedot, jotka ilmaisevat ongelman ratkeavan, kun päivitetään Tuetun tuotteen uudemmaksi versioksi; tai (e) ilmoitus siitä, että ongelma on tunnistettu laitteisto-ongelmaksi. Rajallisen määrän Tukitapahtumia sisältävän Palvelusopimuksen alaisuudessa kukin Asiakkaan tekemä Tukitapahtuman yhteydenotto vähentää käytettävissä olevien Tukitapahtumien jäljellä olevaa määrää.
+
+2.2	Vasteajat. Apple pyrkii kohtuuden rajoissa reagoimaan Tukipalvelun pyyntöön kohtuullisen ajan kuluessa tai asianmukaisen Palvelusopimuksen alaisuudessa kuvatun vasteajan kuluessa (”Vasteaika”). Apple ei kuitenkaan takaa, että vastaus annetaan jonkin määritetyn ajanjakson kuluessa. Kaikki Vasteajat mitataan Palvelusopimuksen tukisivulla kuvattujen Palvelusopimuksen aukioloaikojen perusteella. 
+
+2.3	Nykyinen versio. Ellei toisin ole määritetty, kaikkien Tuettujen tuotteiden version on oltava uusin versio. 
+
+2.4	Käyttö. Tukipalveluita ei ole tarkoitettu käytettäviksi ydinvoimalaitosten, lentokoneiden navigoinnin, tietoliikennejärjestelmien, lennonjohdon hallintalaitteiden tai muiden sellaisten kohteiden käyttöön, joissa Tukipalveluiden epäonnistuminen halutun tuloksen saamisessa saattaisi johtaa kuolemaan, loukkaantumiseen tai vakavaan fyysiseen vahinkoon tai ympäristövahinkoon.
+
+2.5	Tekniset yhteystiedot. Tukipalvelut tarjotaan yksittäiselle henkilölle tai useille henkilöille Asiakkaan rekisteröintiajankohtana määrittämällä tavalla ja Tukisopimuksen sallimalla tavalla (”Tekniset yhteyshenkilöt”). Tekniset yhteyshenkilöt ovat ainoat yhteyshenkilöt Asiakkaan ja Applen välillä Tukisopimuksen teknisen tuen suhteen. Kun kyseessä ovat Tukisopimukset, joilla on useita Teknisiä yhteyshenkilöitä, ja Asiakas haluaa muuttaa Teknisiä yhteyshenkilöitä, Asiakkaan on annettava kirjallinen ilmoitus muutoksesta vähintään viisi (5) päivää ennen muutosta Applelle alla kuvattuun soveltuvaan Hyvityksen yhteysosoitteeseen tai Palvelusopimuksen mukaan syötettävä muutokset suoraan Asiakkaan suojatun, mukautetun sivuston kautta Palvelusopimuksen alussa toimitetuissa ohjeasiakirjoissa kuvatulla tavalla.
+
+3.	Pois jättämiset. Ellei Palvelusopimuksessa toisin määritetä, Apple ei tarjoa Tukipalveluita, jotka liittyvät seuraaviin tai aiheutuvat niistä: (a) Tuetun tuotteen käyttö palvelinpohjaisena sovelluksena; (b) ongelmat, jotka voidaan ratkaista päivittämällä Tuettu tuote; (c) Tuetun tuotteen käyttäminen tai muokkaaminen tavalla, jolla Tuettua tuotetta ei ole tarkoitettu käytettäväksi tai muokattavaksi; (d) kolmannen osapuolen tuotteet tai teknologiat ja niiden vaikutukset Tuettuun tuotteeseen tai vuorovaikutukset Tuetun tuotteen kanssa; (e) vahinko, jonka on kärsinyt tietoväline, jolla Tuettu tuote toimitetaan, tai tietokone, jossa Tuettu tuote on asennettuna; (f) sellaisen tietokonejärjestelmän käyttö, joka on yhteensopimaton Tuetun tuotteen kanssa; ja (g) ongelmat, jotka liittyvät Internetiin, sähköpostiin, tiedostonhallintaan, verkon määrityksiin, komentosarjoihin, FX-komentosarjoihin, ohjelmointiin, kääntämiseen, virheenkorjaukseen, infrastruktuurisuunnitteluun, sisällön tuottamiseen, sisällön mukauttamiseen, multimediaprojektien suunnitteluun, resurssienhallintaan, budjetointiin, koulutukseen, paikan päällä tehtävään diagnosointiin tai muihin ongelmiin, jotka eivät kuulu Palvelusopimuksessa kuvattujen Tukipalvelujen alueeseen.
+
+4.	Asiakkaan vastuut. Jotta Asiakas saisi Tukipalveluita, Asiakkaan on rekisteröitävä Palvelusopimus ja noudatettava Applen antamia käyttöohjeita. Asiakas on vastuussa kaikista maksuista, jotka liittyvät sähköposti- ja puhelinviestinnän aloittamiseen ja käymiseen Applen kanssa. Tukipalveluita halutessaan Asiakas tekee yhteistyötä Applen kanssa antamalla tiedot, jotka auttavat Applea ongelman diagnosoimisessa. Asiakas on vastuussa kaikista kadonneiden tai muokattujen tiedostojen, tietojen tai ohjelmien palauttamisista tai uudelleenmuodostamisista. Asiakas toteuttaa täydellisen tietojen varmuuskopioinnin sekä vakavasta virhetilanteesta palauttamisen suunnitelman ja pitää sitä yllä. Asiakas on yksin vastuussa luottamuksellisten, omien tai salaisten tietojensa turvallisuudesta. Asiakas ei paljasta Applelle luottamuksellisia tai omia tietoja tai mitään sellaisia tietoja, joita koskevat immateriaalioikeudet, jotka saattaisivat asettaa Applen vastuuseen. Asiakkaalla on kohtuullinen ymmärrys Tuetuista tuotteista, joille Asiakas haluaa saada Tukipalvelun, ja tietokonejärjestelmästä, jossa ne toimivat. Asiakas ei saa siirtää Tukipalveluita millekään kolmannelle osapuolelle. Tukipalvelut tarjotaan ainoastaan Asiakkaan sisäiseen käyttöön, ja mikä tahansa Tukipalveluiden luvaton jakelu on peruste näiden Sopimusehtojen välittömään irtisanomiseen. Asiakas estää Tukipalveluiden luvattoman jakelun ja käytön tekemällä asian edellyttämät kohtuulliset toimenpiteet. Asiakas ei väärinkäytä Tukipalveluita esimerkiksi yrittämällä käyttää Tukipalveluita ongelmiin, jotka on jo ratkaistu. 
+
+5.	Tukipalveluiden etäkäyttö. Apple voi osana Palvelusopimusta tarjota Tukipalveluita Internet-etäkäytön välityksellä, ja jos Asiakas sen sallii, hallita sekä kerätä tietoja Asiakkaan tietokoneesta etäkäyttöohjelmiston asentamisen ja käytön kautta. Kun Asiakas asentaa etäkäyttöohjelmiston ja käyttää sitä, Asiakas ilmaisee suostumuksensa siihen, että Apple tarjoaa Tukipalveluita tällä tavalla. Etäkäyttöohjelmiston tiedostoja saattaa jäädä Asiakkaan tietokoneeseen sen jälkeen, kun Tukipalveluiden istunto on päättynyt. Etäkäyttöohjelmiston omistusoikeus ja kaikki siihen sisältyvät immateriaalioikeudet pysyvät Apple Inc.:llä ja/tai sen lisenssinhaltijoilla. Soveltuvan etäkäyttöohjelmiston käyttöä saattaa koskea muita käyttöoikeusehtoja, jotka ovat saatavilla osoitteessa http://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf. Asiakas ei saa purkaa mitään etäkäyttöohjelmiston osaa tai selvittää sen valmistustapaa. Kun Tukipalveluita tarjotaan etäkäytön välityksellä, Apple käyttää, hallitsee ja kerää vain sellaisia Asiakkaan tietokoneessa olevia tietoja, joiden se kohtuullisessa määrin uskoo olevan tarpeen Tukitapahtuman analysoimista ja tuen tarjoamista varten. Apple suosittelee, että Asiakas sulkee kaikki tiedostot ja ohjelmat, jotka eivät liity Tukitapahtumaan. Etäkäyttöohjelmisto tai Asiakkaan tietokoneen ominaisuudet antavat Asiakkaan lopettaa Tukipalvelun etäkäyttöistunnon milloin tahansa.
+
+Tärkeää – lainsäädäntö ja eräät käytännöt saattavat edellyttää, että Apple joutuu ilmoittamaan viranomaisille tietynlaisista istunnon aikana tarkastelluista kuvista.
+
+6.	Takuun vastuuvapaus. VAIKKA APPLE EI PYSTY TAKAMAAN, ETTÄ TUKITAPAHTUMA RATKAISTAAN, APPLE PYRKII KOHTUULLISIN TOIMENPITEIN TARJOAMAAN TUKIPALVELUITA PALVELUSOPIMUKSEN ALAISUUDESSA AMMATTIMAISEEN TAPAAN. LAIN SALLIMISSA RAJOISSA TÄSSÄ KUVATTU NIMENOMAINEN TAKUU JA KORVAUKSET OVAT EKSKLUSIIVISIA JA SYRJÄYTTÄVÄT KAIKKI MUUT SUULLISET, KIRJALLISET, LAKISÄÄTEISET, NIMENOMAISESTI ILMAISTUT TAI OLETETUT TAKUUT, KORVAUKSET JA EHDOT. SOVELTUVAN LAIN SALLIMALLA TAVALLA APPLE JA SEN LISENSSINHALTIJAT ERITYISESTI KIISTÄVÄT KAIKKI LAKISÄÄTEISET TAI OLETETUT TAKUUT, JOTKA LIITTYVÄT TAI AIHEUTUVAT MILLÄ TAHANSA TAVALLA NÄISTÄ SOPIMUSEHDOISTA, MUKAAN LUKIEN KAIKKI OLETETUT TAKUUT, SOPIVUUS KAUPANKÄYNNIN KOHTEEKSI TAI SOPIVUUS JOHONKIN TIETTYYN TARKOITUKSEEN. 
+
+7.	Vastuuvapauslauseke. LAIN SALLIMISSA RAJOISSA APPLEN JA SEN LISENSSINHALTIJAN VASTUU NÄIDEN SOPIMUSEHTOJEN ALAISUUDESSA RAJOITTUU SUMMIIN, JOTKA ASIAKAS ON MAKSANUT ASIAKKAAN TILAAMASTA PALVELUSOPIMUKSESTA. MISSÄÄN TAPAUKSESSA APPLELLA JA SEN LISENSSINHALTIJALLA EI OLE MITÄÄN VASTUUTA MISTÄÄN EPÄSUORISTA, ERITYISISTÄ, SATUNNAISISTA TAI VÄLILLISISTÄ VAHINGOISTA, MUKAAN LUKIEN MUUN MUASSA VAHINGOT MENETETYISTÄ VOITOISTA, MENETETYISTÄ TIEDOISTA, KÄYTÖN MENETTÄMISESTÄ, LAITTEISTOSTA TAI TOIMITILOISTA TAI LIIKETOIMINNAN KESKEYTYMISESTÄ, JOTKA AIHEUTUVAT MILLÄ TAHANSA TAVALLA NÄISTÄ SOPIMUSEHDOISTA MINKÄ TAHANSA VASTUUTEORIAN NOJALLA, VAIKKA APPLELLE TAI SEN LISENSSINHALTIJOILLE OLISI ILMOITETTU KYSEISTEN VAHINKOJEN MAHDOLLISUUDESTA. MUITA VASTUUVAPAUSLAUSEKKEITA SAATTAA SISÄLTYÄ ETÄKÄYTTÖOHJELMISTOON LIITTYVIIN KÄYTTÖOIKEUSEHTOIHIN, JOTKA OVAT SAATAVILLA OSOITTEESSA http://www.apple.com/legal/sales-support/remote-support/. JOS ASIAKASTA SUOJELEVAT KULUTTAJANSUOJALAIT ASIAKKAAN OSTOMAASSA TAI, JOS SE ON ERI, ASIAKKAAN ASUINMAASSA, NÄIDEN SOPIMUSEHTOJEN MYÖNTÄMÄT EDUT OVAT LISÄYS KAIKKIIN KYSEISTEN KULUTTAJANSUOJALAKIEN JA -SÄÄDÖSTEN ANTAMIIN OIKEUKSIIN JA KORVAUKSIIN. JOTKIN MAAT, OSAVALTIOT JA PROVINSSIT EIVÄT SALLI SATUNNAISTEN TAI VÄLILLISTEN VAHINKOJEN JÄTTÄMISTÄ POIS TAI RAJOITTAMISTA TAI OLETETTUJEN TAKUIDEN TAI EHTOJEN POIS JÄTTÄMISIÄ TAI RAJOITUKSIA, JOTEN EDELLÄ OLEVAT RAJOITUKSET TAI POIS JÄTTÄMISET EIVÄT VÄLTTÄMÄTTÄ KOSKE ASIAKASTA. NÄMÄ EHDOT ANTAVAT ASIAKKAALLE TIETYT JURIDISET OIKEUDET, JA ASIAKKAALLA VOI OLLA MYÖS MUITA OIKEUKSIA, JOTKA VAIHTELEVAT MAAN, OSAVALTION TAI PROVINSSIN MUKAAN.
+
+8.	Kesto ja irtisanominen. Ellei Palvelusopimusta irtisanota aiemmin tämän osan mukaisella tavalla, Palvelusopimus on voimassa kaksitoista (12) kuukautta Voimaantulopäivästä tai siihen saakka, kunnes kaikki Tukitapahtumat on käytetty, sen mukaan, kumpi näistä on ensin (ellei Apple muulla tavalla kirjallisesti valtuuta). Apple ei tarjoa Tukipalveluita Tukisopimuksen päättymisen jälkeen, ellei Palvelusopimusta uusita sen päättymispäivänä tai sitä ennen. Apple voi irtisanoa Palvelusopimuksen milloin tahansa, (a) jos sen jälkeen, kun Apple on antanut Asiakkaalle vähintään viisitoista (15) päivää etukäteen kirjallisen ilmoituksen siitä, Asiakas ei maksa Palvelusopimuksen erääntyneitä maksuja, tai (b) jos sen jälkeen, kun Apple on antanut Asiakkaalle vähintään kolmekymmentä (30) päivää etukäteen kirjallisen ilmoituksen, Asiakas ei korjaa näiden Sopimusehtojen rikkomusta, tai (c) jos Asiakas rikkoo Palvelusopimuksen nojalla tarjotun ohjelmiston käyttöä koskevan minkä tahansa käyttöoikeussopimuksen ehtoa. Ellei laki toisin määrää ja jos Asiakas ei ole saanut Tukipalveluita, Asiakas voi peruuttaa Palvelusopimuksen mistä tahansa syystä kolmenkymmenen (30) päivän kuluessa Palvelusopimuksen ostopäivästä tai Voimaantulopäivästä sen mukaan, kumpi näistä on myöhemmin, ja saada hyvityksen kaikista maksetuista summista. Hyvityspyynnöt on lähetettävä kirjallisena yhdessä asianmukaisen ostotositteen kanssa alla kerrottuun Hyvityksen yhteysosoitteeseen. Osien 6, 7 ja 12 ehdot pysyvät voimassa senkin jälkeen, kun nämä Sopimusehdot irtisanotaan mistä tahansa syystä.
+
+9.	Apple; Toimivaltainen laki. ”Apple” on ilmoitettu alla olevassa taulukossa Asiakkaan asuinmaan mukaan. SOPIMUKSEN MUKAAN NÄITÄ SOPIMUSEHTOJA KOSKEVAT OSTOMAAN LAIT TAI, JOS SE ON ERI, ASUINMAAN LAIT, JA KYSEISTEN MAIDEN TUOMIOISTUIMILLA ON TOIMIVALTA KÄSITELTÄVIIN ASIOIHIN. 
+
+10.	Lisäpalvelut tai -ohjelmisto. Nämä Sopimusehdot koskevat kaikkia Palvelusopimuksen osana tarjottavia lisäpalveluita. Jos Tukipalvelut tarjotaan Asiakkaan sijainnissa osana jotakin Palvelusopimusta, Asiakas varmistaa, että Applella on pääsy kyseiseen sijaintiin sovittuna ajankohtana, ja takaa turvallisen työympäristön, joka mahdollistaa Applen tarjoamien Tukipalveluiden suorittamisen. Jos ohjelmisto tarjotaan osana Palvelusopimusta, kyseinen ohjelmisto on Apple Inc.:n ja/tai sen lisenssinhaltijoiden tekijänoikeuksin suojattu tuote. Asiakas voi asentaa, kopioida ja käyttää ohjelmistoa yksinomaan tarkoituksenaan tukea Tuettuja tuotteita, mutta ellei soveltuva laki toisin salli, Asiakas ei saa purkaa, muokata, vuokrata, liisata tai lainata ohjelmistoa, selvittää sen valmistustapaa tai luoda siitä johdannaisia. Jos ohjelmistoa koskevat erillisen käyttöoikeussopimuksen ehdot, kyseisen erillisen käyttöoikeussopimuksen ehdot koskevat ohjelmiston käyttöä. Mikä tahansa ohjelmisto, joka on annettu Yhdysvaltain valtionhallinnon käyttöön näiden Sopimusehtojen alaisuudessa, on luokiteltu ”rajoitetuksi tietokoneohjelmistoksi” FAR:n pykälän 52.227-19 mukaisesti. Yhdysvaltain valtionhallinnon oikeudet ohjelmistoon on kuvattu FAR:n pykälässä 52.227-19.
+
+11.	Tietojen suojaaminen. Asiakas hyväksyy ja ymmärtää, että Applen on tarpeen kerätä, käsitellä ja käyttää Asiakkaan tietoja, jotta Palvelusopimuksen mukaiset palvelu- ja tukivelvoitteet voidaan täyttää. Tähän saattaa kuulua esimerkiksi Asiakkaan tietojen siirtäminen kumppaniyrityksille tai palveluntarjoajille Applen Tietosuojakäytännön (http://www.apple.com/legal/warranty/privacy) ehtojen mukaisesti. Apple suojaa Asiakkaan tietoja Applen Tietosuojakäytännön mukaisesti. Jos Asiakas haluaa päästä käyttämään tietoja, joita Apple Asiakkaaseen liittyen säilyttää, tai jos Asiakas haluaa tehdä muutoksia, Asiakas voi päivittää henkilökohtaiset yhteydenottoasetuksensa tietosuojapäivitysten sivulla (http://www.apple.com/contact/myinfo). Apple voi tallentaa Asiakkaan ja Applen väliset puhelut kokonaisuutena tai osittain koulutusta, laadunvalvontaa ja myöhempää läpikäyntiä varten.
+
+12.	Yleistä. Asiakas ei voi siirtää oikeuksiaan tai velvoitteitaan Palvelusopimuksen alaisuudessa. Kaikki valtuuttamattomat siirrot mitätöidään. Apple ei ole vastuussa sellaisista toiminnan viiveistä tai tekemättä jättämisistä, jotka aiheutuvat syistä, jotka eivät ole sen kohtuullisesti hallittavissa. Minkä tahansa näiden Sopimusehtojen mukaiseen rikkomukseen tai maksun laiminlyöntiin liittyvästä oikeudesta luopuminen ei merkitse mihinkään myöhempään rikkomukseen tai maksun laiminlyöntiin liittyvästä oikeudesta luopumista. Jos jokin tuomioistuin tai lainvoimainen toimivalta pitää mitä tahansa näiden Sopimusehtojen osaa virheellisenä tai täytäntöönpanokelvottomana, jäljellä olevat osat pysyvät voimassa täysin, ja osapuolet korvaavat virheellisen tai täytäntöönpanokelvottoman osan kelvollisella ja täytäntöönpanokelpoisella osalla, joka täyttää osapuolten alkuperäisen tarkoituksen ja Sopimusehtojen talousvaikutuksen. Nämä Sopimusehdot, mukaan lukien kaikki tässä viitatut lisäehdot, muodostavat koko sopimuksen Applen ja Asiakkaan välillä liittyen tämän nojalla tarjottuihin Palvelusopimukseen sekä Tukipalveluihin ja korvaavat kaikki aiemmat neuvottelut, sopimukset ja yhteisymmärrykset aiheeseen liittyen. Mikään tästä eteenpäin tehtävä mihinkään osaan liittyvä lisäys, poisto tai muokkaus ei ole sitova Applelle, ellei sitä tehdä kirjallisesti ja ellei Applen valtuutettu allekirjoita sitä. Mikä tahansa ehto missä tahansa Asiakkaan lähettämässä tilauksessa tai muussa asiakirjassa ei ole millään tavalla voimassa ja hylätään nimenomaisesti. 
+
+MAAKOHTAISET EROAVAISUUDET
+
+Seuraavat maakohtaiset eroavaisuudet ovat voimassa, jos ne ovat epäyhtenäiset minkä tahansa tämän Sopimuksen muun osan kanssa:
+
+AUSTRALIA
+Näissä Sopimusehdoissa kuvatut oikeudet palautusten, hyvitysten ja takuiden suhteen ovat lisäys lakisääteisiin oikeuksiin, jotka Asiakkaalla voi olla Competition and Consumer Act 2010 -lain ja muiden soveltuvien Australian kuluttajansuojalakien ja -säädösten nojalla.
+
+BELGIA
+Asiakas ymmärtää, että ottamalla yhteyttä Appleen Tukipalveluiden suhteen Asiakas ei käytä mitään oikeutta liittyen aiemmin solmittuun myyntisopimukseen tavalla, jota on tarkoitettu Trade Practices Act -lain (14.7.1991) artiklassa 94.
+
+SAKSA
+Pykälä 7. Vastuuvapauslauseke. Seuraava koskee Asiakkaita, jotka ovat Kuluttajia: Apple on vastuussa Palvelusopimuksen ehtojen nojalla menetyksistä vain seuraavien osien mukaisesti: (i) rajoittamaton vastuu menetyksistä, jotka aiheutetaan tahallisesti tai aiheutuvat törkeästä huolimattomuudesta, (ii) rajoittamaton vastuu kuolemasta, loukkaantumisesta tai terveydelle aiheutuneesta vahingosta, joka aiheutetaan tahallisesti tai aiheutuu huolimattomuudesta, (iii) tappioista, jotka aiheutuvat minkä tahansa taattujen ominaisuuksien puuttumisesta aina siihen summaan saakka, joka on katettu takuun mukaan, ja jonka Apple pystyi ennustamaan takuun antamisen ajankohtana, (iv) tuotevastuulain mukaisesti tuotevastuun ollessa kyseessä, tai (v) tappioista, jotka aiheutuvat Applen sellaisten perusvelvollisuuksien rikkomuksesta, jotka muodostavat Palvelusopimuksen perustan, jotka olivat Palvelusopimuksen solmimisen kannalta olennaisia ja joihin Asiakas saattaa luottaa. Kaikki laajemmat Applen vastuut jätetään pois tuomioistuimen päätöksellä.
+
+ITALIA
+Pykälä 4. Asiakkaan vastuut. Seuraava on lisäys pykälään 4:
+
+Sähköposti- ja puhelinviestinnän kustannukset ovat kustannukset, jotka puhelimen/Internetin palveluntarjoaja on asettanut.
+
+NORJA
+Pykälä 8. Kesto ja irtisanominen: Seuraava on lisäys pykälään 8: 
+
+Jos Asiakas on kuluttaja, Asiakkaan oikeus katumiseen Norjan kaupan katumisoikeuden lain mukaan (laki 21.12.2000, nro 105), otetaan huomioon  osassa 8, Kesto ja irtisanominen. 
+
+RUOTSI
+Pykälä 1. Palvelut. Seuraava on lisäys pykälään 1:
+
+Jos Tukipalveluihin tehdyt muutokset ovat olennaisesti haitallisia Asiakkaalle, Asiakkaalla on oikeus irtisanoa Palvelusopimus alla olevan osan 8 ehtojen mukaisesti.
+
+Pykälä 8. Kesto ja irtisanominen. Virke ”Jos Apple tekee Tukipalveluihin muutoksia, jotka ovat olennaisesti haitallisia Asiakkaalle, kuten peruuttaa Asiakkaan tuotteeseen liittyvät tukipalvelut, Asiakkaalla on oikeus irtisanoa Palvelusopimus ja saada hyvitys, joka vastaa Palvelusopimuksen jäljellä olevaa kestoa” lisätään seuraavan virkkeen perään: ”Ellei laki toisin määrää ja jos Asiakas ei ole saanut Tukipalveluita, Asiakas voi peruuttaa Palvelusopimuksen mistä tahansa syystä kolmenkymmenen (30) päivän kuluessa Palvelusopimuksen ostopäivästä tai Voimaantulopäivästä sen mukaan, kumpi näistä on myöhemmin, ja saada hyvityksen kaikista maksetuista summista.”
+
+Ostoalue/-maa
+Apple
+Osoite
+Pohjois- ja Etelä-Amerikka
+
+
+Brasilia
+Apple Computer Brasil Ltda
+Rua: Leopoldo Couto Magalhães Júnior, nº 700, 7º andar, São Paulo, SP, Brasil 
+04542-000
+SAC: 0800-761-0880
+http://www.apple.com/br/support
+Kanada
+Apple Canada Inc.
+7495 Birchmount Rd.; Markham, Ontario, Canada; L3R 5G2 Canada
+Meksiko
+Apple Operations Mexico, S.A. de C.V.
+Prolongación Paseo de la Reforma #600, Suite 132, Colonia Peña Blanca, Santa Fé, Delegación Álvaro Obregón, México D. F., CP 01210, Mexico
+Yhdysvallat ja muut Pohjois- ja Etelä-Amerikan maat
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, U.S.A.
+Eurooppa, Lähi-itä ja Afrikka
+
+
+Venäjän federaatio
+Limited Liability Company Apple Rus
+5 Petrovka Street, Berlin House Business Center, 107031, Moscow, Russian Federation
+Turkki
+Apple Teknoloji ve Satış Limited Şirketi
+FSM Mahallesi Poligon Caddesi Buyaka 2 Sitesi No:8, Blok No.2 (C Blok) Kat:18 34471 Ümraniye İstanbul, Turkey
+Kaikki muut maat
+Apple Distribution International
+Hollyhill Industrial Estate Hollyhill, Cork, Republic of Ireland
+Tyynenmeren Aasia
+
+
+Australia; Uusi-Seelanti; Fidži, Papua-Uusi-Guinea; Vanuatu
+Apple Pty. Limited.
+PO Box A2629, Sydney South, NSW 1235, Australia  Puh: 133 622
+Hongkong
+Apple Asia Limited
+2401 Tower One, Times Square, Causeway Bay; Hong Kong
+Intia
+Apple India Private Ltd.
+19th Floor, Concorde Tower C, UB City No 24, Vittal Mallya Road, Bangalore 560-001, India
+Japani
+Apple Japan Inc.
+6-10-1 Roppongi, Minato-ku Tokyo 106-6140, Japan
+Korea
+Apple Korea Ltd.
+3901, ASEM Tower; 159, Samsung-dong, Gangnam-Gu; Seoul 135-798, Republic of Korea
+Afganistan, Bangladesh, Bhutan, Kambodža, Guam, Indonesia, Laos, Singapore, Malesia, Nepal, Pakistan, Filippiinit, Sri Lanka, Vietnam 
+Apple South Asia Pte. Ltd.
+7 Ang Mo Kio Street 64
+Singapore 569086
+
+Kiinan kansantasavalta
+Apple Computer Trading (Shanghai) Co. Ltd. 
+Units 610-13 on partial Floor 6, HSBC Building (i.e., Tower A), Shanghai ifc, 8 Century Avenue, Pudong New Area, Shanghai, China
+Thaimaa
+Apple South Asia (Thailand) Limited
+44th Floor, Room No. HH4401-6, The Offices at Central World, 999/9 Rama 1 Road, Pathumwan, Pathumwan, Bangkok 10330 Thailand
+Taiwan
+Apple Asia LLC
+19F., No.1, Songzhi Rd., Xinyi Dist., Taipei City 110, Taiwan
+Muut Tyynenmeren Aasian maat
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, U.S.A.
+
+071814 Tech Support Finnish v1.8
+

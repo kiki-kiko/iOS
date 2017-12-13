@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "file://localhost/System/Library/DTDs/sdef.dtd">
+<dictionary title="MobileTimer Terminology">
+    <suite name="MobileTimer Suite" code="mtmr" description="MobileTimer-specific classes and commands.">
+        <command name="resetInvalidAlarmsLogging" code="mtrarstl" description="Clears the invalid alarms detected state and log">
+            <cocoa class="ASPerformSelectorCommand" key="resetInvalidAlarmsLogging"/>
+        </command>
+        <command name="invalidAlarmsDetected" code="mtraiadt" description="Returns whether any alarms that have inconsistent data with their corresponding notifications were detected">
+            <cocoa class="ASPerformSelectorCommand" key="invalidAlarmsDetected"/>
+			<result type="boolean"/>
+        </command>
+        <command name="invalidAlarmsLogCopy" code="mtraialg" description="Returns a copy of the array of strings detailing the inconsistencies detected with the invalid alarms">
+            <cocoa class="ASPerformSelectorCommand" key="copyInvalidAlarmsLog"/>
+            <result type="array"/>
+        </command>
+    </suite>
+</dictionary>

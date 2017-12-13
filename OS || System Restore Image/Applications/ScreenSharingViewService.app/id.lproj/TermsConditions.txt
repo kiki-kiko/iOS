@@ -1,0 +1,148 @@
+Dukungan Teknis AppleCare
+
+Persyaratan dan Ketentuan
+
+DENGAN MENGHUBUNGI APPLE UNTUK MEMINTA LAYANAN PENDUKUNG YANG DITAWARKAN DALAM PAKET LAYANAN SEBAGAIMANA DIJELASKAN DI BAWAH INI ("PAKET LAYANAN") ATAU DENGAN MEREGISTRASI PAKET LAYANAN KE APPLE, MAKA SESEORANG MAUPUN ENTITAS ("PELANGGAN") MENYETUJUI PERSYARATAN DAN KETENTUAN  BERIKUT ("PERSYARATAN DAN KETENTUAN") YANG MENGATUR PENYEDIAAN LAYANAN PENDUKUNG BERDASARKAN PAKET LAYANAN YANG BERLAKU. NAMUN DEMIKIAN, PERLU DIKETAHUI BAHWA LAYANAN PENDUKUNG YANG DISEDIAKAN UNTUK MEMBANTU PELANGGAN MENERIMA MANFAAT BERDASARKAN JAMINAN TERBATAS SATU TAHUN DARI APPLE, APPLECARE+, PAKET PERLINDUNGAN APPLECARE, ATAU UNDANG-UNDANG KONSUMEN YANG BERLAKU, SEBENARNYA TELAH DIATUR DALAM PERSYARATAN MASING-MASING JAMINAN, KONTRAK LAYANAN APLLECARE, ATAU PERUNDANG-UNDANGAN KONSUMEN.   BERDASARKAN LAYANAN PENDUKUNG YANG DIATUR DALAM PERSYARATAN DAN KETENTUAN INI, JIKA PELANGGAN TIDAK MENYETUJUI PERSYARATAN DAN KETENTUAN, MAKA PELANGGAN TIDAK BOLEH MENGHUBUNGI APPLE ATAU MEREGISTRASI PAKET LAYANAN. UNTUK MEMBATALKAN PAKET LAYANAN YANG TELAH DIBELI DAN MENERIMA PENGEMBALIAN UANG, PELANGGAN HARUS MENGHUBUNGI APPLE SEBAGAIMANA DIJELASKAN DI BAWAH INI. PAKET LAYANAN AKAN BERLAKU BILA APPLE MENYETUJUI REGISTRASI PELANGGAN ("TANGGAL BERLAKU").
+
+1.	Layanan. Setelah menerima registrasi Pelanggan, Apple akan menyediakan layanan pendukung ("Layanan Pendukung") bagi produk perangkat lunak atau teknologi Apple terkait ("Produk Pendukung") untuk Paket Layanan yang berlaku, semuanya sebagaimana dijelaskan pada halaman web online berikut: http://www.apple.com/legal/sales-support/applecare/actssgeos.html ("Halaman Dukungan Paket Layanan"). Apple dapat setiap saat merevisi Layanan Pendukung yang disediakan dan/atau Produk Pendukung yang tercakup dalam Paket Layanan, yakni dengan memposting pembaruan pada Halaman Dukungan Paket Layanan. Apple tidak akan merevisi Layanan Pendukung dan/atau Produk Pendukung dalam cara yang akan (i) mengurangi kienrja Apple dalam memberikan Layanan Pendukung, atau (ii) secara material mempengaruhi kewajiban Apple untuk menyediakan Layanan Pendukung, atau (iii) secara material mempengaruhi hak Pelanggan dalam menerima Layanan Pendukung. Untuk semua pembaruan yang akan mempengaruhi Paket Layanan Pelanggan, Apple akan memberitahukan pembaruan tersebut kepada Pelanggan melalui alamat email yang telah didaftarkan oleh Pelanggan dalam kurun waktu kurang dari 30 (tiga puluh) hari sebelum pembaruan diposting. Persyaratan yang dijelaskan pada Halaman Dukungan Paket Layanan akan dimasukkan ke dalam Persyaratan dan Ketentuan ini. Jika terdapat pertentangan antara persyaratan dalam dokumen ini dengan persyaratan pada Halaman Dukungan Paket Layanan, maka persyaratan pada Halaman Dukungan Paket Layanan yang akan diberlakukan.
+ 
+2.	Batasan. 
+
+2.1	Insiden Dukungan. Paket Layanan diberikan dalam satu maupun beberapa paket, atau paket Insiden Dukungan dalam jumlah tidak terbatas. Insiden Dukungan adalah masalah khusus dan unik yang berawal dari satu penyebab. Apple akan berupaya sewajarnya mengatasi Insiden Dukungan, namun tidak menjamin bahwa Insiden Dukungan tersebut dapat diatasi. Apple, atas kebijaksanaannya, akan menentukan cakupan Insiden Dukungan dan sejauh diizinkan oleh undang-undang jika Insiden Dukungan terselesaikan.  Secara umum, Insiden Dukungan akan terselesaikan bila Pelanggan menerima salah satu dari berikut ini: (a) informasi yang akan mengatasi masalah tersebut; (b) informasi tentang cara memperoleh solusi perangkat lunak yang akan mengatasi masalah tersebut; (c) pemberitahuan bahwa masalah yang terjadi disebabkan oleh persoalan yang telah diketahui namun belum terselesaikan atau masalah inkompatibilitas dengan Produk Layanan; (d) informasi yang mengidentifikasi bahwa masalah sedang diselesaikan dengan meng-upgrade rilis Produk Layanan terbaru; atau (e) pemberitahuan bahwa masalah telah teridentifikasi sebagai kesalahan peralatan perangkat keras. Berdasarkan Paket Layanan dengan jumlah Insiden Dukungan terbatas, setiap kontak Insiden Dukungan baru yang dibuat oleh Pelanggan akan mengurangi jumlah Insiden Dukungan yang memenuhi syarat yang tersisa.
+
+
+2.2	Waktu Tanggapan. Apple akan berupaya merespons permintaan Layanan Pendukung dalam kurun waktu yang sewajarnya atau dalam waktu tanggapan sebagaimana dijelaskan dalam Paket Layanan yang berlaku ("Waktu Tanggapan"), namun Apple tidak menjamin bahwa respons akan tersedia dalam kurun waktu tertentu. Semua Waktu Tanggapan dihitung berdasarkan Jam Operasi Paket Layanan seperti yang dijelaskan pada halaman Dukungan Paket Layanan. 
+
+2.3	Rilis Terbaru. Kecuali jika telah ditentukan, semua Produk Pendukung harus berada pada tingkat rilis terbaru. 
+
+2.4	Penggunaan. Layanan Pendukung tidak ditujukan untuk digunakan dalam pengoperasian fasilitas nuklir, navigasi pesawat terbang, sistem komunikasi, mesin kontrol lalu lintas udara, atau aktvitas lain yang berisiko kematian,cedera, maupun cacat fisik, atau kerusakan lingkungan saat Layanan Pendukung gagal mencapai hasil yang diinginkan.
+
+2.5	Kontak Teknis. Layanan Pendukung disediakan kepada satu atau beberapa pengguna yang ditunjuk oleh Pelanggan saat melakukan registrasi dan sejauh yang diperbolehkan berdasarkan Paket Layanan ("Kontak Teknis"). Kontak Teknis adalah satu-satunya penghubung antara Pelanggan dan Apple untuk dukungan teknis dalam Paket Layanan. Untuk Paket Layanan dengan beberapa Kontak Teknis, jika Pelanggan ingin mengubah Kontak Teknisnya, maka Pelanggan harus menyampaikan pemberitahuan tertulis tentang perubahan tersebut kepada Apple dalam waktu 5 (lima) hari ke Alamat Kontak Pengembalian Uang yang berlaku sebagaimana dijelaskan di bawah ini atau, jika berlaku untuk Paket Layanan, Pelanggan dapat memasukkan perubahannya secara langsung melalui situs web Pelanggan yang aman dan telah disesuaikan, sebagaimana dijelaskan dalam dokumen petunjuk yang diberikan di awal Paket Layanan.
+
+3.	Pengecualian. Kecuali jika ditentukan lain dalam Paket Layanan, Apple tidak akan menyediakan Layanan Pendukung yang terkait dengan masalah atau persoalan yang timbul atau dari (a) penggunaan Produk Pendukung sebagai aplikasi berbasis server; (b) masalah yang dapat diselesaikan dengan cara meng-upgrade Produk Pendukung; (c) penggunaan atau modifikasi Produk Pendukung dengan cara yang tidak ditujukan untuk digunakan atau dimodifikasi; (d) produk atau teknologi pihak ketiga beserta pengaruhnya terhadap atau interaksi dengan Produk Pendukung; (e) kerusakan pada media atau komputer yang menginstal Produk Pendukung; (f) penggunaan sistem komputer yang tidak sesuai dengan Produk Pendukung; dan (g) masalah yang terkait dengan Internet, email, manajemen file, konfigurasi jaringan, pembuatan skrip, pembuatan skrip FX, pemrograman, kompilasi, debug, desain infrastruktur, pembuatan konten, penyesuaian konten, perencanaan proyek multimedia/desain, manajemen sumber daya, pembuatan anggaran, pelatihan, penukaran hasil diagnosis, atau hal lain yang tidak terdapat dalam lingkup Layanan Pendukung sebagaimana dijelaskan dalam Paket Layanan.
+
+4.	Tanggung Jawab Pelanggan. Agar dapat menerima Layanan Pendukung, Pelanggan harus mendaftarkan Paket Layanan dan mengikuti petunjuk akses dari Apple. Pelanggan bertanggung jawab atas semua biaya pengadaan dan administrasi komunikasi dengan Apple, baik melalui email maupun telepon. Pelanggan akan bekerja sama dengan Apple saat meminta Layanan Pendukung dengan memberikan informasi yang diperlukan agar Apple dapat mendiagnosis masalah. Pelanggan bertanggung jawab atas setiap maupun seluruh pemulihan atau pembuatan ulang file, data, atau program yang hilang atau diubah. Pelanggan akan menyimpan dan menerapkan cadangan data lengkap beserta program pemulihan atas kerusakan data. Pelanggan bertanggung jawab sepenuhnya atas setiap maupun seluruh keamanan informasi rahasia, informasi kekayaan intelektual, atau informasi yang dikategorikan sebagai rahasia. Pelanggan tidak akan mengungkapkan informasi rahasia, informasi kekayaan intelektual, atau informasi apa pun milik Apple yang diatur dalam hak kekayaan intelektual yang dapat menimbulkan tuntutan terhadap Apple. Pelanggan harus cukup memahami tentang Produk Pendukung yang Layanan Pendukungnya ia minta dan sistem komputer yang ia gunakan. Pelanggan tidak boleh mengalihkan Layanan Pendukung kepada pihak ketiga. Layanan Pendukung disediakan hanya untuk penggunaan internal Pelanggan. Penyebaran tidak sah atas Layanan Pendukung akan menjadi alasan untuk langsung menghentikan Persyaratan dan Ketentuan ini.  Pelanggan harus berupaya sewajarnya agar Layanan Pendukung tidak disebarluaskan dan digunakan secara tidak sah. Pelanggan tidak boleh menyalahgunakan penerimaan atau penggunaan Layanan Pendukung, termasuk namun tidak terbatas pada, akses Layanan Pendukung untuk masalah yang telah diselesaikan. 
+
+
+5.	Layanan Pendukung Akses Jarak jauh Sebagai bagian dari Paket Layanan, Apple dapat menyediakan Layanan Pendukung melalui akses Internet jarak jauh dan jika diizinkan oleh Pelanggan, Apple akan mengontrol dan mengumpulkan informasi di komputer Pelanggan dengan menginstal dan menggunakan perangkat lunak akses jarak jauh. Penginstalan dan penggunaan perangkat lunak akses jarak jauh oleh Pelanggan menunjukkan bahwa Pelangan telah mengizinkan Apple untuk memberikan Layanan Pendukung dengan cara ini. Setelah sesi Layanan Pendukung selesai, seluruh atau sebagian file perangkat lunak akses jarak jauh dapat tetap berada di komputer Pelanggan. Hak atas perangkat lunak akses jarak jauh dan semua hak kekayaan intelektual yang terdapat di dalamnya akan tetap dimiliki oleh Apple Inc. dan/atau pemberi lisensinya. Penggunaan perangkat lunak akses jarak jauh mungkin diatur dalam persyaratan lisensi tambahan yang tersedia di http://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf. Pelanggan tidak boleh membongkar atau merekayasa bagian apa pun dari perangkat lunak akses jarak jauh. Meskipun perangkat lunak akses jarak jauh disediakan, namun Apple hanya akan mengakses, mengontrol, dan mengumpulkan informasi di komputer Pelanggan untuk keperluan analisis dan pemberian dukungan jika terjadi Insiden Dukungan. Apple menyarankan kepada Pelanggan agar menutup semua file dan aplikasi yang tidak terkait dengan Insiden Dukungan. Perangkat lunak akses jarak jauh atau fitur komputer Pelanggan membuat Pelanggan dapat setiap saat menghentikan sesi Layanan Pendukung akses jarak jauh.
+
+Penting - Apple mungkin diwajibkan oleh undang-undang dan kebijakan untuk melaporkan gambar tertentu yang dilihat selama sesi berlangsung kepada pihak berwenang.
+
+6.	Penafian Jaminan. MESKIPUN APPLE TIDAK DAPAT MENJAMIN BAHWA INSIDEN DUKUNGAN DAPAT DIATASI, NAMUN APPLE AKAN BERUPAYA SEWAJARNYA UNTUK MENYEDIAKAN LAYANAN PENDUKUNG SESUAI PAKET LAYANAN DENGAN CARA PROFESIONAL. SEJAUH DIBOLEHKAN OLEH UNDANG-UNDANG, JAMINAN TERSURAT DAN GANTI RUGI YANG DITETAPKAN DI SINI BERSIFAT EKSKLUSIF DAN MENGGANTIKAN SELURUH JAMINAN, GANTI RUGI, DAN PERSYARATAN LAINNYA, BAIK SECARA LISAN MAUPUN TERTULIS, BERDASARKAN UNDANG-UNDANG, YANG BERSIFAT TERSURAT MAUPUN TERSIRAT. SEBAGAIMANA DIIZINKAN OLEH UNDANG-UNDANG YANG BERLAKU, APPLE DAN PEMBERI LISENSINYA AKAN MENOLAK SETIAP DAN SELURUH JAMINAN HUKUM TERSURAT MAUPUN TERSIRAT, TERKAIT ATAU YANG TIMBUL MELALUI CARA APA PUN DALAM KAITANNYA DENGAN PERSYARATAN DAN KETENTUAN, TERMASUK JAMINAN TERSIRAT, KELAYAKAN UNTUK DIPERDAGANGKAN, ATAU KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+7.	Batasan Pertanggungjawaban. SEJAUH DIIZINKAN OLEH UNDANG-UNDANG, TANGGUNG JAWAB APPLE BESERTA PEMILIK LISENSINYA BERDASARKAN PERSYARATAN DAN KETENTUAN TERBATAS INI DIBATASI HINGGA SEJUMLAH BIAYA YANG DIBAYARKAN OLEH PELANGGAN UNTUK MENDAPATKAN PAKET LAYANAN YANG DIPESAN PELANGGAN. DALAM KONDISI APA PUN, APPLE DAN PEMILIK LISENSINYA TIDAK BERTANGGUNG JAWAB ATAS KERUGIAN YANG TERJADI, BAIK SECARA TIDAK LANGSUNG, KHUSUS, INSIDENTAL, MAUPUN KONSEKUENSIEL, TERMASUK NAMUN TIDAK TERBATAS PADA KERUGIAN AKIBAT HILANGNYA MANFAAT, DATA, KEGUNAAN, PERALATAN, MAUPUN FASILITAS, ATAU GANGGUAN USAHA, YANG TIMBUL DALAM CARA APA PUN BERDASARKAN PERSYARATAN DAN KETENTUAN INI SESUAI DENGAN TEORI PERTANGGUNGJAWABAN, TERLEPAS APPLE DAN PEMILIK LISENSINYA TELAH DIBERITAHUKAN TENTANG KEMUNGKINAN AKAN KERUGIAN TERSEBUT ATAU TIDAK. PENAFIAN LAINNYA YANG MUNGKIN TERCAKUP DALAM PERSYARATAN LISENSI YANG BERLAKU ATAS PERANGKAT LUNAK AKSES JARAK JAUH TERSEDIA DI http://www.apple.com/legal/sales-support/remote-support/. JIKA PELANGGAN DILINDUNGI OLEH UNDANG-UNDANG ATAU HUKUM PERLINDUNGAN KONSUMEN DI NEGARA PEMBELIANNYA, ATAU JIKA BERBEDA, NEGARA DOMISILI, MAKA MANFAAT YANG DIBERIKAN BERDASARKAN PERSYARATAN DAN KETENTUAN MERUPAKAN TAMBAHAN UNTUK SEMUA HAK DAN UPAYA HUKUM YANG DISAMPAIKAN DALAM PERATURAN DAN UNDANG-UNDANG PERLINDUNGAN KONSUMEN. BEBERAPA NEGARA, NEGARA BAGIAN, DAN PROVINSI TIDAK MENGIZINKAN PENGECUALIAN ATAU PEMBATASAN ATAS KERUGIAN INSIDENTAL MAUPUN KONSEKUENSIAL, ATAU PENGECUALIAN MAUPUN PEMBATASAN TERHADAP JAMINAN MAUPUN KETENTUAN TERSIRAT, SEHINGGA PEMBATASAN MAUPUN PENGECUALIAN DI ATAS TIDAK BERLAKU BAGI PELANGGAN.  PERSYARATAN DAN KETENTUAN AKAN MEMBERIKAN HAK TERTENTU KEPADA PELANGGAN SECARA HUKUM, DAN PELANGGAN MUNGKIN JUGA MEMILIKI HAK LAIN YANG BERBEDA MENURUT NEGARA, NEGARA BAGIAN, ATAU PROVINSI.
+
+8.	Persyaratan dan Penghentian. Kecuali jika berakhir lebih awal sesuai dengan bagian ini, Paket Layanan akan dilanjutkan untuk jangka waktu 12 (dua belas) bulan terhitung sejak Tanggal Berlaku atau hingga Insiden Dukungan digunakan, mana saja yang lebih dulu (kecuali jika disetujui lain oleh Apple secara tertulis). Apple tidak akan memberikan Layanan Pendukung melebihi jangka waktu Paket Layanan, kecuali jika Paket Layanan Anda telah diperbarui pada atau sebelum tanggal penghentiannya. Apple dapat setiap saat menghentikan Paket Layanan (a) jika setelah kurun waktu 15 (lima belas) hari sejak pemberitahuan tertulis disampaikan kepada Pelanggan, Pelanggan tidak melunasi biaya Paket Layanan, atau (b) jika Pelanggan telah diberikan waktu 30 (tiga puluh) hari sebelum pemberitahuan tertulis namun Pelanggan gagal bertanggung jawab atas pelanggaran sesuai Persyaratan dan Ketentuan, atau (c) jika Pelanggan melanggar persyaratan perjanjian lisensi perangkat lunak yang mengatur penggunaan perangkat lunak yang tercantum dalam Paket Layanan. Kecuali ditetapkan undang-undang dan tidak tercantum dalam Layanan Pendukung yang telah diterima Pelanggan, maka Pelanggan dapat membatalkan Paket Layanan untuk alasan apa pun dalam waktu 30 (tiga puluh) hari terhitung sejak tanggal pembelian Paket Layanan atau Tanggal Berlaku, mana saja yang terjadi terakhir, dan menerima pengembalian uang sejumlah total dari yang telah dibayarkan. Permintaan pengembalian uang harus dikirim secara tertulis disertai bukti pembelian yang sesuai ke alamat Kontak Pengembalian Uang di bawah ini. Bab 6, 7, dan 12 akan tetap berlaku meskipun Persyaratan dan Ketentuan ini telah berakhir. 
+
+9.	Apple; Peraturan Perundang-Undangan. "Apple" dijelaskan dalam tabel berikut sesuai dengan negara domisili Pelanggan. PERSYARATAN DAN KETENTUAN INI TELAH DISEPAKATI UNTUK DIATUR OLEH HUKUM DI NEGARA TEMPAT PEMBELIAN ATAU NEGARA DOMISILI DAN PENGADILAN DARI NEGARA YANG BERSANGKUTAN AKAN MEMILIKI YURISDIKSI ATAS HAL TERSEBUT. 
+
+10.	Layanan atau Perangkat Lunak Tambahan. Semua layanan tambahan yang diberikan sebagai bagian dari Paket Layanan akan diatur dalam Persyaratan dan Ketentuan. Jika Layanan Pendukung yang disediakan di lokasi Pelanggan merupakan bagian dari Paket Layanan, maka Pelanggan harus memastikan bahwa Apple diberikan akses ke lokasi tersebut dalam waktu yang telah ditetapkan dan akan menciptakan lingkungan kerja yang aman dan memadai sehingga Apple dapat menyediakan Layanan Pendukung. Jika perangkat lunak disediakan sebagai bagian dari Paket Layanan, maka perangkat lunak tersebut merupakan karya berhak cipta milik Apple Inc. dan/atau pemilik lisensinya. Pelanggan dapat menginstal, memproduksi ulang, dan menggunakan perangkat lunak secara eksklusif untuk tujuan mendukung Produk Pendukung, namun kecuali sebagaimana diizinkan undang-undang yang berlaku, tidak boleh mendekompilasi, merekayasa balik, memodifikasi, menyewakan, meminjamkan, atau membuat karya turunan atas perangkat lunak tersebut. Jika perangkat lunak diatur dalam persyaratan perjanjian lisensi terpisah, maka persyaratan perjanjian lisensi tersebut akan mengatur penggunaan perangkat lunak.  Semua perangkat lunak yang disediakan untuk Pemerintah Amerika Serikat berdasarkan Persyaratan dan Ketentuan ini dikategorikan sebagai "perangkat lunak komputer terbatas" sebagaimana dijelaskan dalam klausul 52.227-19 FAR. Hak Pemerintah Amerika Serikat atas perangkat lunak tercantum pada klausul 52.227-19 dalam FAR (Federal Acquisition Regulation).
+
+11.	Perlindungan Data. Pelanggan setuju dan memahami bahwa Apple perlu mengumpulkan, memproses, dan menggunakan data Pelanggan agar dapat menjalankan kewajiban layanan dan dukungan berdasarkan Paket Layanan. Tindakan ini mencakup transfer data Pelanggan ke perusahaan afiliasi atau penyedia layanan sesuai persyaratan Kebijakan Privasi Apple (http://www.apple.com/legal/warranty/privacy). Apple akan melindungi informasi Pelanggan sesuai Kebijakan Privasi Apple. Jika Pelanggan ingin mengakses atau mengubah informasinya yang disimpan Apple, maka Pelanggan dapat memperbarui preferensi kontak pribadi dengan mengakses halaman web Pembaruan Privasi (http://www.apple.com/contact/myinfo). Apple akan merekam sebagian atau seluruh panggilan antara pelanggan dan Apple untuk tujuan pelatihan, jaminan kualitas, dan referensi.
+
+12.	Umum. Pelanggan tidak dapat menyerahkan hak maupun kewajibannya dalam Paket Layanan. Tugas apa pun yang tidak sah akan dibatalkan. Apple tidak akan bertanggung jawab atas keterlambatan kinerja atau non-kinerja yang terjadi di luar kontrol yang wajar. Pengabaian pelanggaran atau kelalaian apa pun berdasarkan Persyaratan dan Ketentuan ini tidak akan dianggap sebagai pengabaian pelanggaran atau kelalaian setelahnya. Jika pengadilan yang berwenang menyatakan bahwa dalam Persyaratan dan Ketentuan ini terdapat ketetapan yang tidak valid atau tidak dapat diberlakukan, maka bagian lainnya akan tetap berlaku sepenuhnya, dan para pihak akan mengganti ketentuan yang tidak valid atau tidak berlaku tersebut dengan ketetapan yang valid dan dapat diberlakukan untuk memenuhi tujuan awal para pihak terkait dan dampak ekonomi Persyaratan dan Ketentuan. Persyaratan dan Ketentuan ini, termasuk referensi persyaratan tambahan dalam dokumen ini, berisi keseluruhan perjanjian antara Apple dan Pelanggan dalam kaitannya dengan Paket Layanan dan Layanan Pendukung yang tercantum di dalamnya dan akan menggantikan semua kesepakatan, perjanjian, serta kesepahaman sebelumnya sehubungan dengan masalah terkait, serta tidak ada tambahan atau penghapusan maupun modifikasi dalam ketentuan ini yang akan mengikat Apple, kecuali jika dibuat secara tertulis atau telah ditandatangani oleh perwakilan resmi Apple.  Persyaratan atau ketentuan apa pun untuk setiap permintaan atau dokumen lain yang dikirim oleh Pelanggan sebaiknya bukan merupakan paksaan atau tidak berpengaruh terhadap apa pun, jika tidak, maka akan ditolak. 
+
+KERAGAMAN NEGARA
+
+Berikut adalah sejumlah negara pengawas jika terdapat pertentangan dengan ketetapan lain dalam Paket ini:
+
+AUSTRALIA
+Hak yang dijelaskan dalam persyaratan dan ketentuan tersebut dalam hal pengembalian barang, pengembalian uang, dan jaminan merupakan tambahan atas hak menurut undang-undang yang mungkin berlaku untuk Anda berdasarkan Undang-Undang Perlindungan Konsumen dan Persaingan Usaha 2010 serta undang-undang dan peraturan perlindungan konsumen lainnya yang berlaku di Australia.
+
+BELGIA
+Pelanggan memahami bahwa dengan menghubungi Apple untuk memperoleh Layanan Pendukung,  ia tidak menggunakan haknya terkait kontrak penjualan yang dilakukan sebelumnya sebagaimana disebutkan dalam pasal 94 ter. dalam Undang-Undang tentang Praktik Perdagangan 14 Juli 1991.
+
+KANADA
+Warga Quebec: Hukum Provinsi Quebec akan mengatur paket ini dan sengketa yang timbul karenanya.  Bab 7 – Batasan Pertanggungjawaban tidak berlaku untuk warga Quebec.
+
+JERMAN
+Klausul 7. Batasan Pertanggungjawaban. SSehubungan dengan Pelanggan yang juga merupakan Konsumen, berikut yang akan berlaku: Apple hanya bertanggung jawab atas kerugian sesuai persyaratan Paket Layanan sebagaimana ditetapkan dalam ketentuan berikut: (i) kewajiban terbatas untuk kerugian yang disebabkan kelalaian, baik disengaja maupun tidak, (ii) kewajiban terbatas untuk kematian, cedera, kerugian, hingga gangguan kesehatan akibat kelalaian, baik disengaja maupun tidak, (iii) untuk kerugian yang timbul akibat kurangnya karakteristik yang dijaminkan hingga sejumlah yang ditanggung berdasarkan tujuan jaminan dan yang telah diperkirakan Apple saat jaminan diberikan, (iv) berdasarkan Undang-Undang Kewajiban Produk tentang kewajiban produk, atau (v) untuk kerugian yang disebabkan pelanggaran tugas dasar Apple yang merupakan esensi Paket Layanan, dan merupakan kesimpulan yang diambil dari Paket Layanan yang mungkin diandalkan oleh Pelanggan. Kewajiban Apple lain yang lebih luas dikecualikan dalam manfaat.
+
+ITALIA
+Klausul 4. Tanggung Jawab Pelanggan. Pernyataan berikut telah ditambahkan dalam klausul 4:
+
+Penyedia layanan telepon/internet akan memberlakukan biaya komunikasi untuk email dan telepon.
+
+NORWEGIA
+Klausul 8. Persyaratan dan penghentian: Pernyataan berikut telah ditambahkan dalam klausul 8: 
+
+Jika Anda adalah Konsumen, perlu diketahui bahwa Anda berhak untuk menyatakan permasalahan sesuai dengan Undang-Undang yang berlaku di Norwegia tentang hak untuk pernyataan permasalahan penjualan (Undang-Undang yang dikeluarkan pada 21 Desember 2000 no. 105), akan dipertimbangkan dalam Bab 8, Persyaratan dan penghentian. 
+
+SWEDIA
+Klausul 1. Layanan. Pernyataan berikut ditambahkan dalam klausul 1:
+
+Jika perubahan yang dibuat untuk Layanan Pendukung secara material merugikan Pelanggan, maka Pelanggan berhak atas penghentian Paket Layanan, berdasarkan pada ketetapan dalam bab 8 di bawah ini.
+
+Klausul 8. Persyaratan dan Penghentian. Kalimat berikut "Jika Apple melakukan perubahan pada Layanan Pendukung yang secara material merugikan Pelanggan, misalnya pembatalan layanan pendukung terkait produk Pelanggan, maka Pelanggan berhak menghentikan Paket Layanan dan menerima pengembalian uang setara dengan sisa waktu Paket Layanan", akan ditambahkan setelah pernyataan "Kecuali sebagaimana ditetapkan lain dalam undang-undang atau tidak ada Layanan Pendukung yang telah diterima Pelanggan, maka Pelanggan dapat membatalkan Paket Layanan dengan alasan apa pun dalam waktu 30 (tiga puluh) hari terhitung sejak tanggal pembelian Paket Layanan atau Tanggal Berlaku, mana saja yang terjadi terakhir, dan berhak menerima pengembalian uang senilai yang telah dibayarkan.”
+
+
+Kawasan/Negara Tempat Pembelian
+Apple
+Alamat
+Amerika
+
+
+Brasil
+Apple Computer Brasil Ltda
+Rua: Leopoldo Couto Magalhães Júnior, nº 700, 7º andar, São Paulo, SP, Brasil 
+04542-000
+SAC: 0800-761-0880
+http://www.apple.com/br/support 
+Kanada
+Apple Canada Inc.
+7495 Birchmount Rd.; Markham, Ontario, Canada; L3R 5G2 Canada
+Meksiko
+Apple Operations Mexico, S.A. de C.V.
+Prolongación Paseo de la Reforma #600, Suite 132, Colonia Peña Blanca, Santa Fé, Delegación Álvaro Obregón, México D. F., CP 01210, Mexico
+Amerika Serikat dan Negara Amerika Lain
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, U.S.A.
+Eropa, Timur Tengah, dan Afrika
+
+
+Rusia
+Limited Liability Company Apple Rus
+5 Petrovka Street, Berlin House Business Center, 107031, Moscow, Russian Federation
+Turki
+Apple Teknoloji ve Satış Limited Şirketi
+FSM Mahallesi Poligon Caddesi Buyaka 2 Sitesi No:8, Blok No.2 (C Blok) Kat:18 34471 Ümraniye İstanbul, Turkey
+Semua Negara Lainnya
+Apple Distribution International
+Hollyhill Industrial Estate Hollyhill, Cork, Republic of Ireland
+Asia Pasifik
+
+
+Australia, Selandia Baru, Fiji, Papua Nugini, Vanuatu
+Apple Pty. Limited.
+PO Box A2629, Sydney South, NSW 1235, Australia Tel: 133 622
+Hong Kong
+Apple Asia Limited
+2401 Tower One, Times Square, Causeway Bay; Hong Kong
+India
+Apple India Private Ltd.
+19th Floor, Concorde Tower C, UB City No 24, Vittal Mallya Road, Bangalore 560-001, India
+Jepang
+Apple Japan Inc.
+6-10-1 Roppongi, Minato-ku Tokyo 106-6140, Japan
+Korea
+Apple Korea Ltd.
+3901, ASEM Tower; 159, Samsung-dong, Gangnam-Gu; Seoul 135-798, Republic of Korea
+Afghanistan, Bangladesh, Bhutan, Brunei, Kamboja, Guam, Indonesia, Laos, Singapura, Malaysia, Nepal, Pakistan, Filipina, Sri Lanka, Vietnam
+Apple South Asia Pte. Ltd.
+7 Ang Mo Kio Street 64
+Singapore 569086
+
+Republik Rakyat Cina
+Apple Computer Trading (Shanghai) Co. Ltd. 
+Units 610-13 on partial Floor 6, HSBC Building (i.e., Tower A), Shanghai ifc, 8 Century Avenue, Pudong New Area, Shanghai, China
+Thailand
+Apple South Asia (Thailand) Limited
+44th Floor ,Room No. HH4401-6, The Offices at Central World, 999/9 Rama 1 Road , Pathumwan, Pathumwan , Bangkok 10330 Thailand
+Taiwan
+Apple Asia LLC
+19F., No.1, Songzhi Rd., Xinyi Dist., Taipei City 110, Taiwan
+Negara-Negara Asia Pasifik Lainnya
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, U.S.A.
+
+071814 Tech Support Indonesian v1.8

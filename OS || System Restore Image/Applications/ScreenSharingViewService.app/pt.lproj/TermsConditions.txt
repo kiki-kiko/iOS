@@ -1,0 +1,148 @@
+Suporte técnico AppleCare
+
+Termos e condições
+
+AO ENTRAR EM CONTATO COM A APPLE PARA OBTER SERVIÇOS DE SUPORTE OFERECIDOS SOB UM PLANO DE SERVIÇO DESCRITO ABAIXO (“PLANO DE SERVIÇO”) OU REGISTRAR UM PLANO DE SERVIÇO COM A APPLE, O INDIVÍDUO OU ENTIDADE ("CLIENTE") CONCORDA QUE OS TERMOS E CONDIÇÕES A SEGUIR (“TERMOS E CONDIÇÕES”) GOVERNARÃO A PRESTAÇÃO DOS SERVIÇOS DE SUPORTE SOB O PLANO DE SERVIÇO APLICÁVEL. OBSERVE, NO ENTANTO, QUE OS SERVIÇOS DE SUPORTE FORNECIDOS COMO ASSISTÊNCIA AOS BENEFÍCIOS RECEBIDOS PELO CLIENTE SOB A GARANTIA LIMITADA DE UM ANO DA APPLE, O APPLECARE+, O APPLECARE PROTECTION PLAN OU LEIS APLICÁVEIS DE PROTEÇÃO AO CONSUMIDOR SÃO REGIDOS PELOS RESPECTIVOS TERMOS DA GARANTIA, DO CONTRATO DE SERVIÇO APPLECARE OU PELA REGULAMENTAÇÃO DA LEI DO CONSUMIDOR.   COM RELAÇÃO AOS SERVIÇOS DE SUPORTE REGIDOS POR ESTES TERMOS E CONDIÇÕES, SE O CLIENTE NÃO CONCORDAR COM ESTES TERMOS E CONDIÇÕES, O CLIENTE NÃO DEVE ENTRAR EM CONTATO COM A APPLE OU REGISTRAR O PLANO DE SERVIÇO. PARA CANCELAR UM PLANO DE SERVIÇO ADQUIRIDO E RECEBER UM REEMBOLSO DE QUALQUER QUANTIA PAGA, O CLIENTE DEVERÁ ENTRAR EM CONTATO COM A APPLE, COMO DESCRITO ABAIXO. UM PLANO DE SERVIÇO ENTRARÁ EM VIGOR QUANDO A APPLE ACEITAR O REGISTRO DO CLIENTE (“DATA DE VIGÊNCIA”).
+
+1.	Serviços. Após a aceitação do registro do cliente, a Apple oferecerá serviços de suporte (“Serviços de suporte”) para produtos de software Apple ou tecnologias relacionadas (“Produtos com suporte”) para o plano de serviço aplicável, tudo como descrito na seguinte página on-line: http://www.apple.com/legal/sales-support/applecare/actssgeos.html (“Página de suporte do plano de serviço”). A Apple reserva-se o direito de editar os Serviços de suporte fornecidos e/ou os Produtos com suporte cobertos por um Plano de serviço, a qualquer momento, publicando atualizações na Página de suporte do plano de serviço. A Apple não editará os Serviços de suporte e/ou Produtos com suporte de forma a (i) reduzir o nível de esforço que a Apple oferece sob os Serviços de suporte, (ii) ter um impacto material sobre a obrigação da Apple de fornecer os Serviços de suporte, ou (iii) ter um impacto material sobre os direitos que o Cliente recebe pelos Serviços de suporte. Para quaisquer atualizações que afetem o Plano de serviço do Cliente, a Apple notificará o Cliente da atualização através do endereço de correio eletrônico registrado pelo Cliente num prazo não inferior a 30 (trinta) dias antes da publicação. Os termos descritos na Página de suporte do plano de serviço são incorporados a estes Termos e Condições. Caso existam inconsistências entre os termos deste documento e os termos na Página de suporte do plano de serviço, serão válidos os termos na Página de suporte do plano de serviço.
+
+2.	Limitações. 
+
+2.1	Incidentes de suporte. Os Planos de Serviço são fornecidos em pacotes com um único, vários ou ilimitados Incidentes de suporte. Um Incidente de suporte representa um problema específico e independente cuja origem pode ser isolada a uma única causa. A Apple lançará mão de todos os esforços possíveis para resolver Incidentes de suporte, mas não garante sua resolução. A Apple, a seu exclusivo critério, determinará o que constitui um Incidente de suporte e, nos limites das leis aplicáveis, se o Incidente de suporte foi resolvido. De um modo geral, um Incidente de suporte é resolvido quando o cliente receber: (a) informações que resolvam o problema; (b) informações sobre como obter uma solução de software que resolva o problema; (c) um aviso de que o problema é causado por uma questão conhecida e não resolvida ou por uma questão de incompatibilidade com um Produto com suporte; (d) informações que identifiquem o problema como sendo resolvido efetuando a atualização para uma versão mais recente do Produto com suporte; ou (e) um aviso de que o problema foi identificado como uma questão de equipamento de hardware. Em um Plano de serviço com um número limitado de Incidentes de suporte, cada novo contato de Incidente de suporte iniciado pelo Cliente será subtraído do número restante de Incidentes de suporte qualificados.
+
+2.2	Tempos de resposta. A Apple lançará mão de todos os esforços possíveis para responder a uma solicitação de Serviço de suporte em um espaço de tempo razoável ou no espaço do tempo de resposta descrito em um Plano de serviço aplicável ("Tempo de resposta"), o que ocorrer primeiro, mas não garante que a resposta seja fornecida em um período específico. Todos os Tempos de resposta são medidos de acordo com o Horário de operação do Plano de serviço descrito na Página de suporte do plano de serviço. 
+
+2.3	Versão atual. Salvo indicação em contrário, todos os Produtos com suporte devem encontrar-se no nível da versão mais atual. 
+
+2.4	Utilização. Os Serviços de suporte não se destinam a serem utilizados para a operação de instalações nucleares, navegação de aeronaves, sistemas de comunicação, dispositivos de controle de tráfego aéreo ou outras atividades em que a falha dos Serviços de suporte em alcançar os resultados desejados possa levar à morte, a danos corporais ou a graves danos físicos ou ambientais.
+
+2.5	Contatos técnicos. Os Serviços de suporte são destinados a uma única pessoa ou a várias pessoas designadas pelo Cliente no momento do registro e conforme seja permitido pelo Plano de serviço (“Contato(s) técnico(s)”). Contatos técnicos são os únicos pontos de contato entre o Cliente e a Apple para o suporte técnico do Plano de serviço. No caso de Planos de serviço com vários Contatos técnicos, se o Cliente desejar mudar os Contatos técnicos, deverá enviar à Apple, por escrito, uma notificação da mudança com pelo menos 5 (cinco) dias de antecedência, no Endereço de contato para reembolsos descrito abaixo ou, se for o caso para o Plano de serviço, inserir as mudanças diretamente no site seguro e personalizado do Cliente, como descrito nos documentos de instrução entregues no início do Plano de serviço.
+
+3.	Exclusões. Salvo indicação em contrário no Plano de serviço, a Apple não fornecerá Serviços de suporte relacionados a problemas ou questões derivados de (a) utilização de um Produto com suporte como aplicativo baseado em servidor; (b) questões que poderiam ser resolvidas atualizando um Produto com suporte; (c) utilização ou modificação de um Produto com suporte para um fim a que o Produto com suporte não se destina a ser utilizado ou modificado; (d) produtos ou tecnologias de terceiros e respectivos efeitos sobre ou interações com um Produto com suporte; (e) danos à mídia em que um Produto com suporte é fornecido ou ao computador onde um Produto com suporte é instalado; (f) utilização de um sistema de computador incompatível com um Produto com suporte; e (g) questões relacionadas com a Internet, correio eletrônico, gerenciamento de arquivos, configuração de rede, criação de scripts, criação de scripts FX, programação, compilação, depuração, design de infraestruturas, criação de conteúdo, personalização de conteúdo, planejamento/design de projetos multimídia, gerenciamento de recursos, orçamentos, treinamento, diagnóstico no local ou outras questões fora do âmbito dos Serviços de suporte descritos no Plano de serviço.
+
+4.	Responsabilidades do cliente. Para receber Serviços de suporte, o Cliente deverá registrar o Plano de serviço e seguir as instruções de acesso fornecidas pela Apple. O Cliente é responsável por todas as taxas para estabelecer e manter a comunicação com a Apple por correio eletrônico e telefone. O Cliente cooperará com a Apple ao buscar os Serviços de suporte fornecendo as informações necessárias para ajudar a Apple a diagnosticar um problema. O Cliente é responsável por qualquer restauração ou reconstrução de arquivos, dados ou programas perdidos ou alterados. O Cliente manterá e implementará um plano completo de backup de dados e recuperação de desastres. O Cliente é o único responsável pela segurança de suas informações confidenciais, exclusivas ou secretas. O Cliente não divulgará à Apple informações confidenciais, exclusivas ou quaisquer outras informações sujeitas a direitos de propriedade intelectual que possam expor a Apple à responsabilidade jurídica. O Cliente terá uma compreensão razoável dos Produtos com suporte para os quais procurar Serviço de suporte e o sistema de computador que estiver sendo usado. O Cliente não pode transferir os Serviços de suporte a terceiros. Os Serviços de suporte são fornecidos apenas para uso interno do Cliente e qualquer distribuição não autorizada dos Serviços de suporte constituirá motivo para a rescisão imediata destes Termos e condições. O Cliente adotará medidas razoáveis para evitar a distribuição e a utilização não autorizadas dos Serviços de suporte. O Cliente não receberá ou utilizará os Serviços de suporte de forma abusiva, entre eles, o acesso aos Serviços de suporte para questões que já tenham sido resolvidas. 
+
+5.	Serviços de suporte por acesso remoto. Como parte do Plano de serviço, a Apple poderá fornecer Serviços de suporte por acesso remoto pela Internet, meio pelo qual acessará e, se permitido pelo Cliente, controlará e recolherá informações do computador do Cliente por meio da instalação e do uso de software de acesso remoto. A instalação e o uso do software de acesso remoto pelo Cliente indica a sua permissão para que a Apple forneça Serviços de suporte dessa maneira. Todos os arquivos do software de acesso remoto, ou parte desses arquivos, poderão permanecer no computador do Cliente após o término da sessão do Serviço de suporte. A titularidade do software de acesso remoto e todos os direitos de propriedade intelectual nele incluídos permanecem com a Apple Inc. e/ou seus licenciantes. O uso do software de acesso remoto poderá estar sujeito a termos adicionais de licença disponíveis em http://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf. O Cliente não poderá desmembrar ou utilizar engenharia reversa em nenhuma parte do software de acesso remoto. Apesar de serem oferecidos Serviços de suporte por acesso remoto, a Apple apenas acessará, controlará e recolherá informações do computador do Cliente que acreditar serem necessárias para a análise e para fornecer assistência ao Incidente de suporte. A Apple recomenda que o Cliente encerre todos os arquivos e aplicativos não pertinentes ao Incidente de suporte. O software de acesso remoto ou as características do computador do Cliente permitirão que o Cliente encerre a sessão de Serviço de suporte por acesso remoto a qualquer momento.
+
+Importante: por questões legais e de política, a Apple pode ser obrigada a relatar determinadas imagens às autoridades policiais, caso sejam vistas durante uma sessão.
+
+6.	Renúncia à garantia. EMBORA A APPLE NÃO POSSA GARANTIR QUE UM INCIDENTE DE SUPORTE SEJA RESOLVIDO, A APPLE LANÇARÁ MÃO DE TODOS OS ESFORÇOS POSSÍVEIS PARA REALIZAR SERVIÇOS DE SUPORTE DE ACORDO COM O PLANO DE SERVIÇO DE MODO PROFISSIONAL. ATÉ O ÂMBITO PERMITIDO POR LEI, A GARANTIA EXPRESSA E OS RECURSOS APRESENTADOS SÃO EXCLUSIVOS E SUBSTITUEM QUAISQUER OUTROS RECURSOS, GARANTIAS E CONDIÇÕES, VERBAIS OU ESCRITOS, PREVISTOS POR LEIS, EXPLÍCITOS OU IMPLÍCITOS. DE ACORDO COM O PERMITIDO PELAS LEIS APLICÁVEIS, A APPLE E SEUS LICENCIANTES RENUNCIAM ESPECIFICAMENTE A TODAS E QUAISQUER GARANTIAS PREVISTAS POR LEI OU IMPLÍCITAS, RELACIONADAS OU DE ALGUM MODO DECORRENTES DESTES TERMOS E CONDIÇÕES, INCLUINDO QUALQUER GARANTIA IMPLÍCITA OU GARANTIA DE COMERCIALIZAÇÃO OU ADEQUAÇÃO PARA UMA FINALIDADE ESPECÍFICA. 
+
+7.	Limitação de responsabilidade. ATÉ O ÂMBITO PERMITIDO POR LEI, A RESPONSABILIDADE DA APPLE E DE SEUS LICENCIANTES SOB ESTES TERMOS E CONDIÇÕES LIMITA-SE ÀS QUANTIAS PAGAS PELO CLIENTE PELO PLANO DE SERVIÇO QUE ADQUIRIU. A APPLE E SEUS LICENCIANTES NÃO SERÃO RESPONSABILIZADOS, SOB HIPÓTESE ALGUMA, POR QUAISQUER DANOS INDIRETOS, ESPECIAIS, ACIDENTAIS OU EMERGENTES, ENTRE ELES, DANOS DEVIDO A LUCROS CESSANTES, PERDA DE DADOS, PERDA DE UTILIZAÇÃO, DE EQUIPAMENTO OU DE INSTALAÇÕES OU INTERRUPÇÃO DAS ATIVIDADES, DE ALGUM MODO DECORRENTE DESTES TERMOS E CONDIÇÕES SOB QUALQUER TEORIA DE RESPONSABILIDADE, QUER A APPLE E SEUS LICENCIANTES TENHAM OU NÃO SIDO ALERTADOS PARA A POSSIBILIDADE DE TAL DANO. OUTRAS EXCLUSÕES PODEM ESTAR INCLUÍDAS NOS TERMOS DE LICENCIAMENTO DO SOFTWARE DE ACESSO REMOTO DISPONÍVEIS EM http://www.apple.com/legal/sales-support/remote-support/. SE O CLIENTE ESTIVER RESGUARDADO POR LEIS OU REGULAMENTAÇÃO DE PROTEÇÃO AO CONSUMIDOR EM SEU PAÍS DE COMPRA, OU, SE FOR DIFERENTE, SEU PAÍS DE RESIDÊNCIA, OS BENEFÍCIOS CONFERIDOS POR ESTES TERMOS E CONDIÇÕES COMPLEMENTAM TODOS OS DIREITOS E RECURSOS TRANSMITIDOS POR TAIS LEIS E REGULAMENTAÇÕES DE PROTEÇÃO AO CONSUMIDOR. ALGUNS PAÍSES, ESTADOS E PROVÍNCIAS NÃO PERMITEM A EXCLUSÃO OU LIMITAÇÃO DE DANOS ACIDENTAIS OU EMERGENTES, EXCLUSÕES OU LIMITAÇÕES SOBRE AS GARANTIAS OU CONDIÇÕES IMPLÍCITAS, PORTANTO AS LIMITAÇÕES OU EXCLUSÕES ACIMA MENCIONADAS PODEM NÃO SE APLICAR AO CLIENTE. ESTES TERMOS E CONDIÇÕES CONCEDEM DIREITOS LEGAIS ESPECÍFICOS AO CLIENTE, QUE TAMBÉM PODE TER OUTROS DIREITOS QUE VARIAM DE ACORDO COM O PAÍS, ESTADO OU PROVÍNCIA.
+
+8.	Vigência e rescisão. A não ser que rescindido antecipadamente de acordo com esta seção, um Plano de serviço continuará vigente durante um período de 12 (doze) meses a partir da Data de vigência ou até que se utilizem todos os Incidentes de suporte, o que ocorrer primeiro (salvo se de outro modo autorizado por escrito pela Apple). A Apple não fornecerá Serviço de suporte após o término do Plano de serviço, a não ser que este seja renovado antes ou na data de término da vigência. A Apple poderá rescindir um Plano de serviço a qualquer momento (a) se após fornecer ao Cliente aviso por escrito com pelo menos quinze 15 (quinze) dias de antecedência, o Cliente não pagar as taxas devidas por um Plano de serviço, (b) se após fornecer ao Cliente aviso por escrito com pelo menos 30 (trinta) dias de antecedência, o Cliente não corrigir uma violação destes Termos e condições ou (c) se o Cliente violar um termo de qualquer licença de uso de software que regule a utilização do software fornecido por um Plano de serviço. Salvo quando de outro modo estabelecido por lei e desde que o Cliente não tenha recebido Serviços de suporte, o Cliente poderá cancelar um Plano de serviço por qualquer motivo no prazo de 30 (trinta) dias a partir da data de compra do Plano de serviço ou da Data de vigência, o que ocorrer por último, e receber o reembolso de todas as quantias pagas. As solicitações de reembolso devem ser enviadas por escrito, juntamente com o comprovante de compra aplicável para o Endereço de contato para reembolsos abaixo indicado. As Seções 6, 7 e 12 permanecerão em vigor após o término da vigência destes Termos e condições por qualquer motivo.
+
+9.	Apple; legislação aplicável. A “Apple” está identificada na tabela abaixo de acordo com o país de residência do cliente. FICA ACORDADO QUE ESTES TERMOS E CONDIÇÕES SÃO REGIDOS PELAS LEIS DO PAÍS DE AQUISIÇÃO OU, SE DIFERENTE, DO PAÍS DE RESIDÊNCIA, E OS TRIBUNAIS DOS RESPECTIVOS PAÍSES TERÃO A JURISDIÇÃO SOBRE ESTE CONTRATO. 
+
+10.	Serviços ou software adicionais. Quaisquer serviços adicionais fornecidos como parte do Plano de serviço serão regidos por estes Termos e condições. Caso os Serviços de suporte sejam fornecidos nas instalações de um Cliente como parte de um Plano de serviço, o Cliente assegurará que a Apple tenha acesso às instalações nos horários estabelecidos e proporcionará um ambiente de trabalho seguro que permita à Apple realizar os Serviços de suporte. Caso o software seja fornecido como parte de um Plano de serviço, o software em questão constitui trabalho protegido por direitos autorais da Apple Inc. e/ou dos respectivos licenciantes. O Cliente pode instalar, reproduzir e utilizar o software exclusivamente com o objetivo de suporte aos Produtos com suporte, mas, exceto se permitido pelas leis aplicáveis, não pode decompilar, realizar operações de engenharia reversa, modificar, alugar, arrendar, emprestar ou criar trabalhos derivados do software. Se o software estiver sujeito aos termos de um contrato de licença separado, os termos desse contrato de licença separado regerão a utilização do software. Qualquer software disponibilizado ao governo dos Estados Unidos da América sob estes Termos e condições é classificado como "software de computador restrito" de acordo com a definição da cláusula 52.227-19 do FAR. Os direitos do Governo dos Estados Unidos da América em relação ao software são indicados na cláusula 52.227-19 do FAR.
+
+11.	Proteção de dados. O cliente concorda e compreende que a Apple precisa coletar, processar e utilizar dados do Cliente para realizar o serviço e possibilitar o suporte às obrigações do Plano de serviço. Isto pode incluir transferir dados do Cliente para empresas afiliadas ou prestadores de serviços de acordo com os termos da Política de privacidade da Apple (http://www.apple.com/legal/warranty/privacy). A Apple protegerá as informações do Cliente de acordo com a Política de privacidade da Apple. Se o Cliente quiser acessar suas informações pessoais que estejam de posse da Apple ou se ele quiser efetuar alterações, o Cliente poderá atualizar as preferências de contato pessoais acessando a página da web de Atualização de privacidade (http://www.apple.com/contact/myinfo). A Apple poderá registrar parte ou todas as chamadas efetuadas entre o Cliente e a Apple com os objetivos de treinamento, garantia de qualidade e referência.
+
+12.	Disposições gerais. O Cliente não pode ceder seus direitos ou obrigações decorrentes de um Plano de serviço. Qualquer cessão não autorizada será considerada nula. A Apple não será responsabilizada por atrasos no desempenho ou ausência de desempenho devido a causas fora do seu controle razoável. Uma isenção de responsabilidade por qualquer violação sob estes Termos e condições não constitui uma isenção de responsabilidade para qualquer violação subsequente. Se um juízo competente considerar qualquer disposição destes Termos e condições inválida ou inaplicável, o restante permanecerá em vigor, e as partes substituirão a disposição inválida ou inaplicável por uma disposição válida e aplicável que reflita a intenção original das partes e o efeito econômico dos Termos e condições. Estes Termos e condições, inclusive qualquer termo adicional incluído aqui como referência, constituem o Contrato completo entre a Apple e o Cliente em relação ao Plano de serviço e aos Serviços de suporte fornecidos e substituem todas as negociações, todos os contratos e todos os acordos anteriores que dizem respeito ao assunto, e nenhuma adição, exclusão ou modificação das disposições aqui contidas criarão obrigações legais para a Apple, a menos que estejam por escrito e sejam assinadas por um representante autorizado da Apple. Qualquer termo ou condição em qualquer ordem ou outro documento enviado pelo Cliente não terá qualquer valor ou efeito e será especificamente rejeitado. 
+
+VARIAÇÕES DE PAÍSES
+
+As seguintes variações de países prevalecerão em caso de inconsistência com qualquer outra disposição deste Plano:
+
+AUSTRÁLIA
+
+Os direitos descritos nestes termos e condições em relação a devoluções, reembolsos e garantias complementam os direitos previstos por lei a que você pode ter direito de acordo com a Lei de Concorrência e do Consumidor (Competition and Consumer Act), de 2010, e outras leis e regulamentações aplicáveis de proteção ao consumidor australiano.
+
+BÉLGICA
+
+O Cliente compreende que ao entrar em contato com a Apple para obter Serviços de suporte, não estará exercendo qualquer direito relativamente a um contrato de vendas anteriormente concluído de acordo com o artigo 94 ter. da Lei de Práticas Comerciais (Trade Practices Act), de 14 de julho de 1991.
+
+ALEMANHA
+
+Cláusula 7. Limitação de responsabilidade. Com relação aos Clientes que sejam consumidores, é aplicável o seguinte: a Apple será responsável por perdas sob os termos do Plano de serviço apenas de acordo com as seguintes disposições: (i) responsabilidade ilimitada por perdas causadas intencionalmente ou por negligência grave, (ii) responsabilidade ilimitada por morte, danos pessoais ou danos à saúde causados intencionalmente ou por negligência, (iii) perdas derivadas da falta de quaisquer características garantidas até ao valor coberto pelo objetivo da garantia previsíveis para a Apple quando do fornecimento da garantia, (iv) de acordo com a Lei de Responsabilidade do Produto (Product Liability Act) no caso de responsabilidade do produto, ou (v) perdas causadas pela violação dos deveres básicos da Apple que formam a essência do Plano de serviço, que foram decisivos para a conclusão do Plano de serviço e em que o Cliente pode confiar. Exclui-se uma responsabilidade mais extensa por parte da Apple.
+
+ITÁLIA
+
+Cláusula 4. Responsabilidades do cliente. O seguinte é adicionado à cláusula 4:
+
+Os custos de comunicação por correio eletrônico e telefone são aqueles aplicados pelo fornecedor de serviços telefônicos/internet.
+
+NORUEGA
+
+Cláusula 8. Vigência e rescisão: O seguinte é adicionado à cláusula 8: 
+
+Se for consumidor, considere que o seu direito de arrependimento de acordo com a lei norueguesa relativa ao direito de arrependimento de uma venda (Lei de 21 Dezembro de 2000 n.º 105), é tido em conta na Seção 8, Vigência e rescisão. 
+
+SUÉCIA
+
+Cláusula 1. Serviços. O seguinte é adicionado à cláusula 1:
+
+Se as alterações efetuadas aos Serviços de suporte prejudicarem materialmente o Cliente, ele terá o direito de rescindir o Plano de serviço de acordo com as disposições indicadas na Seção 8 abaixo.
+
+Cláusula 8. Vigência e rescisão. A frase "Se a Apple efetuar alterações aos Serviços de suporte que prejudiquem materialmente o Cliente, como, por exemplo, o cancelamento dos serviços de suporte relativos ao produto do Cliente, o Cliente tem o direito de rescindir o Plano de serviço e receber o reembolso do valor equivalente ao prazo de vigência restante do Plano de serviço", é adicionada após "Salvo quando de outro modo estabelecido por lei e desde que o Cliente não tenha recebido Serviços de suporte, o Cliente poderá cancelar um Plano de serviço por qualquer motivo no prazo de 30 (trinta) dias a partir da data de compra do Plano de serviço ou da Data de vigência, o que ocorrer por último, e receber o reembolso de todas as quantias pagas".
+
+Região/país de compra
+Apple
+Endereço
+Américas
+
+
+Brasil
+Apple Computer Brasil Ltda.
+Rua: Leopoldo Couto Magalhães Júnior, nº 700, 7º andar, São Paulo, SP, Brasil 
+04542-000
+SAC: 0800-761-0880
+http://www.apple.com/br/support
+Canadá
+Apple Canada Inc.
+7495 Birchmount Rd.; Markham, Ontario, Canada; L3R 5G2 Canada
+México
+Apple Operations Mexico, S.A. de C.V.
+Prolongación Paseo de la Reforma #600, Suite 132, Colonia Peña Blanca, Santa Fé, Delegación Álvaro Obregón, México D. F., CP 01210, Mexico
+Estados Unidos e outros países americanos
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, U.S.A.
+Europa, Oriente Médio e África
+
+
+Federação Russa
+Limited Liability Company Apple Rus
+5 Petrovka Street, Berlin House Business Center, 107031, Moscow, Russian Federation
+Turquia
+Apple Teknoloji ve Satış Limited Şirketi
+FSM Mahallesi Poligon Caddesi Buyaka 2 Sitesi No:8, Blok No.2 (C Blok) Kat:18 34471 Ümraniye İstanbul, Turkey
+Todos os outros países
+Apple Distribution International
+Hollyhill Industrial Estate Hollyhill, Cork, Republic of Ireland
+Ásia-Pacífico
+
+
+Austrália; Nova Zelândia; Fiji, Papua-Nova Guiné; Vanuatu
+Apple Pty. Limited.
+PO Box A2629, Sydney South, NSW 1235, Australia Tel: 133 622
+Hong Kong
+Apple Asia Limited
+2401 Tower One, Times Square, Causeway Bay; Hong Kong
+Índia
+Apple India Private Ltd..
+19th Floor, Concorde Tower C, UB City No 24, Vittal Mallya Road, Bangalore 560-001, India
+Japão
+Apple Japan Inc.
+6-10-1 Roppongi, Minato-ku Tokyo 106-6140, Japan
+Coreia
+Apple Korea Ltd.
+3901, ASEM Tower; 159, Samsung-dong, Gangnam-Gu; Seoul 135-798, Republic of Korea
+Afeganistão, Bangladesh, Butão, Brunei, Camboja, Guam, Indonésia, Laos, Cingapura, Malásia, Nepal, Paquistão, Filipinas, Sri Lanka, Vietnã
+Apple South Asia Pte. Ltd.
+7 Ang Mo Kio Street 64
+Singapore 569086
+
+República Popular da China
+Apple Computer Trading (Shanghai) Co. Ltd. 
+Units 610-13 on partial Floor 6, HSBC Building (i.e., Tower A), Shanghai ifc, 8 Century Avenue, Pudong New Area, Shanghai, China
+Tailândia
+Apple South Asia (Thailand) Limited
+44th Floor, Room No. HH4401-6, The Offices at Central World, 999/9 Rama 1 Road, Pathumwan, Pathumwan, Bangkok 10330 Thailand
+Taiwan
+Apple Asia LLC
+19F., No.1, Songzhi Rd., Xinyi Dist., Taipei City 110, Taiwan
+Outros países do Pacífico Asiático
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, U.S.A.
+
+071814 Tech Support Brazilian Portuguese v1.8

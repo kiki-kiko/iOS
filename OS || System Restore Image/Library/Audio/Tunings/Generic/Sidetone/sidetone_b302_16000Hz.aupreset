@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>AAAAAAAAAAAAAAAQAAAAAMIAAAAAAAPoAAAAAAAAB9BAAAAAAAALuENIAAAAAA+gwMAAAAAAE4g/AAAAAAAD6QAAAAAAAAfRP4AAAAAAC7lF3eAAAAAPoUDAAAAAABOJPwAAAAAAA+o/gAAAAAAH0gAAAAAAAAu6RHoAAAAAD6IAAAAAAAATij8AAAA=</data>
+	<key>manufacturer</key>
+	<integer>1634758764</integer>
+	<key>name</key>
+	<string>sidetone_b302_16000Hz</string>
+	<key>subtype</key>
+	<real>1936286821</real>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

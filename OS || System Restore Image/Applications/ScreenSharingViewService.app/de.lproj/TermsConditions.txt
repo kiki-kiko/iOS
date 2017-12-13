@@ -1,0 +1,144 @@
+Technischer Support AppleCare
+
+Vertragsbedingungen
+
+DURCH DIE KONTAKTAUFNAHME MIT APPLE IM HINBLICK AUF DIE ERBRINGUNG VON SUPPORTLEISTUNGEN IM RAHMEN EINES NACHSTEHEND BEZEICHNETEN SERVICEPLANS („SERVICEPLAN“) ODER DURCH DEN ABSCHLUSS EINES SERVICEPLANS MIT APPLE ERKLÄRT SICH DIE BETREFFENDE NATÜRLICHE ODER JURISTISCHE PERSON („KUNDE“) DAMIT EINVERSTANDEN, DASS DIE ERBRINGUNG VON SUPPORTLEISTUNGEN IM RAHMEN DES BETREFFENDEN SERVICEPLANS DEN NACHSTEHENDEN VERTRAGSBEDINGUNGEN („VERTRAGSBEDINGUNGEN“) UNTERLIEGT. SUPPORTLEISTUNGEN, DIE ZUR UNTERSTÜTZUNG EINER VOM KUNDEN ERHALTENEN LEISTUNG IN BEZUG AUF DIE EINJÄHRIGE BESCHRÄNKTE APPLE-GARANTIE, APPLECARE+, APPLECARE PROTECTION PLAN ODER GELTENDE VERBRAUCHERSCHUTZGESETZE ERBRACHT WERDEN, UNTERLIEGEN JEDOCH DEN BEDINGUNGEN DER BETREFFENDEN GARANTIE, DES JEWEILIGEN APPLECARE SERVICEPLANS BZW. DER BETREFFENDEN VERBRAUCHERSCHUTZGESETZE.   EIN KUNDE, DER IN BEZUG AUF SUPPORTLEISTUNGEN, DIE DEN GENANNTEN VERTRAGSBEDINGUNGEN UNTERLIEGEN, NICHT MIT DIESEN VERTRAGSBEDINGUNGEN EINVERSTANDEN IST, SOLLTE APPLE NICHT KONTAKTIEREN BZW. DEN SERVICEPLAN NICHT REGISTRIEREN. ZUR STORNIERUNG EINES ABGESCHLOSSENEN SERVICEPLANS UND ZUR RÜCKERSTATTUNG BEREITS GELEISTETER ZAHLUNGEN MUSS DER KUNDE APPLE WIE NACHSTEHEND BESCHRIEBEN KONTAKTIEREN. EIN SERVICEPLAN TRITT MIT DER ANNAHME DER KUNDENREGISTRIERUNG DURCH APPLE IN KRAFT („DATUM DES INKRAFTTRETENS“).
+
+1.	Serviceleistungen. Ab dem Zeitpunkt der Annahme der Kundenregistrierung erbringt Apple Supportleistungen („Supportleistungen“) für Apple-Softwarepodukte oder verwandte Technologien („unterstützte Produkte“) im Rahmen des jeweiligen Serviceplans gemäß den Angaben auf der folgenden Website: http://www.apple.com/legal/sales-support/applecare/actssgeos.html („Serviceplan-Support-Seite“). Apple behält sich das Recht vor, die im Rahmen eines Serviceplans erbrachten Supportleistungen und/oder die unterstützten Produkte jederzeit zu ändern, indem die Serviceplan-Support-Seite entsprechend aktualisiert wird. Apple wird keine Änderung an den Supportleistungen und/oder unterstützten Produkten vornehmen, die (i) den Umfang der im Rahmen der Supportleistungen erbrachten Leistungen verringert oder (ii) die Verpflichtung von Apple zur Erbringung der Supportleistungen wesentlich beeinträchtigt oder (iii) den Anspruch des Kunden auf die Supportleistungen wesentlich beeinträchtigt. Bei jeder Aktualisierung, die den Serviceplan des Kunden betrifft, wird Apple den Kunden mindestens dreißig (30) Tage im Voraus per E-Mail an die mitgeteilte E-Mail-Adresse in Kenntnis setzen. Die auf der Serviceplan-Support-Seite aufgeführten Bestimmungen sind Bestandteil dieser Vertragsbedingungen. Sollten die in diesem Dokument und die auf der Serviceplan-Support-Seite aufgeführten Bestimmungen in Widerspruch zueinander stehen, so haben die Bestimmungen auf der Serviceplan-Support-Seite Vorrang.
+
+2.	Einschränkungen. 
+
+2.1	Supportfälle. Servicepläne werden als Pakete über einzelne, mehrere oder unbegrenzte Supportleistungen angeboten. Ein Supportfall ist ein spezifisches, abgegrenztes Problem, dessen Ursprung auf eine einzelne Ursache zurückgeführt werden kann. Apple bemüht sich auf angemessene Weise um die Lösung jedes einzelnen Supportfalls, ohne jedoch die Lösung der Supportfälle zu garantieren. Apple legt nach eigenem Ermessen fest, was einen Supportfall darstellt und, soweit gesetzlich zulässig, ob er als gelöst erachtet wird. Generell gilt ein Supportfall als gelöst, wenn der Kunde: (a) Informationen zur Behebung des Problems, (b) Informationen zum Erhalt einer Softwarelösung zur Behebung des Problems, (c) eine Mitteilung, dass das Problem auf ein bekanntes, ungelöstes Problem oder eine Inkompatibilität mit einem unterstützten Produkt zurückzuführen ist, (d) die Mitteilung, dass das Problem durch Upgrade auf eine neuere Release des unterstützten Produkts gelöst werden kann, oder (e) die Mitteilung, dass das Problem als Hardwareproblem identifiziert wurde, erhält. Im Rahmen eines Serviceplans, der eine beschränkte Anzahl an Supportfällen abdeckt, verringert jeder neue, vom Kunden gemeldete Supportfall die verbleibende Anzahl der vom Vertrag abgedeckten Supportfälle.
+
+2.2	Reaktionszeiten. Apple bemüht sich nach Kräften um die Bearbeitung von Supportanfragen innerhalb einer zumutbaren Frist oder innerhalb der im betreffenden Serviceplan aufgeführten Reaktionszeit („Reaktionszeit”), je nachdem, welche Frist die kürzere ist, garantiert jedoch keine Antwort innerhalb einer bestimmten Frist. Sämtliche Antwortzeiten werden anhand der auf der Serviceplan-Support-Seite aufgeführten Arbeitszeiten gemessen. 
+
+2.3	Aktuelle Release. Sofern nicht anders festgelegt, müssen sämtliche unterstützten Produkte der jeweils neuesten Release entsprechen. 
+
+2.4	Einsatz. Supportleistungen werden nicht für den Einsatz in Atomanlagen, Flugzeugnavigationssystemen, Kommunikationssystemen, Luftverkehrskontrollanlagen oder sonstigen Bereichen erbracht, in denen die Erbringung einer Supportleistung ohne das gewünschte Ergebnis zu Todesfällen, Personenschäden oder schweren Sach- oder Umweltschäden führen könnte.
+
+2.5	Technische Ansprechpartner. Supportleistungen werden gemäß den Bestimmungen des Serviceplans („Technische Ansprechpartner“) für eine einzelne Person oder für mehrere Personen erbracht, die vom Kunden zum Zeitpunkt der Anmeldung angegeben wurden. Technische Ansprechpartner sind die einzigen Verbindungspersonen zwischen dem Kunden und Apple, was den technischen Support im Rahmen des Serviceplans betrifft. Bei Serviceplänen mit mehreren technischen Ansprechpartnern muss der Kunde etwaige Änderungswünsche in Bezug auf technische Ansprechpartner schriftlich mindestens fünf (5) Tage vor Inkrafttreten der Änderungen unter der jeweiligen, unten genannten Kontaktadresse für Rückerstattungen bei Apple melden. Falls dies beim betreffenden Serviceplan vorgesehen ist, können solche Änderungen auch gemäß der Beschreibung in den Anweisungsdokumenten, die zu Beginn des Serviceplans bereitgestellt wurden, direkt über die abgesicherte, personalisierte Kundenwebsite eingegeben werden.
+
+3.	Ausschlüsse. Sofern im Serviceplan nicht anders festgelegt, erbringt Apple keine Supportleistungen in Bezug auf Probleme oder Fragen, die aus folgenden Bereichen stammen: (a) Einsatz eines unterstützten Produkts als serverbasierte Anwendung, (b) Fragen, die durch Upgrade eines unterstützten Produkts gelöst werden könnten, (c) Einsatz oder Modifizierung eines unterstützten Produkts auf eine Art und Weise, die für das unterstützte Produkt nicht vorgesehen ist, (d) Produkte oder Technologien von Drittanbietern sowie deren Auswirkungen auf oder Interaktion mit einem unterstützten Produkt, (e) Beschädigung der Medien, auf denen ein unterstütztes Produkt geliefert wird, oder des Computers, auf dem es installiert ist, (f) Einsatz eines Computersystems, das mit dem unterstützten Produkt inkompatibel ist, sowie (g) Fragen hinsichtlich Internet, E-Mail, Dateimanagement, Netzwerkkonfiguration, Scripts, FX-Scripts, Programmierung, Kompilierung, Debugging, Infrastrukturauslegung, Schaffung und Personalisierung von Content, Planung/Auslegung von Multimedia­Projekten, Ressourcenmanagement, Budgetierung, Schulung, Vor-Ort-Diagnose oder sonstige Fragen, die nicht in den Geltungsbereich der im Rahmen eines Serviceplans definierten Supportleistungen fallen.
+
+4.	Aufgaben des Kunden. Um Supportleistungen zu erhalten, muss der Kunde den Serviceplan registrieren und die von Apple erhaltenen Zugriffsanweisungen befolgen. Sämtliche Kosten für E-Mail-und Telefonkontakte mit Apple gehen zu Lasten des Kunden. Bei Inanspruchnahme von Supportleistungen ist der Kunde zur Kooperation mit Apple verpflichtet, indem er die für Apples Diagnose erforderlichen Informationen bereitstellt. Die Wiederherstellung oder Instandsetzung verlorener oder veränderter Dateien, Daten oder Programme ist Sache des Kunden. Der Kunde ist zur Implementierung und stetigen Aktualisierung einer vollständigen Datensicherung und eines Systems zur Wiederherstellung der Daten nach Datenverlust verpflichtet. Für die Sicherheit seiner vertraulichen, internen oder als sensibel eingestuften Daten ist ausschließlich der Kunde verantwortlich. Der Kunde verpflichtet sich, Apple keine vertraulichen, proprietären oder sonstigen Informationen zu übermitteln, die dem Urheberrecht unterliegen und die Apple möglicherweise Haftungsansprüchen aussetzen. Der Kunde benötigt hinreichende Kenntnisse der unterstützten Produkte, für die er Supportleistungen in Anspruch nehmen möchte, sowie des Computersystems, auf dem diese betrieben werden. Der Kunde ist nicht zur Übertragung von Supportleistungen an Dritte berechtigt. Die Supportleistungen werden ausschließlich für interne Zwecke des Kunden erbracht; eine nicht genehmigte Weitergabe der Supportleistungen stellt einen gerechtfertigten Grund für die fristlose Kündigung dieser Vertragsbedingungen dar. Der Kunde ist verpflichtet, geeignete Maßnahmen zur Verhinderung der nicht genehmigten Weitergabe und Verwendung der Supportleistungen zu ergreifen. Eine missbräuchliche Anforderung oder Nutzung von Supportleistungen, einschließlich aber nicht beschränkt auf den Zugriff auf Supportleistungen wegen bereits gelöster Probleme, ist nicht zulässig. 
+
+5.	Supportleistungen per Fernzugriff. Im Rahmen eines Serviceplans ist Apple berechtigt, Supportleistungen per Fernzugriff über das Internet zu erbringen. Dabei greift Apple mithilfe der Installation und Nutzung von Fernzugriffssoftware auf Daten auf dem Computer des Kunden zu und steuert und sammelt diese, falls der Kunden dem zustimmt. Mit der Installation und Nutzung der Fernzugriffssoftware durch den Kunden erteilt dieser Apple seine Genehmigung, Supportleistungen in dieser Weise zu erbringen. Teile der Dateien der Fernzugriffssoftware oder die gesamten Dateien der Fernzugriffssoftware verbleiben möglicherweise auf dem Computer des Kunden, nachdem die Supportsitzung beendet ist. Die Eigentumsrechte und alle Urheberrechte an der Fernzugriffssoftware verbleiben bei Apple Inc. und/oder den Lizenzgebern von Apple. Die Nutzung entsprechender Fernzugriffssoftware unterliegt möglicherweise zusätzlichen Lizenzbedingungen, die unter http://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf eingesehen werden können. Der Kunde ist nicht berechtigt, Teile der Fernzugriffssoftware zu disassemblieren oder per Reverse Engineering umzuwandeln. Während Supportleistungen per Fernzugriff erbracht werden, greift Apple ausschließlich auf solche Daten auf dem Computer des Kunden zu und steuert und sammelt diese, die im angemessenen Ermessen von Apple erforderlich sind, um den Supportfall zu analysieren und Unterstützung zu leisten. Apple empfiehlt dem Kunden, alle Dateien und Anwendungen zu schließen, die nicht mit dem Supportfall in Zusammenhang stehen. Die Fernzugriffssoftware bzw. die Funktionen des Computers des Kunden gestatten es dem Kunden, die Fernzugriff-Supportsitzung jederzeit zu beenden.
+
+Wichtig: Apple ist aufgrund von Gesetzen und Vorschriften möglicherweise verpflichtet, bestimmte Bildmaterialien, die während einer Sitzung angesehen werden, an Strafverfolgungsbehörden zu melden.
+
+6.	Garantieausschluss. OBWOHL APPLE DIE LÖSUNG EINES SUPPORTFALLS NICHT GARANTIEREN KANN, UNTERNIMMT APPLE ANGEMESSENE ANSTRENGUNGEN, UM DIE SUPPORTLEISTUNGEN IM RAHMEN DES SERVICEPLANS FACHGERECHT ZU ERBRINGEN. IM RAHMEN DER GESETZLICHEN VORSCHRIFTEN WERDEN DIE IN DIESEM DOKUMENT SPEZIFIZIERTEN AUSDRÜCKLICHEN GARANTIE- UND ABHILFEMASSNAHMEN AUF EXKLUSIVER BASIS UND ANSTELLE ALLER SONSTIGEN GARANTIEN, ABHILFEMASSNAHMEN UND BEDINGUNGEN ERBRACHT, UNABHÄNGIG DAVON, OB DIESE MÜNDLICH ODER SCHRIFTLICH, AUSDRÜCKLICH ODER STILLSCHWEIGEND VEREINBART WURDEN ODER GESETZLICH VORGESCHRIEBEN SIND. IM RAHMEN DER GESETZLICHEN VORSCHRIFTEN LEHNEN APPLE UND DIE LIZENZGEBER VON APPLE AUSDRÜCKLICH JEGLICHE GESETZLICHE ODER STILLSCHWEIGENDE GARANTIE IN VERBINDUNG MIT ODER INFOLGE DIESER VERTRAGSBEDINGUNGEN AB, EINSCHLIESSLICH JEGLICHER STILLSCHWEIGENDEN GARANTIE HINSICHTLICH DER MARKTGÄNGIGKEIT ODER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. 
+
+7.	Haftungsbeschränkung. IM RAHMEN DER GESETZLICHEN VORSCHRIFTEN IST DIE HAFTUNG VON APPLE UND DER LIZENZGEBER VON APPLE GEMÄSS DIESEN VERTRAGSBEDINGUNGEN AUF DIE BETRÄGE BEGRENZT, DIE VOM KUNDEN FÜR DEN VON IHM ABGESCHLOSSENEN SERVICEPLAN ENTRICHTET WURDEN. IN KEINEM FALL HAFTEN APPLE UND DIE LIZENZGEBER VON APPLE FÜR INDIREKTE, SPEZIELLE, NEBEN- ODER FOLGESCHÄDEN, EINSCHLIESSLICH ABER NICHT BESCHRÄNKT AUF GEWINNAUSFALL, DATENVERLUST, NUTZUNGSAUSFALL, AUSFALL VON SYSTEMEN ODER EINRICHTUNGEN SOWIE UNTERBRECHUNG DER GESCHÄFTSTÄTIGKEIT, DIE AUF IRGENDEINE WEISE UND WEGEN EINES BELIEBIGEN HAFTUNGSGRUNDES AUF DIESE VERTRAGSBEDINGUNGEN ZURÜCKZUFÜHREN SIND, UNABHÄNGIG DAVON, OB APPLE UND DIE LIZENZGEBER VON APPLE VON DER MÖGLICHKEIT EINES SOLCHEN SCHADENS KENNTNIS HATTEN ODER NICHT. WEITERE AUSSCHLUSSKLAUSELN SIND MÖGLICHERWEISE IN DEN LIZENZBEDINGUNGEN ENTHALTEN, DIE FÜR DIE FERNZUGRIFFSSOFTWARE GILT. DIESE KÖNNEN UNTER http://www.apple.com/legal/sales-support/remote-support/ EINGESEHEN WERDEN. FALLS SIE DEM VERBRAUCHERSCHUTZRECHT ODER VERBRAUCHERSCHUTZVORSCHRIFTEN IN DEM LAND, IN DEM DER IHR KAUF ERFOLGTE BZW. IM LAND IHRES WOHNSITZES UNTERLIEGEN, GELTEN DIE VON DEN BESTIMMUNGEN DER VORLIEGENDEN VERTRAGSBEDINGUNGEN ÜBERTRAGENEN VORTEILE ZUSÄTZLICH ZU ALLEN RECHTEN UND RECHTSMITTELN, DIE DURCH DIE GENANNTEN VERBRAUCHERSCHUTZRECHTE UND VERBRAUCHERSCHUTZBESTIMMUNGEN GEWÄHRT WERDEN. IN MANCHEN LÄNDERN, BUNDESSSTAATEN ODER PROVINZEN IST DER AUSSCHLUSS ODER DIE BEGRENZUNG VON NEBEN- ODER FOLGESCHÄDEN ODER DER AUSSCHLUSS ODER DIE BEGRENZUNG VON STILLSCHWEIGENDEN GEWÄHRLEISTUNGEN ODER BEDINGUNGEN UNTERSAGT, SO DASS VORGENANNTE BESCHRÄNKUNGEN ODER AUSSCHLÜSSE UNTER UMSTÄNDEN KEINE ANWENDUNG AUF DEN KUNDEN FINDEN. DIESE VERTRAGSBEDINGUNGEN GEWÄHREN DEM KUNDEN SPEZIELLE RECHTE, WOBEI DEM KUNDEN EVENTUELL NOCH ANDERE RECHTE ZUSTEHEN, DIE JE NACH LAND, BUNDESSTAAT ODER PROVINZ VARIIEREN KÖNNEN.
+
+8.	Gültigkeitsdauer und Beendigung. Sofern ein Serviceplan nicht gemäß den Bestimmungen dieses Abschnitts vorzeitig gekündigt wird, bleibt er für eine Dauer von zwölf (12) Monaten ab dem Datum des Inkrafttretens bzw. solange in Kraft, bis sämtliche von ihm abgedeckten Supportfälle in Anspruch genommen wurden, je nachdem, welches Ereignis zuerst eintritt (sofern nicht von Apple schriftlich anders genehmigt). Apple wird nach Ablauf des Serviceplans keine Supportleistungen erbringen, falls der Serviceplan nicht bis zum Ablauf des Serviceplans verlängert wurde. Apple kann einen Serviceplan jederzeit kündigen, wenn (a) der Kunde nach einer mindestens fünfzehn (15) Tage vorher erfolgten schriftlichen Mitteilung die für einen Serviceplan fälligen Kosten nicht entrichtet oder (b) nach einer mindestens dreißig (30) Tage vorher erfolgten schriftlichen Mitteilung eine Verletzung dieser Vertragsbedingungen nicht behebt oder (c) der Kunde eine Bestimmung eines Software-Lizenzvertrags, dem eine im Rahmen eines Serviceplans bereitgestellte Software unterliegt, verletzt. Sofern nicht anderslautende gesetzliche Vorschriften dem entgegenstehen und der Kunde keine Supportleistungen in Anspruch genommen hat, kann der Kunde einen Serviceplan aus beliebigem Grund innerhalb von dreißig (30) Tagen ab dem Datum des Abschlusses oder dem Datum des Inkrafttretens kündigen, je nachdem welches Datum später eintritt, wobei ihm sämtliche gezahlten Beträge zurückerstattet werden. Anträge auf Rückerstattung sind schriftlich zu stellen, wobei ein Nachweis über den Abschluss des Vertrags an nachstehend bezeichnete Stelle für die Rückerstattung bereits entrichteter Beträge zu senden ist. Die Abschnitte 6, 7 und 12 behalten auch nach Beendigung der vorliegenden Vertragsbedingungen aus jedwedem Grund ihre Gültigkeit.
+
+9.	Apple; anwendbares Recht. „Apple“ wird in der folgenden Tabelle gemäß dem Land Ihres Wohnsitzes aufgeführt. ES WIRD VEREINBART, DASS DIESE VERTRAGSBEDINGUNGEN DEM RECHT DESJENIGEN LANDES UNTERLIEGEN, IN DEM DER ERWERB ERFOLGTE, ODER, FALLS ABWEICHEND, DESJENIGEN LANDES, IN DEM DER WOHNSITZ LIEGT. DIE GERICHTE DER JEWEILIGEN LÄNDER SIND FÜR DIE RECHTSPRECHUNG ZUSTÄNDIG. 
+
+10.	Zusätzliche Serviceleistungen oder Software. Jegliche zusätzlichen im Rahmen eines Serviceplans erbrachten Serviceleistungen unterliegen diesen Vertragsbedingungen. Bei der Erbringung von Supportleistungen im Rahmen eines Serviceplans in den Räumlichkeiten des Kunden stellt der Kunde sicher, dass Apple zum vereinbarten Zeitpunkt Zutritt zu diesen Räumlichkeiten erhält, und gewährleistet ein für die Erbringung der Supportleistungen hinreichend sicheres Arbeitsumfeld. Bei der Bereitstellung von Software im Rahmen eines Serviceplans unterliegt diese Software dem Schutz des Urheberrechts von Apple Inc. und/oder ihrer Lizenzgeber. Der Kunde ist zur Installation, Vervielfältigung und Nutzung der Software ausschließlich zum Zwecke der Unterstützung der unterstützten Produkte berechtigt, darf jedoch, sofern dies gemäß geltender Gesetze nicht ausdrücklich zugelassen ist, die Software nicht dekompilieren, rückentwickeln, modifizieren, vermieten, verleasen, ausleihen oder als Basis für Ableitungen verwenden. Unterliegt die Software einem separaten Lizenzvertrag, so unterliegt auch ihre Nutzung diesem separaten Lizenzvertrag. Jegliche Software, die gemäß diesen Vertragsbedingungen der Regierung der Vereinigten Staaten von Amerika zur Verfügung gestellt wird, gilt „als Computersoftware mit eingeschränkten Rechten“ gemäß Definition in Klausel 52.227-19 der FAR. Die Rechte der Regierung der Vereinigten Staaten von Amerika auf die Nutzung der Software sind in Klausel 52.227-19 der FAR spezifiziert.
+
+11.	Datenschutz. Der Kunde nimmt zur Kenntnis und erklärt sich damit einverstanden, dass die Erfassung, Verarbeitung und Nutzung der Kundendaten zur Erbringung der Serviceleistungen und zur Erfüllung der Supportverpflichtungen im Rahmen des Serviceplans für Apple erforderlich sind. Dies kann die Weitergabe von Kundendaten an verbundene Unternehmen oder Service Provider in Übereinstimmung mit der Datenschutzrichtlinie von Apple (http://www.apple.com/legal/warranty/privacy) umfassen. Apple verpflichtet sich zum Schutz der Kundendaten gemäß der Datenschutzrichtlinie von Apple. Wünscht der Kunde Zugriff auf die von Apple über ihn gespeicherten Daten oder eine Änderung dieser Daten, kann er diese durch den Zugriff auf die Website zur Aktualisierung seiner personenbezogenen Daten (http://www.apple.com/contact/myinfo) ändern. Apple ist zur Speicherung aller oder eines Teils der Kontakte zwischen dem Kunden und Apple zu Zwecken der Schulung, der Qualitätssicherung und der späteren Bezugnahme berechtigt.
+
+12.	Allgemeines. Der Kunde ist nicht zur Abtretung seiner Rechte oder Pflichten in Verbindung mit einem Serviceplan berechtigt. Unbefugte Abtretungen sind nichtig. Apple haftet nicht für die Leistungsverzögerungen oder die Nichterbringung von Leistungen, deren Ursachen sich ihrem Einfluss entziehen. Eine Verzichterklärung in Bezug auf etwaige Verstöße oder Mängel im Rahmen der vorliegenden Vertragsbedingungen stellt keine Verzichterklärung bezüglich nachfolgender Verstöße oder Mängel dar. Wenn ein zuständiges Gericht befindet, dass Bedingungen der vorliegenden Vertragsbedingungen ungültig oder unwirksam sind, bleiben die übrigen Bestimmungen uneingeschränkt gültig. Die Parteien ersetzen dann die ungültigen bzw. unwirksamen Bestimmungen durch gültige, wirksame Bestimmungen, die den ursprünglichen Absichten der Parteien und den intendierten wirtschaftlichen Auswirkungen der ungültigen bzw. unwirksamen Vertragsbedingungen entsprechen. Die vorliegenden Vertragsbedingungen sowie etwaige zusätzliche Bedingungen, auf die in der vorliegenden Vereinbarung verwiesen wird, stellen die gesamte Vereinbarung zwischen Apple und Ihnen in Bezug auf den Serviceplan und die Supportleistungen dar. Sie ersetzen alle vorherigen Verhandlungen, Vereinbarungen und Absprachen zu den betreffenden Sachverhalten. Etwaige Zusätze oder Streichungen sowie Änderungen an den betreffenden Bestimmungen sind für Apple nicht bindend, wenn diese nicht schriftlich durchgeführt und von einem autorisierten Vertreter von Apple unterzeichnet wurden. Etwaige eigene Bedinungen des Kunden in Bestellungen oder anderen Dokumenten entfalten keinerlei rechtliche Wirkung und werden ausdrücklich abgelehnt. 
+
+ABWEICHENDE BEDINGUNGEN FÜR VERSCHIEDENE LÄNDER
+
+Die folgenden länderspezifischen Bestimmungen finden Anwendung, soweit sie von vorstehenden Bestimmungen abweichen:
+
+AUSTRALIEN
+Die in den vorliegenden Vertragsbedingungen beschriebenen Rechte in Bezug auf Rückgabe, Kaufpreiserstattung und Garantien gelten zusätzlich zu den gesetzlichen Rechten, die Ihnen gemäß dem Wettbewerbs- und Verbraucherschutzgesetz von 2010 sowie anderen geltenden australischen Gesetzen und Vorschriften zum Verbraucherschutz zustehen.
+
+BELGIEN
+Der Kunde erkennt an, dass er durch die Kontaktaufnahme mit Apple, um Supportleistungen in Anspruch zu nehmen, seine Rechte aus einem früher geschlossenen Kaufvertrag im Sinne des Artikels 94 Satz 3 des Handelspraktikengesetzes vom 14. Juli 1991 ausübt.
+
+DEUTSCHLAND
+Ziffer 7.  Haftungsbeschränkung. In Bezug auf Kunden, die Verbraucher sind, gilt das Folgende: Apple haftet nach diesem Serviceplan nur nach Maßgabe der folgenden Bestimmungen: (i) unbeschränkte Haftung für vorsätzlich oder grob fahrlässig verursachte Schäden, (ii) unbeschränkte Haftung für vorsätzlich oder fahrlässig verursachte Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, (iii) für Schäden aufgrund fehlender garantierter Eigenschaften bis zu dem Betrag, der vom Zweck der Garantie umfasst war und der für Apple bei Abgabe der Garantie erkennbar war, (iv) für Produkthaftungsschäden entsprechend der Regelungen im Produkthaftungsgesetz oder (v) für Schäden aus der Verletzung solcher wesentlicher Pflichten, die die Grundlage des Serviceplans bilden, die entscheidend für den Abschluss des Serviceplans waren und auf deren Erfüllung der Kunde vertrauen darf. Eine weitere Haftung von Apple ist dem Grunde nach ausgeschlossen.
+
+ITALIEN
+Ziffer 4.  Aufgaben des Kunden. Ziffer 4 wird um das Folgende ergänzt:
+
+Die Kosten für E-Mail- oder Telefonkorrespondenz entsprechen denjenigen Ihres Service Providers für Telefon- bzw. Internetdienste.
+
+NORWEGEN
+Ziffer 8.  Laufzeit und Kündigung: Der folgende Zusatz gilt für Ziffer 8: 
+
+Wenn Sie ein Verbraucher sind, beachten Sie bitte, dass Ihr Widerrufsrecht nach dem norwegischen Gesetz über das Widerrufsrecht (Gesetz vom 21. Dezember Nr. 105), in Ziffer 8,  Laufzeit und Kündigung, berücksichtigt wird. 
+
+SCHWEDEN
+Ziffer 1.  Serviceleistungen. Ziffer 1 wird um das Folgende ergänzt:
+
+Wenn die vorgenommenen Änderungen an den Supportleistungen für den Kunden mit erheblichen Nachteilen verbunden sind, kann der Kunde den Serviceplan entsprechend Ziffer 8 dieser Vertragsbedingungen kündigen.
+
+Ziffer 8.  Gültigkeitsdauer und Beendigung. Der folgende Satz „Sofern Apple Änderungen an den Supportleistungen vornimmt, die für den Kunden mit erheblichen Nachteilen verbunden sind, z. B. die Streichung der Supportleistungen für das Produkt des Kunden, so ist der Kunde berechtigt, den Serviceplan zu kündigen und eine Rückzahlung entsprechend der verbleibenden Laufzeit des Serviceplans zu verlangen“ wird nach „Sofern nicht anderslautende gesetzliche Vorschriften dem entgegenstehen und der Kunde keine Supportleistungen in Anspruch genommen hat, kann der Kunde einen Serviceplan aus beliebigem Grund innerhalb von dreißig (30) Tagen ab dem Datum des Abschlusses oder dem Datum des Inkrafttretens kündigen, je nachdem welches Datum später eintritt, wobei ihm sämtliche gezahlten Beträge zurückerstattet werden“ eingefügt.
+
+Region/Land des Kaufes
+Apple
+Adresse
+Amerika
+
+
+Brasilien
+Apple Computer Brasil Ltda
+Rua: Leopoldo Couto Magalhães Júnior, nº 700, 7º andar, São Paulo, SP, Brasilien 
+04542-000
+SAC: 0800-761-0880
+http://www.apple.com/br/support
+Kanada
+Apple Canada Inc.
+7495 Birchmount Rd.; Markham, Ontario, Canada; L3R 5G2 Kanada
+Mexiko
+Apple Operations Mexico, S.A. de C.V.
+Prolongación Paseo de la Reforma #600, Suite 132, Colonia Peña Blanca, Santa Fé, Delegación Álvaro Obregón, México D. F., CP 01210, Mexiko
+Vereinigte Staaten und andere Länder auf dem amerikanischen Kontinent
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, USA
+Europa, Naher Osten und Afrika
+
+
+Russische Föderation
+Limited Liability Company Apple Rus
+5 Petrovka Street, Berlin House Business Center, 107031, Moskau, Russische Föderation
+Türkei
+Apple Teknoloji ve Satış Limited Şirketi
+FSM Mahallesi Poligon Caddesi Buyaka 2 Sitesi No:8, Blok No.2 (C Blok) Kat:18 34471 Ümraniye İstanbul, Türkei
+Alle anderen Länder
+Apple Distribution International
+Hollyhill Industrial Estate, Hollyhill, Cork, Republik Irland
+Asien-Pazifik
+
+
+Australien; Neuseeland; Fidschi, Papua New Guinea; Vanuatu
+Apple Pty. Limited.
+PO Box A2629, Sydney South, NSW 1235, Australien Tel.: 133 622
+Hongkong
+Apple Asia Limited
+2401 Tower One, Times Square, Causeway Bay; Hongkong
+Indien
+Apple India Private Ltd..
+19th Floor, Concorde Tower C, UB City No 24, Vittal Mallya Road, Bangalore 560-001, Indien
+Japan
+Apple Japan Inc.
+6-10-1 Roppongi, Minato-ku Tokio 106-6140, Japan
+Korea
+Apple Korea Ltd.
+3901, ASEM Tower; 159, Samsung-dong, Gangnam-Gu; Seoul 135-798, Republik Korea
+Afghanistan, Bangladesch, Butan, Brunei, Kambodscha, Guam, Indonesien, Laos, Singapur, Malaysia, Nepal, Pakistan, Philippinen, Sri Lanka, Vietnam
+Apple South Asia Pte. Ltd.
+7 Ang Mo Kio Street 64
+Singapur 569086
+
+
+Volksrepublik China
+Apple Computer Trading (Shanghai) Co. Ltd. 
+Units 610-13 on partial Floor 6, HSBC Building (Tower A), Shanghai ifc, 8 Century Avenue, Pudong New Area, Schanghai, China
+Thailand
+Apple South Asia (Thailand) Limited
+44th Floor, Room No. HH4401-6, The Offices at Central World, 999/9 Rama 1 Road, Pathumwan, Pathumwan, Bangkok 10330 Thailand
+Taiwan
+Apple Asia LLC
+19F., No.1, Songzhi Rd., Xinyi Dist., Taipei City 110, Taiwan
+Andere Länder im asiatisch-pazifischen Raum
+Apple Inc.
+1 Infinite Loop; Cupertino, CA 95014, USA
+
+071814 Tech Support German v1.8
+

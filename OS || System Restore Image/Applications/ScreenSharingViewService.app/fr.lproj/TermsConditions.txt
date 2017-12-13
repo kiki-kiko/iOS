@@ -1,0 +1,148 @@
+Assistance technique AppleCare
+
+Conditions générales
+
+EN CONTACTANT APPLE POUR LES SERVICES D’ASSISTANCE PROPOSÉS DANS LE CONTRAT D’ASSISTANCE EN RÉFÉRENCE CI-DESSOUS (« CONTRAT D’ASSISTANCE ») OU EN SOUSCRIVANT UN CONTRAT D’ASSISTANCE AVEC APPLE, LE PARTICULIER OU LA PERSONNE MORALE (« CLIENT ») ACCEPTE QUE LES CONDITIONS GÉNÉRALES SUIVANTES (« CONDITIONS GÉNÉRALES ») RÉGISSENT LA PRESTATION DE SERVICES D’ASSISTANCE CORRESPONDANT AU CONTRAT D’ASSISTANCE PRÉVU. VEUILLEZ NOTER, TOUTEFOIS, QUE LES SERVICES D’ASSISTANCE QUI SONT FOURNIS POUR AIDER UN CLIENT BÉNÉFICIANT D’AVANTAGES EN VERTU DE LA GARANTIE LIMITÉE D’UN AN APPLE, D’APPLECARE+, DE L’APPLECARE PROTECTION PLAN OU DU DROIT DE LA CONSOMMATION APPLICABLE SONT RÉGIS PAR LES CONDITIONS DE LA GARANTIE, DU CONTRAT D’ASSISTANCE APPLECARE OU DES RÉGLEMENTATIONS DU DROIT DE LA CONSOMMATION RESPECTIFS.   EU ÉGARD AUX SERVICES D’ASSISTANCE RÉGIS PAR CES CONDITIONS GÉNÉRALES, SI LE CLIENT N’ACCEPTE PAS CES CONDITIONS, IL NE DOIT PAS CONTACTER APPLE OU SOUSCRIRE UN CONTRAT D’ASSISTANCE. POUR ANNULER UN CONTRAT D’ASSISTANCE ET RECEVOIR LE REMBOURSEMENT DE L’ARGENT VERSÉ, LE CLIENT DEVRA CONTACTER APPLE, COMME INDIQUÉ CI DESSOUS. UN CONTRAT D’ASSISTANCE ENTRE EN VIGUEUR À PARTIR DU MOMENT OÙ APPLE ACCEPTE LA SOUSCRIPTION DU CLIENT (« DATE D’ENTRÉE EN VIGUEUR »).
+
+1.	Services. Dès acceptation de la souscription du Client, Apple fournira des services d’assistance (« Services d’assistance ») pour les produits logiciels Apple ou les technologies liées (« Produits assistés ») selon le Contrat d’assistance applicable, le tout tel que décrit dans la page web suivante : http://www.apple.com/legal/sales-support/applecare/actssgeos.html (« Page de support du Contrat d’assistance »). Apple se réserve le droit de modifier, à tout moment, les Services d’assistance fournis et/ou les Produits assistés couverts par un Contrat d’assistance, en insérant des mises à jour dans la Page de support du Contrat d’assistance. Apple ne modifiera pas les Services d’assistance et/ou les Produits assistés d’une manière qui (i) réduirait le niveau de l’effort qu’Apple fournit dans le cadre des Services d’assistance, ou (ii) aurait des conséquences significatives sur son obligation de fournir des Services d’assistance, ou (iii) aurait des conséquences significatives sur les droits dont le Client jouit dans le cadre des Services d’assistance. Pour toute mise à jour affectant le Contrat d’assistance au Client, Apple préviendra le Client au moyen de l’adresse électronique indiquée par le Client au moment de sa souscription, au moins trente (30) jours avant son insertion. Les conditions énoncées dans la Page de support du Service d’assistance sont intégrées aux présentes Conditions générales. En cas de contradiction entre les conditions du présent document et les conditions de la Page de support du Service d’assistance, les conditions figurant dans cette dernière prévaudront.
+
+2.	Restrictions. 
+
+2.1	Cas d’assistance. Les Contrats d’assistance sont fournis par ensembles de Cas d’assistance simples, multiples ou illimités. Un Cas d’assistance est un problème spécifique, distinct, dont l’origine peut être isolée et attribuée à une cause unique. Apple fera des efforts raisonnables pour résoudre un Cas d’assistance mais ne garantit pas que les Cas d’assistance seront résolus. Apple décide à son entière discrétion ce qui constitue un Cas d’assistance et dans les limites autorisées par la loi, si le Cas d’assistance est résolu. En général, un Cas d’assistance est résolu lorsque le Client reçoit l’un des éléments suivants : (a) des informations permettant de résoudre le problème ; (b) des informations permettant d’obtenir un logiciel de résolution du problème ; (c) l’indication que le problème a une cause connue et non résolue ou résulte d’une incompatibilité avec un Produit assisté ; (d) des informations qui signalent une résolution possible du problème par une mise à niveau vers la dernière version du Produit assisté ; ou (e) l’indication que le problème a été identifié comme relevant du matériel. Dans le cadre d’un Contrat d’assistance avec des Cas d’assistance en nombre limité, chaque nouveau contact pour Cas d’assistance établi par un Client réduit le nombre de Cas d’assistance restants.
+
+2.2	Temps de réponse. Apple fera des efforts raisonnables pour répondre à une demande de Service d’assistance dans un délai raisonnable ou dans le délai de réponse prévu dans le Contrat d’assistance applicable (« Temps de réponse »), selon la première éventualité, sans garantir toutefois qu’une réponse sera apportée dans un délai déterminé. Tous les Temps de réponse sont mesurés en fonction des Horaires d’intervention du Service d’assistance indiqués sur la Page de support du Service d’assistance. 
+
+2.3	Dernière version. Sauf indication contraire, tous les Produits assistés doivent être mis à jour vers leur dernière version. 
+
+2.4	Utilisation. Les Services d’assistance ne sont pas censés être utilisés pour l’exploitation d’installations nucléaires, la navigation aéronautique, les systèmes de communication, les instruments de contrôle du trafic aérien ou d’autres secteurs dans lesquels l’incapacité des Services d’assistance à apporter une solution pourrait entraîner la mort, des dommages corporels ou des dégâts matériels ou environnementaux graves.
+
+2.5	Contacts techniques. Les Services d’assistance sont fournis à une seule ou plusieurs personnes désignée(s) par le Client au moment de l’enregistrement et selon ce qui est permis par le Contrat d’Assistance (« Contact(s) techniques »). Les Contacts techniques sont les seuls liens entre le Client et Apple pour l’assistance technique dans le cadre du Contrat d’assistance. Pour les Contrats d’assistance avec plusieurs Contacts techniques, si le Client désire changer de Contact technique, il doit adresser à Apple un préavis écrit de cinq (5) jours au minimum signalant ce changement à l’Adresse de remboursement indiquée ci-dessous ; ou si cela est applicable au Contrat d’assistance, il peut entrer directement les modifications via le site internet Client personnalisé et sécurisé, selon la procédure décrite dans les documents d’informations remis au démarrage du Contrat d’assistance.
+
+3.	Exclusions. Sauf indication contraire du Contrat d’assistance, Apple ne fournit pas de Services d’assistance relatifs à des problèmes ou à des questions découlant de ou ayant trait à (a) l’utilisation d’un Produit assisté comme une application basée sur un serveur ; (b) des problèmes qui pourraient être résolus en mettant à niveau un Produit assisté ; (c) l’utilisation ou la modification d’un Produit assisté autrement que comme il est censé être utilisé ou modifié ; (d) des produits ou technologies de tiers et leurs effets sur les Produits assistés ou leurs interactions avec ces derniers ; (e) des dommages au support sur lequel le Produit assisté est fourni, ou à l’ordinateur sur lequel le Produit Assisté est installé ; (f) l’utilisation d’un système informatique incompatible avec un Produit assisté ; et (g) des problèmes en rapport avec Internet, la messagerie électronique, la gestion des fichiers, la configuration du réseau, le scripting, le scripting FX, la programmation, la compilation, le débogage, la conception d’infrastructure, la création de contenus, la personnalisation de contenus, la conception et la planification de projets multimédias, la gestion de ressources, la budgétisation, la formation, le diagnostic sur site ou d’autres problèmes n’entrant pas dans le champ d’application des Services d’assistance décrits dans un Contrat d’assistance.
+
+4.	Responsabilités du Client.  Pour bénéficier des Services d’assistance, le Client doit souscrire le Contrat d’assistance et suivre les instructions d’accès fournies par Apple. Le Client prend à sa charge tous les coûts d’installation et d’entretien de communications par e-mail et téléphone avec Apple. Le Client coopèrera avec Apple lors d’une demande de Services d’assistance en fournissant les informations nécessaires pour aider Apple à faire le diagnostic d’un problème. Le Client prend à sa charge toute restauration ou reconstitution de dossiers, de données ou de programmes perdus ou modifiés. Le Client doit maintenir et mettre en œuvre un système de sauvegarde de données et un plan de récupération après sinistre complets. Le Client est seul responsable de tous les aspects de sécurité concernant ses informations confidentielles, exclusives ou secrètes. Le Client s’engage à ne pas divulguer à Apple toute information confidentielle, propriétaire ou autre, susceptible d’engager la responsabilité d’Apple au titre des droits de propriété intellectuelle. Le Client doit avoir une connaissance raisonnable des Produits assistés pour lesquels il demande un Service d’assistance et du système informatique sur lequel ils fonctionnent. Le Client ne peut pas transférer des Services d’assistance à un tiers. Les Services d’assistance sont fournis pour l’utilisation interne du seul Client, et toute distribution non autorisée des Services d’assistance justifiera la résiliation immédiate des présentes Conditions générales. Le Client prendra des mesures adaptées pour empêcher la distribution et l’utilisation non autorisées des Services d’assistance. Le Client n’abusera pas de l’utilisation des Services d’assistance, y compris mais sans s’y limiter en y accédant pour des problèmes ayant déjà été résolus. 
+
+5.	Services d’assistance à distance. Dans le cadre du Contrat d’assistance, Apple peut fournir les Services d’assistance à distance via Internet, lui permettant d’accéder aux informations sur l’ordinateur du Client et, sur autorisation de celui-ci, de les contrôler et de les collecter, en installant et en utilisant un logiciel d’accès à distance. L’installation et l’utilisation du logiciel d’accès à distance par le Client indique qu’il autorise Apple à fournir ses Services d’assistance de cette façon. La totalité ou une partie des fichiers du logiciel d’accès à distance peuvent subsister sur l’ordinateur du Client, une fois que l’intervention des Services d’assistance est terminée. Les droits de propriété sur le logiciel d’accès à distance et tous les droits de propriété intellectuelle inclus dans celui-ci demeurent la propriété d’Apple Inc. et/ou de ses concédants de licence. L’utilisation du logiciel d’accès à distance concerné peut être soumise à des conditions de licence supplémentaires, disponibles sur http://images.apple.com/legal/sales-support/applecare/docs/remotesupport_terms.pdf. Le Client n’est pas autorisé à désassembler ni à effectuer de rétro-ingénierie sur une partie quelconque du logiciel d’accès à distance. Dans le cadre des Services d’assistance à distance, Apple s’engage à accéder uniquement aux informations qu’elle juge raisonnablement nécessaires pour analyser le Cas d’assistance et fournir une assistance à cet effet, et à ne contrôler et collecter que ces seules informations. Apple recommande au Client de fermer tous les fichiers et applications sans rapport avec le Cas d’assistance. Le logiciel d’accès à distance ou les caractéristiques de l’ordinateur du Client permettent au Client de mettre fin à l’intervention du Service d’assistance à tout moment.
+
+Important : Apple peut être obligée par la loi et la politique de signaler aux autorités légales certaines images qui pourraient être vues pendant une session.
+
+6.	Clause de non-garantie. APPLE NE GARANTIT PAS QU’UN CAS D’ASSISTANCE SERA RÉSOLU, MAIS ELLE FERA DES EFFORTS RAISONNABLES POUR ASSURER DE MANIÈRE PROFESSIONNELLE LES SERVICES D’ASSISTANCE DANS LE CADRE DU CONTRAT D’ASSISTANCE. DANS LA LIMITE AUTORISÉE PAR LA LOI, LA GARANTIE ET LES RECOURS EXPRESSÉMENT INDIQUÉS CI-APRÈS EXCLUENT ET REMPLACENT TOUS LES AUTRES RECOURS, GARANTIES ET CONDITIONS, TANT ORAUX QU’ÉCRITS, LÉGAUX, EXPRÈS OU IMPLICITES. DANS LA MESURE PERMISE PAR LA LOI APPLICABLE, APPLE ET SES CONCÉDANTS DE LICENCE REJETTENT TOUTE GARANTIE LÉGALE OU IMPLICITE EN RAPPORT AVEC OU DÉCOULANT D’UNE MANIÈRE OU D’UNE AUTRE DES PRÉSENTES CONDITIONS GÉNÉRALES, Y COMPRIS TOUTE GARANTIE IMPLICITE, GARANTIE DE VALEUR MARCHANDE OU D’APTITUDE À UN USAGE PARTICULIER. 
+
+7.	Limitation de responsabilité. DANS LA LIMITE AUTORISÉE PAR LA LOI, LA RESPONSABILITÉ D’APPLE ET DE SES CONCÉDANTS DE LICENCE DANS LE CADRE DES PRÉSENTES CONDITIONS GÉNÉRALES EST LIMITÉE AU  MONTANT PAYÉ PAR LE CLIENT POUR LE CONTRAT D’ASSISTANCE QU’IL A DEMANDÉ. APPLE ET SES CONCÉDANTS NE SERONT EN AUCUN CAS RESPONSABLES D’UN QUELCONQUE DOMMAGE INDIRECT, SPÉCIAL, ACCIDENTEL OU CONSÉCUTIF, Y COMPRIS MAIS SANS S’Y LIMITER, DES DOMMAGES POUR MANQUE À GAGNER, PERTE DE DONNÉES, PERTE D’UTILISATION, D’ÉQUIPEMENT OU D’INSTALLATIONS, OU INTERRUPTION  D’ACTIVITÉS, DÉCOULANT D’UNE MANIÈRE OU D’UNE AUTRE DES PRÉSENTES CONDITIONS GÉNÉRALES, QUEL QU’EN SOIT LE FONDEMENT, QU’APPLE ET SES CONCÉDANTS DE LICENCE AIENT ÉTÉ OU NON PRÉVENUS DE L’ÉVENTUALITÉ D’UN TEL DOMMAGE. D’AUTRES LIMITATIONS DE RESPONSABILITÉ PEUVENT FIGURER DANS LES CONDITIONS DE LICENCE APPLICABLES AU LOGICIEL D’ACCÈS À DISTANCE ET SONT DISPONIBLES SUR http://www.apple.com/legal/sales-support/remote-support/. SI LE CLIENT EST COUVERT PAR DES LOIS OU DES RÉGLEMENTATIONS DE PROTECTION DU CONSOMMATEUR DANS SON PAYS D’ACHAT OU SON PAYS DE RÉSIDENCE, SI CE DERNIER EST DIFFÉRENT, LES AVANTAGES CONFÉRÉS PAR LES PRÉSENTES CONDITIONS GÉNÉRALES S’AJOUTENT AUX DROITS ET RECOURS INDUITS PAR CES LOIS ET RÉGLEMENTATIONS DE PROTECTION DU CONSOMMATEUR. CERTAINS PAYS, ÉTATS ET PROVINCES N’AUTORISENT PAS L’EXCLUSION OU LA LIMITATION DES DOMMAGES ACCIDENTELS OU CONSÉCUTIFS OU LES EXCLUSIONS OU LIMITATIONS DES GARANTIES OU CONDITIONS IMPLICITES, DONC LES LIMITATIONS OU EXCLUSIONS CI-DESSUS PEUVENT NE PAS S’APPLIQUER AU CLIENT. LES PRÉSENTES CONDITIONS GÉNÉRALES DONNENT AU CLIENT DES DROITS SPÉCIFIQUES, ET LE CLIENT PEUT ÉGALEMENT AVOIR D’AUTRES DROITS EN FONCTION DU PAYS, DE L’ÉTAT OU DE LA PROVINCE.
+
+8.	Durée et résiliation. Sauf résiliation anticipée en conformité avec le présent article, un Contrat d’assistance a une durée de douze (12) mois à compter de sa Date d’entrée en vigueur, ou jusqu’à ce que tous les Cas d’assistance aient été utilisés, selon la première éventualité (sauf accord écrit contraire d’Apple). Apple ne fournira pas de Services d’assistance au-delà du terme de votre Contrat d’assistance, sauf si celui-ci est renouvelé au plus tard à sa date d’échéance. Apple peut résilier un Contrat d’assistance à tout moment (a) si après adressé au Client un préavis écrit d’au moins quinze (15) jours, celui-ci ne paie pas les frais dus pour un Contrat d’assistance ; ou (b) si après avoir adressé au Client un préavis d’au moins trente (30) jours, celui-ci ne remédie pas à une violation des présentes Conditions Générales ; ou (c) si le Client ne respecte pas une condition d’une licence de logiciel régissant l’utilisation d’un logiciel fourni dans le cadre d’un Contrat d’assistance. Sauf si la loi en dispose autrement, et sous réserve de n’avoir reçu aucun Service d’assistance, le Client peut résilier un Contrat d’assistance pour quelque raison que ce soit dans les trente (30) jours suivant la date de souscription ou la Date d’entrée en vigueur du Contrat d’assistance, selon la première éventualité, et recevoir le remboursement de toutes les sommes payées. Les demandes de remboursement doivent être envoyées par écrit, avec une preuve valable d’achat, à l’adresse de Remboursement indiquée ci-après. Les articles 6, 7 et 12 resteront en vigueur au-delà de la résiliation des présentes Conditions générales, pour quelque raison que ce soit.
+
+9.	Apple ; droit applicable. « Apple » est identifiée dans le tableau ci-dessous en fonction du pays de résidence du Client. IL EST CONVENU QUE LES PRÉSENTES CONDITIONS GÉNÉRALES SONT RÉGIES PAR LES LOIS DU PAYS D’ACHAT, OU EN CAS DE DIVERGENCE ENTRE LE PAYS D’ACHAT ET LE PAYS DE RÉSIDENCE, PAR LES LOIS DU PAYS DE RÉSIDENCE, LES JURIDICTIONS RESPECTIVES DE CES PAYS ÉTANT COMPÉTENTES POUR TOUT LITIGE. 
+
+10.	Services ou Logiciels additionnels. Tous services additionnels fournis comme partie d’un Contrat d’assistance seront régis par les présentes Conditions générales. Si les Services d’assistance sont fournis dans les locaux d’un Client dans le cadre d’un Contrat d’assistance, le Client fera en sorte qu’Apple ait accès à ces locaux à l’heure convenue et veillera à ce que l’environnement de travail soit suffisamment sécurisé pour qu’Apple puisse assurer ses Services d’assistance. Si un logiciel est fourni dans le cadre d’un Contrat d’assistance, ledit logiciel est protégé par le copyright d’Apple Inc. et/ou de ses concédants de licence. Le Client peut installer, reproduire et utiliser le logiciel uniquement pour assister le Produit assisté ; sauf si la loi en vigueur le permet, il ne peut pas décompiler, démonter, modifier, louer, céder, prêter le logiciel ou créer des travaux dérivés du logiciel. Si le logiciel est régi par un accord de licence distinct, les conditions de l’accord de licence distinct régiront l’utilisation du logiciel. Tout logiciel mis à disposition du Gouvernement des États-Unis en vertu de ces Conditions générales est classé comme « logiciel informatique confidentiel » tel que défini par l’article 52.227-19 de FAR. Les droits du Gouvernement des États-Unis concernant le logiciel sont énoncés à l’article 52.227-19 de FAR.
+
+11.	Protection des données. Le Client convient qu’il est nécessaire pour Apple de recueillir, traiter et utiliser les données des Clients afin d’exécuter ses obligations de service et d’assistance dans le cadre du Contrat d’assistance. Cela peut inclure le transfert de données du Client à des Sociétés affiliées ou à des prestataires de services conformément aux conditions de l’Engagement de confidentialité d’Apple (http://www.apple.com/legal/warranty/privacy). Apple protègera les informations du Client en conformité avec l’Engagement de confidentialité d’Apple. Si le Client souhaite avoir accès aux informations le concernant détenues par Apple, ou s’il souhaite leur apporter des corrections, il peut mettre à jour les préférences de contact personnel en accédant à la page web Mise à jour de la confidentialité (http://www.apple.com/contact/myinfo). Apple peut enregistrer tout ou partie des appels entre le Client et Apple à des fins de formation, d’assurance qualité et de référence.
+
+12.	Généralités. Le Client ne peut pas céder ses droits ou obligations au titre d’un Contrat d’assistance. Toute cession non autorisée sera nulle. Apple ne sera pas responsable des retards d’exécution ou en cas de non-exécution, dus à des causes échappant à son contrôle normal. Le fait de ne pas sanctionner un manquement ou une défaillance dans le cadre des présentes Conditions générales ne vaut pas renonciation en cas de manquement ou défaillance ultérieurs. Si un tribunal compétent déclare qu’une clause des présentes Conditions générales n’est pas valable ou applicable, les autres dispositions resteront pleinement en vigueur, et les parties remplaceront la clause non valable ou non applicable par une clause valable et applicable qui remplit l’objet de la première intention des parties et les effets économiques des présentes Conditions générales. Les présentes Conditions Générales, y compris toutes les conditions additionnelles référencées ici, constituent l’accord entier entre Apple et le Client en ce qui concerne le Contrat et les Services d’assistance et remplacent tout autre négociation, accord et interprétations à ce propos ; tout ajout, retrait ou modification des présentes doit être fait par écrit et signé par un représentant autorisé d’Apple pour être opposable à cette dernière. Tout terme ou toute condition figurant sur une commande ou sur tout autre document présenté par le Client sera sans effet et est expressément rejeté. 
+
+VARIATIONS EN FONCTION DES PAYS
+
+Les variations ci-après s’appliqueront en cas de contradiction entre les règles applicables dans le pays concerné et les stipulations du Contrat d’assistance :
+
+AUSTRALIE
+Les droits décrits dans les présentes Conditions générales eu égard aux retours, remboursements et garanties s’ajoutent aux droits légaux auxquels vous pouvez prétendre en vertu de la Loi sur la concurrence et la consommation de 2010, et des autres lois et réglementations australiennes sur la protection des consommateurs applicables.
+
+BELGIQUE
+Le Client reconnaît qu’en contactant Apple pour les Services d’assistance, il n’exerce aucun droit concernant un contrat de vente antérieur au sens de l’article 94 ter. de la Loi sur les pratiques du commerce et sur l’information et la protection du consommateur du 14 juillet 1991.
+
+ALLEMAGNE
+Clause 7. Limitation de responsabilité. Dans la mesure où le Client est un Consommateur, ce qui suit s’appliquera : Apple ne sera responsable des dommages occasionnés par la mise en œuvre du Contrat d’assistance, que dans les limites des stipulations suivantes : (i) responsabilité illimitée pour les dommages causés intentionnellement ou à raison d’une grave négligence, (ii) responsabilité illimitée en cas de mort, dommage résultant d’une atteinte à la personne ou à la santé, causé intentionnellement ou à raison d’une négligence, (iii) pour les dommages résultant d’un défaut de conformité (à une caractéristique garantie), dans la limite du montant couvert par l’objet de la garantie et de ce qui était prévisible pour Apple au jour où la garantie a été donnée, (iv) conformément à la Loi sur la responsabilité du fait des produits, en cas de responsabilité du fait des produits, ou (v) pour les dommages causés par le manquement à l’un des devoirs de base d’Apple qui constituent l’essence même du Contrat d’assistance, qui constituent des éléments déterminants de l’intention de contracter du Client et sur lesquels le Client peut compter. Toute responsabilité additionnelle d’Apple est exclue sur le fond.
+
+ITALIE
+Clause 4. Responsabilités du Client. Ce qui suit s’ajoute à la Clause 4 :
+
+Les coûts des communications par e-mail et téléphone sont ceux appliqués par le fournisseur d’accès Internet/l’opérateur téléphonique.
+
+NORVÈGE
+Clause 8. Durée et résiliation : Ce qui suit s’ajoute à la Clause 8 : 
+
+Si vous êtes un consommateur, veuillez noter que votre droit de rétractation, selon la Loi norvégienne sur le droit de rétractation en matière de vente (Loi du 21 décembre 2000 no. 105), est pris en compte dans la Clause 8, Durée et résiliation. 
+
+SUÈDE
+Clause 1. Services. Ce qui suit s’ajoute à la Clause 1 :
+
+Si les modifications apportées au Contrat d’assistance sont significativement préjudiciables au Client, le Client est en droit de résilier le Contrat d’assistance conformément aux stipulations de la Clause 8 ci-dessous.
+
+Clause 8. Durée et résiliation. La phrase suivante : « Si Apple apporte une quelconque modification au Contrat d’assistance significativement préjudiciable au Client, par exemple en annulant le Service d’assistance en rapport avec le produit du Client, le Client est en droit de résilier le Contrat d’assistance et de recevoir un remboursement calculé au prorata de la durée restante du Contrat d’assistance » est ajoutée à la suite de « Sauf si la loi en dispose autrement, et sous réserve de n’avoir reçu aucun Service d’assistance, le Client peut résilier un Contrat d’assistance pour quelque raison que ce soit dans les trente (30) jours suivant la date de souscription ou la Date d’entrée en vigueur du Contrat d’assistance, selon la première éventualité, et recevoir le remboursement de toutes les sommes payées ».
+
+Région/pays d’achat
+Apple
+Adresse
+Amériques
+
+
+Brésil
+Apple Computer Brasil Ltda
+Rua: Leopoldo Couto Magalhães Júnior, nº 700, 7º andar, São Paulo, SP, Brésil 
+
+04542-000
+
+SAC : 0800-761-0880
+
+http://www.apple.com/br/support
+Canada
+Apple Canada Inc.
+7495 Birchmount Rd.; Markham, Ontario, Canada; L3R 5G2 Canada
+Mexique
+Apple Operations Mexico, S.A. de C.V.
+Prolongación Paseo de la Reforma #600, Suite 132, Colonia Peña Blanca, Santa Fé, Delegación Álvaro Obregón, México D. F., CP 01210, Mexique
+États-Unis et autres pays d’Amérique
+Apple Inc.
+1 Infinite Loop ; Cupertino, CA 95014, États-Unis
+Europe, Moyen-Orient et Afrique
+
+
+Fédération de Russie
+Limited Liability Company Apple Rus
+5 Petrovka Street, Berlin House Business Center, 107031, Moscou, Fédération de Russie
+Turquie
+Apple Teknoloji ve Satış Limited Şirketi
+FSM Mahallesi Poligon Caddesi Buyaka 2 Sitesi No:8, Blok No.2 (C Blok) Kat:18 34471 Ümraniye İstanbul, Turquie
+Tous les autres pays
+Apple Distribution International
+Hollyhill Industrial Estate Hollyhill, Cork, République d’Irlande
+Asie-Pacifique
+
+
+Australie ; Nouvelle-Zélande ; Fidji, Papouasie-Nouvelle-Guinée ; Vanuatu
+Apple Pty. Limited.
+PO Box A2629, Sydney South, NSW 1235, Australie Tél. : 133 622
+Hong Kong
+Apple Asia Limited
+2401 Tower One, Times Square, Causeway Bay ; Hong Kong
+Inde
+Apple India Private Ltd..
+19th Floor, Concorde Tower C, UB City No 24, Vittal Mallya Road, Bangalore 560-001, Inde
+Japon
+Apple Japan Inc.
+6-10-1 Roppongi, Minato-ku Tokyo 106-6140, Japon
+Corée
+Apple Korea Ltd.
+3901, ASEM Tower ; 159, Samsung-dong, Gangnam-Gu ; Séoul 135-798, République de Corée
+Afghanistan, Bangladesh, Bhoutan, Brunei, Cambodge, Guam, Indonésie, Laos, Singapour, Malaisie, Népal, Pakistan, Philippines, Sri Lanka, Vietnam
+Apple South Asia Pte. Ltd.
+7 Ang Mo Kio Street 64
+
+Singapore 569086
+
+
+République populaire de Chine
+Apple Computer Trading (Shanghai) Co. Ltd. 
+Units 610-13 on partial Floor 6, HSBC Building (i.e., Tower A), Shanghai ifc, 8 Century Avenue, Pudong New Area, Shanghai, Chine
+Thaïlande
+Apple South Asia (Thailand) Limited
+44th Floor ,Room No. HH4401-6, The Offices at Central World, 999/9 Rama 1 Road , Pathumwan, Pathumwan , Bangkok 10330 Thaïlande
+Taiwan
+Apple Asia LLC
+19F., No.1, Songzhi Rd., Xinyi Dist., Taipei City 110, Taiwan
+Autres pays de l’Asie-Pacifique
+Apple Inc.
+1 Infinite Loop ; Cupertino, CA 95014, États-Unis
+
+071814 Tech Support EMEA French v1.8
+

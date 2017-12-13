@@ -1,0 +1,16 @@
+{
+    "segments": [
+        {
+            "identifier": "all",
+            "titleLocalizationKey": "PROFILE_ALL_SEGMENT_TITLE"
+        },
+        {
+            "identifier": "my_music",
+            "titleLocalizationKey": "PROFILE_MY_MUSIC_SEGMENT_TITLE"
+        },
+        {
+            "identifier": "connect",
+            "titleLocalizationKey": "PROFILE_CONNECT_SEGMENT_TITLE"
+        }
+    ]
+}
