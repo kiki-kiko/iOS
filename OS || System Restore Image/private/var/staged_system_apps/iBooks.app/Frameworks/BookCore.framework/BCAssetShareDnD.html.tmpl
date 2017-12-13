@@ -1,0 +1,25 @@
+<html>
+    <head>
+		<style>
+			#container {
+			    border-radius: 15px;
+			    border: 1px solid #CDCDCD;
+			    padding: 20px;
+				display: flex;
+			}
+            img {
+                vertical-align: text-top;
+            }
+            a { text-decoration: none; display: inline-block; }
+            * { font-family:System Font; font-size:20px; line-height:1.4 }
+		</style>
+    </head>
+    <body>
+        <a <!-- %%STORE_URL%% -->>
+            <div id="container">
+                <div><!-- %%ASSET_INFO%% --></div>
+                <div><img style="<!-- %%COVER_HEIGHT%% --> <!-- %%COVER_WIDTH%% -->" src="data:image/png;base64,<!-- %%COVER_IMAGE_SOURCE%% -->"></div>
+            </div>
+        </a>
+    </body>
+</html>

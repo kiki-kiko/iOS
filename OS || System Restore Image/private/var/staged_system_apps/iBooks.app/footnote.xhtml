@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ibooks="http://apple.com/ibooks/html-extensions">
+    <head>
+        <title>Footnote</title>
+        <style type="text/css">
+@namespace ibooks "http://apple.com/ibooks/html-extensions";
+            
+body > div:first-child {
+    font-size: 200%%;
+}
+body > div:first-child[ibooks|footnoteTitleEnhance="on"] {
+    font-size: 300%%;
+    line-height: 0;
+}
+            
+body > div:first-child[ibooks|footnoteTitleEnhance="on"] > span {
+    vertical-align: text-bottom;
+}
+        </style>
+    </head>
+    <body>
+        <div><span></span></div>
+        <div>
+            %@
+        </div>
+    </body>
+</html>

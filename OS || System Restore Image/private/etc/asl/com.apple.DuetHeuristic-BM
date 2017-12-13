@@ -1,0 +1,4 @@
+# Even though BM currently does not use ASL, this tells ASL to rotate the log file
+# daily by copying it, compressing it, and then truncating the existing file. 
+# It will also delete files older than two weeks old.
+> /var/mobile/Library/Logs/CoreDuet/DuetHeuristic-BM.log extern rotate=local compress truncate mode=0644 ttl=14 all_max=1024M

@@ -1,0 +1,53 @@
+.__MF_attachmentIcon {
+    width: 160px !IMPORTANT;
+    height: 120px !IMPORTANT;
+    border-radius: 15px;
+    border: 1px rgba(0, 0, 0, 0.3) solid;
+    
+    margin: 5px;
+    padding: 3px;
+    display: inline-block;
+    
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    
+    /* disables text selection */
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+}
+
+.__MF_attachmentIcon:active {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.__MF_attachmentIcon .container {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.__MF_attachmentIcon .downloadableStatusLabel, .__MF_attachmentIcon .downloadingStatusLabel, .__MF_attachmentIcon .filesizeLabel, .__MF_attachmentIcon .fileinfoLabel {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.__MF_attachmentIcon .downloadableStatusLabel, .__MF_attachmentIcon .downloadingStatusLabel {
+    color: -apple-system-blue;
+    font: -apple-system-footnote;
+    font-weight: bold;
+}
+
+.__MF_attachmentIcon .fileinfoLabel, .__MF_attachmentIcon .filesizeLabel {
+    color: rgba(4, 4, 15, 0.45);
+    font: -apple-system-caption1;
+}
+
+.__MF_attachmentIcon .progressIndicator, .__MF_attachmentIcon .iconImage {
+    margin-bottom: 8px;
+}
+
+.__MF_attachmentIcon .iconImage {
+    width: 37px;
+    height: 48px;
+}

@@ -1,0 +1,7 @@
+##
+# configuration file for syslogd and aslmanager
+##
+
+= enable [Plist /private/var/mobile/Library/Preferences/com.apple.locationd.plist] [N>= LogFileLevel 0]
+
+? [= Facility com.apple.pipelined] file /var/root/Library/Caches/locationd/pipelined.log all_max=100M compress rotate=local dest=/var/root/Library/Caches/locationd/logs format=$((Time)(ISO8601.3))\ $Host\ $(Sender)[$(PID)]\ <$((Level)(str))>:\ $Message

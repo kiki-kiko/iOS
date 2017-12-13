@@ -1,0 +1,16 @@
+# Make our .asl facility logs to not go to the main syslog
+? [A= Facility com.apple.icloud.fmfd.asl] claim
+? [A= Facility com.apple.icloud.fmf.framework.asl] claim
+? [A= Facility com.apple.icloud.fmfui.framework.asl] claim
+
+# Define permissions for our directory
+> /var/mobile/Library/Logs/FMFD uid=501 gid=501 mode=0755
+
+# Define permissions & rotate settings for our log files
+> /var/mobile/Library/Logs/FMFD/FMFD.asl format=asl rotate=seq compress uid=501 gid=501 file_max=10M all_max=100M ttl=3 soft
+
+# Redirect all our messages to our log file
+? [= Facility com.apple.icloud.fmfd.console] file /var/mobile/Library/Logs/FMFD/FMFD.asl
+? [A= Facility com.apple.icloud.fmfd.asl] file /var/mobile/Library/Logs/FMFD/FMFD.asl
+? [A= Facility com.apple.icloud.fmf.framework.asl] file /var/mobile/Library/Logs/FMFD/FMFD.asl
+? [A= Facility com.apple.icloud.fmfui.framework.asl] file /var/mobile/Library/Logs/FMFD/FMFD.asl

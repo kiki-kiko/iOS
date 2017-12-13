@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<style type="text/css">
+/* OK, establish some ground rules. */
+/* VERY IMPORTANT: it is critical to update the table updatePageMetrics() to synchronize with this
+                   stylesheet. Unfortunately, we have to update the page without a visually
+                   disruptive page reload. */
+
+html {
+    /*overflow-y: hidden;*/
+    height: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.setupWritingMode {
+    -epub-writing-mode: vertical-rl;
+    height: 100%;
+}
+
+nav, nav li {
+    margin: 0;
+}
+
+/* List item formatting */
+nav li {
+    padding-left: 18px;
+    padding-right: 18px;
+    position: relative;
+}
+
+.divider {
+    background-image: url({{.dividerImageURI}});
+    background-repeat: no-repeat;
+    background-size: 1px 100%;
+    bottom: {{.rightContentInset}};
+    right: 0;
+    position: absolute;
+    width: 1px;
+}
+
+li.indentation0 .divider {
+    top: {{.leftIndentZero}};
+}
+
+li.indentation1 .divider {
+    top: {{.leftIndentOne}};
+}
+
+li.indentation2 .divider {
+   top: {{.leftIndentTwo}};
+}
+
+nav ol {
+    list-style: none;
+    margin: 0;
+    -webkit-padding-start: 0;
+    -webkit-padding-end: 0;
+}
+
+/* Text formatting */
+html, body, section, nav, ol, div, p,
+  li, span, a, a:link, a:visited, ruby, rt, rp {
+    text-decoration: none;
+    font-weight: normal;
+    font-family: {{.chapterTopLevelFontFamily}};
+}
+
+html, body, section, nav, ol, div, p,
+  li, a, a:link, a:visited {
+    color: {{.textColor}};
+    line-height: {{.chapterTopLevelFontSize}};
+    font-size: {{.chapterTopLevelFontSize}};
+}
+
+nav li.indentation1, nav li.indentation1 p, nav li.indentation1 span, nav li.indentation1 a, nav li.indentation1 ruby, nav li.indentation1 rt, nav li.indentation1 rp,
+  nav li.indentation2, nav li.indentation2 p, nav li.indentation2 span, nav li.indentation2 a, nav li.indentation2 ruby, nav li.indentation2 rt, nav li.indentation2 rp {
+    font-family: {{.chapterSubLevelFontFamily}};
+}
+
+nav li.indentation1, nav li.indentation1 p, nav li.indentation1 a
+  nav li.indentation2, nav li.indentation2 p, nav li.indentation2 a {
+    font-size: {{.chapterSubLevelFontSize}};
+}
+
+/* Page numbers */
+div.-ibooks-toc-page-number {
+	-epub-writing-mode: horizontal-tb;
+    bottom: calc(5px + {{.rightContentInset}});
+    height: 13px;
+    line-height: 13px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    width: 100%;
+    cursor: default;
+}
+
+div.-ibooks-toc-page-number span.-ibooks-toc-page-number {
+    font-family: {{.pageLabelFontFamily}};
+    font-size: {{.pageLabelFontSize}};
+    color: {{.pageNumberTextColor}};
+}
+
+/* Blue inital selection, blue active row */
+a:active,
+  a:active span,
+  a:active + div.-ibooks-toc-page-number span.-ibooks-toc-page-number,
+  a.currentLocation,
+  li.selectedNode a,
+  li.selectedNode a span,
+  li.selectedNode div.-ibooks-toc-page-number span.-ibooks-toc-page-number {
+  color: {{.textHighlightColor}};
+}
+
+li.selectedNode {
+    background-color: {{.selectedBackgroundColor}};
+}
+
+/* Page doesn't exist?  Look disabled */
+li.notPageExists,
+li.notPageExists a,
+  li.notPageExists a:active,
+  li.notPageExists a span,
+  li.notPageExists a:active span {
+  color: {{.textNotPageExistsColor}};
+}
+
+
+nav ol li.indentation0 {
+    -webkit-padding-start: {{.leftIndentZero}};
+    -webkit-padding-end: calc({{.rightIndent}} + {{.rightContentInset}});
+}
+
+nav ol li.indentation1 {
+    -webkit-padding-start: {{.leftIndentOne}};
+    -webkit-padding-end: calc({{.rightIndent}} + {{.rightContentInset}});
+}
+
+nav ol li.indentation2 {
+    -webkit-padding-start: {{.leftIndentTwo}};
+    -webkit-padding-end: calc({{.rightIndent}} + {{.rightContentInset}});
+}
+
+
+/* we do not want the user to be able to select text!*/
+*{
+    -webkit-user-select: none;
+    -webkit-touch-callout: none !important;
+}
+
+a {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+img {
+	width: 1em; /* In a vertical TOC, width becomes the "height" of the image relative to the text. */
+}
+
+{{.idCssRules}}
+
+		</style>
+        <script type="text/javascript">
+            //<![CDATA[
+            function updatePageNumberStrings(PNs)
+            {
+                var PNSpans = document.querySelectorAll("div.-ibooks-toc-page-number span.-ibooks-toc-page-number");
+                for (var i = 0; i < PNSpans.length; i++)
+                {
+                    if (PNSpans[i].innerText != PNs[i])
+                    {
+                        PNSpans[i].innerText = "";
+                        PNSpans[i].innerText = "" + PNs[i];
+                    }
+                };
+            }
+            
+            function updatePageStylesheet(arrayOfOneStylesheet)
+            {
+                var head = document.getElementsByTagName('head')[0];
+                var style = document.createElement('style');
+                var css = arrayOfOneStylesheet[0];
+                style.type = 'text/css';
+                style.appendChild(document.createTextNode(css));
+                head.appendChild(style);
+            }
+            
+            function selectLink(href)
+            {
+                var chapters = document.chapters;
+                var anchors = document.querySelectorAll("nav ol li a");
+                for (var j = 0; j < anchors.length; j++)
+                {
+                    var anchor = anchors[j];
+                    var listItem = anchors[j].parentNode;
+                    var extraClass = (anchor.getAttribute("href") == href) ? " selectedNode" : "";
+                    listItem.className = chapters[j]["class"] + extraClass;
+                }
+            }
+            
+            function clearSelectedLink()
+            {
+                var chapters = document.chapters;
+                var listItems = document.querySelectorAll("nav ol li");
+                for (var j = 0; j < listItems.length; j++)
+                {
+                    var listItem = listItems[j];
+                    listItem.className = chapters[j]["class"];
+                };
+            }
+
+            function setupTOCWithChapters(chapters)
+            {
+                document.chapters = chapters;
+                
+                var setupWritingModeDiv = document.getElementById("setupWritingMode");
+                return JSON.stringify({"width": setupWritingModeDiv.scrollWidth, "height": setupWritingModeDiv.scrollHeight});
+            }
+
+            function triggerLink(href)
+            {
+                document.location = href;
+            }
+            
+            function applyClassNameToOnlyLinkWithHref(href, className)
+            {
+                var anchors = document.querySelectorAll("nav ol li a");
+                for (var i = 0 ; i < anchors.length; i++)
+                {
+                    var anchorEl = anchors[i];
+                    var anchorElHrefPath = anchorEl.href.split('/').pop();
+                    if ((anchorElHrefPath == href && !anchorEl.classList.contains(className)) ||
+                        (anchorElHrefPath != href &&  anchorEl.classList.contains(className)))
+                    {
+                        anchorEl.classList.toggle(className);
+                    }
+                }
+            }
+            
+            function scrollToItemWithId(itemId)
+            {
+                var elementToExpose = document.getElementById(itemId);
+                document.body.scrollLeft = elementToExpose.offsetLeft - window.innerWidth + window.innerWidth/2 + elementToExpose.offsetWidth/2;
+            }
+
+            //]]>
+        </script>
+	</head>
+	<body>
+        <div id="setupWritingMode" class="setupWritingMode">
+        <nav type="epub:toc">
+        <ol>
+  <!-- Use onclick because ontouchend triggers at times it shouldn't, like at the end of swipe gestures. -->
+{{range chapters}}
+  <li class="{{.class}}" id="{{.id}}" onclick="triggerLink('{{.href}}')" ontouchmove="clearSelectedLink()" ontouchstart="selectLink('{{.href}}')" ontouchcancel="clearSelectedLink()"><a href="{{.href}}">{{.title}}</a><div class="-ibooks-toc-page-number"><span class="-ibooks-toc-page-number">{{.pageNumber}}</span></div><div class="divider" /></li>
+{{end range chapters}}
+        </ol>
+        </nav>
+        </div>
+	</body>
+</html>

@@ -1,0 +1,1 @@
+> /var/mobile/Library/Logs/com.apple.duetexpertd/duetexpertd.log extern rotate=local compress truncate mode=0644 ttl=14 all_max=16M

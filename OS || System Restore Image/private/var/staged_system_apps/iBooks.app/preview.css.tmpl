@@ -1,0 +1,25 @@
+html {
+    height: 100%;
+}
+body {
+{{if contentColor}}
+    color: #{{.contentColor.hexValue}};
+{{end contentColor}}
+    font-family: 'Baskerville';
+    height: 100%;
+{{if contentBackgroundColor}}
+    background-color: #{{.contentBackgroundColor.hexValue}};
+{{end contentBackgroundColor}}
+}
+
+{{if shouldInvertContent}}
+body * {
+    color: inherit !important;
+    background-color: transparent !important;
+}
+{{end shouldInvertContent}}
+
+* {
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}

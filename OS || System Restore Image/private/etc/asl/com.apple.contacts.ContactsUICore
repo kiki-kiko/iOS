@@ -1,0 +1,5 @@
+> /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/com.apple.contacts.ContactsUICore uid=501 gid=501 mode=0750
+
+? [= Facility com.apple.contacts.ContactsUICore] claim only
+
+? [= Facility com.apple.contacts.ContactsUICore] [= Category Debug] file /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/com.apple.contacts.ContactsUICore/Debug.log rotate=Debug.local.log ttl=7 file_max=10M all_max=200M compress fmt='$(Time) $(Host) $(Sender)[$(PID):$(ThreadID)] <$((Level)(str))>: $(Function):$(Line) | $(Message)' uid=501 gid=501

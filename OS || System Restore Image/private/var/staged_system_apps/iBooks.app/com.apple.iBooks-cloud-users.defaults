@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKFullJustification</key>
+	<dict>
+		<key>NSUserDefaultsDefaultValue</key>
+		<true/>
+	</dict>
+    
+	<key>BKAutoHyphenation</key>
+	<dict>
+		<key>NSUserDefaultsDefaultValue</key>
+		<true/>
+	</dict>
+    
+	<key>BKLeftTapTurnToNext</key>
+	<dict>
+		<key>NSUserDefaultsDefaultValue</key>
+		<false/>
+	</dict>
+    
+	<key>BKAllowOnlineContent</key>
+	<dict>
+		<key>NSUserDefaultsDefaultValue</key>
+		<true/>
+	</dict>
+    
+	<key>BKAudioBookSkipForward</key>
+	<dict>
+		<key>NSUserDefaultsDefaultValue</key>
+		<integer>15</integer>
+	</dict>
+    
+	<key>BKAudioBookSkipBackward</key>
+	<dict>
+		<key>NSUserDefaultsDefaultValue</key>
+		<integer>15</integer>
+	</dict>
+    
+    <key>AEAudioBookPlaybackRateUserDefaultsKey</key>
+    <dict>
+        <key>NSUserDefaultsDefaultValue</key>
+        <float>1.0</float>
+    </dict>
+    
+    <key>BKDefaultUnderlineState</key>
+    <dict>
+        <key>NSUserDefaultsDefaultValue</key>
+        <false/>
+    </dict>
+    
+    <key>BKDefaultHighlightColor</key>
+    <dict>
+        <key>NSUserDefaultsDefaultValue</key>
+        <integer>3</integer> <!-- yellow -->
+    </dict>
+    
+    <key>BKDefaultAppearanceStyle</key>
+    <dict>
+        <key>NSUserDefaultsDefaultValue</key>
+        <integer>0</integer> <!-- white -->
+    </dict>
+    
+    <key>BKAppearanceDisableAutoNightModeSwitchKey</key>
+    <dict>
+        <key>NSUserDefaultsDefaultValue</key>
+        <false/> <!-- default to on; this is the disabled key -->
+    </dict>
+    
+    <key>BKFlowingBookViewControllerStyleBeforeAutoNight</key>
+    <dict>
+        <!-- no default -->
+    </dict>
+    
+    <key>BKReadAloudAutoPageTurn</key>
+    <dict>
+        <key>NSUserDefaultsDefaultValue</key>
+        <false/>
+    </dict>
+    
+    <key>BKEpubLayoutKey</key>
+    <dict>
+        <!-- no default -->
+    </dict>
+    
+    <key>BKFlowingBookViewControllerShowPhysicalPages</key>
+    <dict>
+        <key>NSUserDefaultsDefaultValue</key>
+        <false/>
+    </dict>
+    
+    <key>BKMainViewControllerLastBook</key>
+    <dict>
+        <key>NSUserDefaultsDefaultValue</key>
+        <string></string>
+    </dict>
+    
+    <key>BKMainViewControllerSuccessfullyOpenedBook</key>
+    <dict>
+        <key>NSUserDefaultsDefaultValue</key>
+        <true/>
+    </dict>
+    
+    <key>BKLibraryViewControllerCurrentCollectionKey.12162014</key>
+    <dict>
+        <!-- no default -->
+    </dict>
+</dict>
+</plist>

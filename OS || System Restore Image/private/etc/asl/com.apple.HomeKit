@@ -1,0 +1,4 @@
+# We claim all messages at Error or below.  This means ASL only sees Error messages.
+? [= Facility com.apple.HomeKit] [> Level error] claim
+
+? [= Facility com.apple.HomeKit] file /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/HomeKit.log rotate=HomeKit.lcl-basic.log symlink file_max=10M all_max=50M compress uid=501 gid=501 format=$((Time)(lcl.3))\ $(Sender)[$(PID)]\($((Level)(char))\):\ $(Message)

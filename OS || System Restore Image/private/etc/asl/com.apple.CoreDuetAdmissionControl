@@ -1,0 +1,12 @@
+# ASL configuration.  
+# Capture all facility messages and save to ASL log, with rotation.
+# when changed do: kill -hup <syslogd>
+
+# Define permissions & rotate settings for our log files
+> /var/mobile/Library/Logs/CoreDuet/CoreDuetAdmission.asl format=asl rotate=local compress uid=501 gid=501 file_max=20M all_max=20M ttl=0
+
+
+# Redirect all our messages to our log file
+? [C= Facility com.apple.CoreDuetAdmission] file /var/mobile/Library/Logs/CoreDuet/CoreDuetAdmission.asl
+? [C= Facility com.apple.CoreDuetAdmission] notify com.apple.CoreDuetAdmission
+? [C= Facility com.apple.CoreDuetAdmission] claim only
