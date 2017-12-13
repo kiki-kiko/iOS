@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SE,UpdatePayload</key>
+	<dict>
+		<key>DevelopmentUpdatePayloadHash</key>
+		<data>
+		etfBlnWYIcGEdnNIlf6vqUculEveDpLVyf8wul8tBDs=
+		</data>
+		<key>ProductionUpdatePayloadHash</key>
+		<data>
+		8cbWVqnw34Zy5KN4dGp/SBzEwYMUIvEdpzSN4jyqGD0=
+		</data>
+	</dict>
+</dict>
+</plist>
